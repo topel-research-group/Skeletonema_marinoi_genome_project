@@ -3,6 +3,6 @@
 #$ -S /bin/bash
 
 ERROR=${PWD##*/}.err
-$F=15
+F=15
 
-fastx_trimmer -Q33 -i $1 -f $F -o "${$1%.fastq}.FXT.fastq" 2>> $ERROR
+fastx_trimmer -Q33 -i $1 -f $F -o "${1%.fastq}.FXT.fastq" 2>> $ERROR
