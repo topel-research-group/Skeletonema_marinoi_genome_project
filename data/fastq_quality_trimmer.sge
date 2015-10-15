@@ -16,4 +16,4 @@
 ERROR=${PWD##*/}.err
 
 fastq_quality_trimmer -Q33 -t $2 -i $1 -o "${1%.fastq}.t-${2}.FQT.fastq" 2>> $ERROR
-fastqc "${1%.fastq}.FQT.fastq"
+fastqc "${1%.fastq}.t-${2}.FQT.fastq"
