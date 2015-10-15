@@ -9,3 +9,4 @@ P=95
 ERROR=${PWD##*/}.err
 
 fastq_quality_filter -Q33 -q $K -p $P -i $1 -o "${1%.fastq}.FQF.fastq" 2>> $ERROR
+fastqc "${1%.fastq}.FQF.fastq"
