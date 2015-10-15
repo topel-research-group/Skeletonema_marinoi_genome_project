@@ -4,7 +4,15 @@
 #$ -q high_mem
 #$ -S /bin/bash
 
-T=20
+# Script for submitting fastq_quality_trimmer analyses on Albiorix. 
+# Second argument for the script is passed to the -t flag wich sets 
+# the quality trimming cut-off value. The script ends with a fastqc 
+# analysis of the resulting fastq file.
+
+# Usage: qsub fastq_quality_trimmer.sge <fastq file> <int>
+
+
 ERROR=${PWD##*/}.err
 
-fastq_quality_trimmer -Q33 -t $T -i $1 -o "${1%.fastq}.FQT.fastq" 2>> $ERROR
+fastq_quality_trimmer -Q33 -t $2 -i $1 -o "${1%.fastq}.FQT.fastq" 2>> $ERROR
+fastqc "${1%.fastq}.FQT.fastq"
