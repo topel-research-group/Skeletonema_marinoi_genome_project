@@ -1,0 +1,51 @@
+
+#################################################################
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1              16G  4.8G  9.9G  33% /
+tmpfs                  48G     0   48G   0% /dev/shm
+/dev/sda5             125G   92G   27G  78% /state/partition1
+/dev/sde1             551G  268G  255G  52% /state/partition2
+/dev/sdf1             551G  808M  522G   1% /state/partition3
+/dev/sdd1             917G  635G  236G  73% /state/partition5
+/dev/sdc1             917G  272G  600G  32% /state/partition6
+/dev/sda2             3.9G  176M  3.5G   5% /var
+nas-0-0:/export/data1
+                      1.8T  1.6T  187G  90% /nobackup/data1
+nas-0-0:/export/data2
+                      1.8T  1.1T  692G  61% /nobackup/data2
+nas-0-0:/export/data3
+                      3.6T  2.0T  1.5T  57% /nobackup/data3
+nas-0-0:/export/data4
+                      3.6T  1.7T  1.8T  49% /nobackup/data4
+nas-0-0:/export/data5
+                      3.6T  2.1T  1.4T  60% /nobackup/data5
+nas-0-0:/export/data6
+                      3.6T  2.7T  718G  80% /nobackup/data6
+nas-0-0:/export/data7
+                      3.6T  649G  2.8T  19% /nobackup/data7
+nas-0-0:/export/data8
+                      3.6T  1.2T  2.3T  35% /nobackup/data8
+nas-0-0:/export/data9
+                      1.8T  547G  1.2T  32% /nobackup/data9
+nas-0-0:/export/data10
+                      1.8T  217G  1.5T  13% /nobackup/data10
+nas-0-0:/export/data11
+                      1.8T  527G  1.2T  31% /nobackup/data11
+nas-0-0:/export/data12
+                      1.8T  195M  1.7T   1% /nobackup/data12
+albiorix.local:/export/home/local
+                      1.8T  1.7T   27G  99% /home/local
+albiorix.local:/export/home/patrik
+                      1.8T  1.7T   27G  99% /home/patrik
+albiorix.local:/export/home/sanli
+                      1.8T  1.7T   27G  99% /home/sanli
+albiorix.local:/export/home/tobias
+                      1.8T  1.7T   27G  99% /home/tobias
+albiorix.local:/export/home/mtop
+                      1.8T  1.7T   27G  99% /home/mtop
+[--] Building initial dictionary of sequence id's in first file.
+[--] Attempting memory garbage collection
+[--] Comparing id's in second file to the dictionary.
+[--] Comparing id's in first file to the dictionary
+[--] Check if sequences in 'pair' files are in the same order
+[op] 8458138 sequnce pairs are in order
