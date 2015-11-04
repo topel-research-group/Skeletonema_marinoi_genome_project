@@ -6,8 +6,8 @@
 #$ -pe mpich 32
 #$ -S /bin/bash
 
-PREFIX=Skeletonema_MiSeq_20151016
-ASSEMBLY=/nobackup/data5/Skeletonema_marinoi_genome_project/test/Anja_Kamps_data/20151016/${PREFIX}_novo.fa
+PREFIX=Skeletonema_MiSeq_20151104
+ASSEMBLY=${PREFIX}_novo.fa
 MAPPING=/state/partition2/tmp/${PREFIX_ref}.cas
 FILE1=/nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R1_001.FQF.Pair.fastq
 FILE2=/nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R2_001.t-20.FQT.Pair.fastq
@@ -17,15 +17,16 @@ FILE5=/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1354non_m
 FILE6=/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1354non_mappers_Sm_LESS-BCT-3_P1354_2015_06_05_TRUE_non-mappers_P1354_Rev_quad_non_mappers.fastq
 FILE7=/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1355non_mappers_Sm_LESS-BCT-3_P1355_2015_06_05_TRUE_non-mappers_P1355_Fw_quad_non_mappers.fastq
 FILE8=/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1355non_mappers_Sm_LESS-BCT-3_P1355_2015_06_05_TRUE_non-mappers_P1355_Rev_quad_non_mappers.fastq
+DIST=${PREFIX}.dist
 LOG=${PREFIX}.log
 ERR=${PREFIX}.err.log
 CPU=48
 
 export TMPDIR=/state/partition2/tmp
 
-#date >> $LOG
+date >> $LOG
 echo "Starting clc_assembly analysis" >> $LOG
-time clc_assembler -v -w 64 --cpus $CPU -o $ASSEMBLY -p fb ss 100 450 -q -i $FILE1 $FILE2 -q $FILE3 $FILE4 -p bf ee 2000 4000 -q -i $FILE5 $FILE6 -p bf ee 4000 9000 -q -i $FILE7 $FILE8 >> $LOG 2>> $ERR
+time clc_assembler -v -w 64 -e $DIST --cpus $CPU -o $ASSEMBLY -p fb ss 100 450 -q -i $FILE1 $FILE2 -q $FILE3 $FILE4 -p fd ee 2000 4000 -q -i $FILE5 $FILE6 -p fd ee 4000 9000 -q -i $FILE7 $FILE8 >> $LOG 2>> $ERR
 
 date >> $LOG
 echo "Starting clc_mapper analysis" >> $LOG
@@ -33,7 +34,7 @@ time clc_mapper --cpus $CPU -o $MAPPING -p fb ss 100 450 -q -i $FILE1 $FILE2 -q 
 
 date >> $LOG
 echo "Starting clc_mapping_info analysis" >> $LOG
-time clc_mapping_info -c -n $MAPPING
+time clc_mapping_info -c -n $MAPPING > ${PREFIX}_mapping_info.txt
 
 date >> $LOG
 echo "Starting clc_sequence_info analyses" >> $LOG
