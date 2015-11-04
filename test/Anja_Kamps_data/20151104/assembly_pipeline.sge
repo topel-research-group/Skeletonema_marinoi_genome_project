@@ -3,8 +3,25 @@
 #$ -cwd
 #$ -j y
 #$ -q node0
-#$ -pe mpich 32
+#$ -pe mpich 40
 #$ -S /bin/bash
+
+# Print some informative error meassages
+err() {
+    echo "$1 exited unexpectedly";
+            exit 1;
+	    	}
+
+# Function for checking the exit code of a child process
+ckeckExit() {
+if [ "$1" == "0" ]; then
+        echo "[Done] $2 `date`";
+    else
+        err "[Error] $2 returned non-0 exit code in $1";
+        exit
+fi
+}
+
 
 PREFIX=Skeletonema_MiSeq_20151104
 ASSEMBLY=${PREFIX}_novo.fa
@@ -27,10 +44,12 @@ export TMPDIR=/state/partition2/tmp
 date >> $LOG
 echo "Starting clc_assembly analysis" >> $LOG
 time clc_assembler -v -w 64 -e $DIST --cpus $CPU -o $ASSEMBLY -p fb ss 100 450 -q -i $FILE1 $FILE2 -q $FILE3 $FILE4 -p fd ee 2000 4000 -q -i $FILE5 $FILE6 -p fd ee 4000 9000 -q -i $FILE7 $FILE8 >> $LOG 2>> $ERR
+ckeckExit $? clc_assembler
 
 date >> $LOG
 echo "Starting clc_mapper analysis" >> $LOG
 time clc_mapper --cpus $CPU -o $MAPPING -p fb ss 100 450 -q -i $FILE1 $FILE2 -q $FILE3 $FILE4 -p bf ee 2000 4000 -q -i $FILE5 $FILE6 -p bf ee 4000 9000 -q -i $FILE7 $FILE8 -d $ASSEMBLY >> $LOG 2>> $ERR
+ckeckExit $? clc_mapper
 
 date >> $LOG
 echo "Starting clc_mapping_info analysis" >> $LOG
