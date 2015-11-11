@@ -1,7 +1,0 @@
-#!/bin/bash
-
-#$ -cwd
-#$ -q node0
-#$ -pe mpich 20
-
-mapping_filtering.sh -d /nobackup/data5/data/references/In-house_bacteria/no_skeletonema_reference_assembly_HGAP-016-016536.fasta -1 /nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R1_001.fastq -2 /nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R2_001.fastq -k -t 20 -n "raw_data_to_no-skeletonema-016536"

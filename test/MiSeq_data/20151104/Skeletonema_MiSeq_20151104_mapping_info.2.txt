@@ -1,0 +1,59 @@
+Too many options: /nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R2_001.t-20.FQT.Pair.fastq
+
+usage: clc_mapping_info [options] <cas file>
+
+  Print information about a read mapping.
+
+Options:
+
+  -h / --help: Display this message.
+
+  -c / --coverage: Show more detailed coverage information
+
+  -x <n> / --maxcoverage <n>: Set the maximum coverage for the detailed coverage
+     information (from the "-c" option).
+
+  -s / --skipcontigs: Skip contig specific information
+
+  -n / --correct: Also show coverage corrected for ambiguous residues in
+     reference sequences.
+
+  -d <file> / --coveragefile <file>: Output coverage as a function of position
+     for each reference sequence to different files called <file>.001.dat,
+     <file>.002.dat, etc.
+
+  -p <par> / --paired <par>: Set the paired read mode.
+
+     par consists of four strings: <mode> <dist_mode> <min_dist> <max_dist>
+
+     mode is ff, fb, bf, bb and sets the relative orientation of read one and
+     two in a pair (f = forward, b = backward).
+
+     dist_mode is ss, se, es, ee and sets the place on read one and two to
+     measure the distance (s = start, e = end).
+
+     A typical use would be "-p fb ss 180 250" which means that the reads are
+     inverted and pointing towards each other. The distance includes both the
+     reads and the sequence between them. The distance may be between 180 and
+     250, both included.
+
+     Only read pairs satisfying these criteria are counted in the distance
+     statistics. If both the minimum and maximum distances are set to zero,
+     the actual paired status of the reads is used to determine whether they
+     pair.
+
+  -q <file> / --pairedfile <file>: Output file for distance histogram for
+     paired end data.
+
+  -i <n> / --individualfile <n>: Only generate info for one of the read files
+      specified by its number.
+
+  -f / --fast: No coverage information for a fast result.
+
+  -m / --mismatch: Show counts of mismatches, insertions and deletions.
+
+  -e <n> / --endinfo <n>: Show information about the contig nucleotides around
+     the ends of the reads up to the given distance.
+
+Version: 4.3.0.114910
+

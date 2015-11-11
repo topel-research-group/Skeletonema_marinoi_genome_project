@@ -1,0 +1,5 @@
+#$ -cwd
+#$ -q node0
+#$ -pe mpich 40
+
+blastx -query sequences_in_common.fst -db /state/partition1/db/ncbi/nr/nr -num_alignments 10 -num_threads 40 -out sequences_in_common_to_nr.BLASTx.txt

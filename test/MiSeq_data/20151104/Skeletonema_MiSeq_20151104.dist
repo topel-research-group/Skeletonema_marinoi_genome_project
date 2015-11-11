@@ -1,0 +1,5 @@
+/nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R1_001.FQF.Pair.fastq	/nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R2_001.t-20.FQT.Pair.fastq	63	607	DISTANCE_ESTIMATED
+/nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R1_001.FQF.Singles.fastq	-	0	0	NO_DATA
+/nobackup/data5/Skeletonema_marinoi_genome_project/data/S1-M_S2_L001_R2_001.t-20.FQT.Singles.fastq	-	0	0	WRONG_DIRECTION
+/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1354non_mappers_Sm_LESS-BCT-3_P1354_2015_06_05_TRUE_non-mappers_P1354_Fw_quad_non_mappers.fastq	/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1354non_mappers_Sm_LESS-BCT-3_P1354_2015_06_05_TRUE_non-mappers_P1354_Rev_quad_non_mappers.fastq	-256	-102	NEGATIVE_DISTANCE
+/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1355non_mappers_Sm_LESS-BCT-3_P1355_2015_06_05_TRUE_non-mappers_P1355_Fw_quad_non_mappers.fastq	/nobackup/data5/Skeletonema_marinoi_genome_project/data/MP-data/P1355non_mappers_Sm_LESS-BCT-3_P1355_2015_06_05_TRUE_non-mappers_P1355_Rev_quad_non_mappers.fastq	-258	-103	NEGATIVE_DISTANCE

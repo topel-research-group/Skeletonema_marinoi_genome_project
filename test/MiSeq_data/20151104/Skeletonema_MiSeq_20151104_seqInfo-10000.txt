@@ -1,0 +1,4076 @@
+
+File                           Skeletonema_MiSeq_20151104_novo.fa
+
+Number of sequences                  2127
+
+Residue counts:
+  Total                          34949967
+
+Sequence lengths:
+  Minimum                           10006
+  Maximum                           83950
+  Average                           16431.58
+  N50                               16269
+  N80                               12155
+  N90                               10941
+
+  contig_2                          10737
+  contig_3                          19386
+  contig_4                          10372
+  contig_6                          13030
+  contig_8                          13670
+  contig_11                         17001
+  contig_12                         37085
+  contig_15                         22034
+  contig_17                         22620
+  contig_18                         25378
+  contig_23                         12869
+  contig_24                         14725
+  contig_27                         28522
+  contig_48                         30791
+  contig_51                         21062
+  contig_57                         25436
+  contig_64                         33870
+  contig_66                         33340
+  contig_69                         48057
+  contig_83                         10292
+  contig_94                         34025
+  contig_99                         16301
+  contig_100                        12226
+  contig_102                        10471
+  contig_106                        14713
+  contig_120                        29942
+  contig_121                        12941
+  contig_127                        17438
+  contig_133                        10369
+  contig_134                        13521
+  contig_136                        17885
+  contig_141                        25495
+  contig_148                        21867
+  contig_155                        14879
+  contig_156                        18758
+  contig_162                        22625
+  contig_169                        29810
+  contig_171                        16145
+  contig_174                        41893
+  contig_187                        11473
+  contig_189                        16210
+  contig_193                        29947
+  contig_194                        21280
+  contig_195                        10965
+  contig_203                        19500
+  contig_207                        31616
+  contig_210                        30150
+  contig_211                        10920
+  contig_214                        33692
+  contig_218                        11033
+  contig_222                        13859
+  contig_226                        25061
+  contig_234                        16780
+  contig_238                        18095
+  contig_246                        15999
+  contig_254                        13350
+  contig_259                        40262
+  contig_269                        18792
+  contig_273                        10387
+  contig_277                        10450
+  contig_278                        13460
+  contig_280                        21587
+  contig_283                        23127
+  contig_284                        33181
+  contig_286                        11574
+  contig_293                        22534
+  contig_294                        14362
+  contig_298                        22237
+  contig_333                        32496
+  contig_335                        15166
+  contig_336                        16297
+  contig_340                        14069
+  contig_347                        23900
+  contig_351                        30918
+  contig_355                        26584
+  contig_362                        29892
+  contig_374                        18906
+  contig_375                        45936
+  contig_381                        27541
+  contig_383                        12563
+  contig_385                        23101
+  contig_388                        11594
+  contig_389                        11698
+  contig_390                        12337
+  contig_394                        38004
+  contig_399                        28882
+  contig_400                        25977
+  contig_419                        12289
+  contig_432                        12997
+  contig_433                        16752
+  contig_436                        19655
+  contig_438                        12777
+  contig_440                        26901
+  contig_441                        10241
+  contig_444                        23457
+  contig_446                        16527
+  contig_450                        10313
+  contig_457                        10525
+  contig_463                        21454
+  contig_466                        20296
+  contig_467                        11784
+  contig_474                        17821
+  contig_482                        17353
+  contig_488                        34730
+  contig_492                        12173
+  contig_497                        26177
+  contig_500                        10791
+  contig_502                        42831
+  contig_527                        10032
+  contig_538                        22387
+  contig_541                        19956
+  contig_543                        13043
+  contig_551                        46160
+  contig_560                        19058
+  contig_561                        13307
+  contig_565                        83950
+  contig_566                        43168
+  contig_573                        19829
+  contig_574                        11178
+  contig_575                        22581
+  contig_579                        14858
+  contig_584                        12681
+  contig_585                        13278
+  contig_599                        16877
+  contig_603                        22066
+  contig_604                        19174
+  contig_609                        15228
+  contig_610                        20775
+  contig_611                        11637
+  contig_614                        26996
+  contig_621                        13059
+  contig_622                        10762
+  contig_623                        13144
+  contig_632                        11065
+  contig_645                        26654
+  contig_660                        10907
+  contig_661                        29481
+  contig_667                        23506
+  contig_687                        24957
+  contig_688                        15014
+  contig_690                        12603
+  contig_692                        16172
+  contig_700                        13684
+  contig_709                        11809
+  contig_711                        19137
+  contig_714                        26763
+  contig_716                        11383
+  contig_725                        15584
+  contig_727                        13770
+  contig_728                        16122
+  contig_730                        15782
+  contig_731                        23340
+  contig_757                        14648
+  contig_761                        13781
+  contig_763                        23516
+  contig_767                        15973
+  contig_771                        11154
+  contig_775                        42452
+  contig_783                        10958
+  contig_785                        20926
+  contig_792                        21653
+  contig_794                        12286
+  contig_795                        22495
+  contig_803                        21551
+  contig_817                        12190
+  contig_818                        27051
+  contig_820                        21430
+  contig_830                        22540
+  contig_834                        18158
+  contig_838                        37326
+  contig_839                        19369
+  contig_841                        55101
+  contig_848                        17876
+  contig_854                        10614
+  contig_856                        12742
+  contig_864                        22589
+  contig_877                        27550
+  contig_879                        22823
+  contig_883                        13379
+  contig_893                        12316
+  contig_894                        65298
+  contig_902                        19104
+  contig_908                        20410
+  contig_912                        13101
+  contig_925                        42330
+  contig_928                        10102
+  contig_933                        18962
+  contig_938                        22588
+  contig_945                        11682
+  contig_965                        25683
+  contig_973                        18421
+  contig_984                        10202
+  contig_985                        34657
+  contig_996                        34796
+  contig_1011                       14484
+  contig_1014                       13188
+  contig_1022                       34058
+  contig_1035                       19787
+  contig_1055                       16841
+  contig_1058                       24486
+  contig_1065                       19465
+  contig_1077                       23199
+  contig_1091                       55187
+  contig_1092                       63976
+  contig_1097                       12802
+  contig_1106                       29670
+  contig_1113                       19387
+  contig_1127                       11117
+  contig_1132                       18550
+  contig_1136                       15957
+  contig_1138                       15218
+  contig_1139                       28491
+  contig_1141                       12866
+  contig_1143                       21245
+  contig_1145                       15597
+  contig_1152                       20848
+  contig_1153                       13835
+  contig_1157                       15834
+  contig_1162                       21120
+  contig_1163                       24422
+  contig_1166                       11050
+  contig_1176                       40123
+  contig_1179                       15466
+  contig_1180                       19147
+  contig_1181                       13871
+  contig_1182                       23912
+  contig_1209                       12525
+  contig_1212                       10042
+  contig_1214                       14879
+  contig_1217                       13953
+  contig_1219                       16015
+  contig_1222                       13409
+  contig_1225                       10332
+  contig_1227                       11095
+  contig_1228                       18090
+  contig_1231                       15831
+  contig_1239                       19741
+  contig_1251                       10491
+  contig_1252                       12145
+  contig_1253                       15528
+  contig_1254                       16788
+  contig_1262                       17618
+  contig_1272                       24482
+  contig_1273                       28151
+  contig_1276                       14310
+  contig_1278                       15820
+  contig_1292                       22490
+  contig_1294                       14237
+  contig_1296                       20951
+  contig_1297                       31569
+  contig_1298                       10849
+  contig_1309                       13192
+  contig_1311                       15895
+  contig_1314                       19712
+  contig_1316                       19778
+  contig_1319                       11491
+  contig_1321                       13769
+  contig_1323                       34521
+  contig_1326                       10485
+  contig_1347                       16929
+  contig_1348                       10328
+  contig_1359                       10017
+  contig_1369                       25827
+  contig_1386                       21190
+  contig_1389                       14536
+  contig_1391                       11296
+  contig_1394                       15929
+  contig_1419                       31624
+  contig_1457                       44185
+  contig_1461                       12416
+  contig_1462                       13882
+  contig_1468                       43036
+  contig_1476                       10741
+  contig_1481                       12484
+  contig_1482                       10218
+  contig_1490                       22586
+  contig_1506                       25696
+  contig_1511                       16330
+  contig_1512                       33207
+  contig_1513                       13036
+  contig_1514                       31398
+  contig_1516                       14675
+  contig_1517                       39227
+  contig_1518                       16035
+  contig_1531                       10559
+  contig_1533                       13899
+  contig_1538                       47673
+  contig_1549                       10179
+  contig_1552                       11021
+  contig_1553                       30664
+  contig_1564                       20280
+  contig_1565                       14800
+  contig_1578                       12569
+  contig_1590                       12548
+  contig_1610                       35170
+  contig_1615                       17101
+  contig_1618                       17428
+  contig_1631                       22973
+  contig_1638                       20935
+  contig_1658                       10029
+  contig_1659                       13827
+  contig_1670                       15160
+  contig_1671                       12073
+  contig_1675                       10400
+  contig_1677                       17604
+  contig_1688                       19501
+  contig_1690                       12030
+  contig_1693                       28408
+  contig_1700                       20600
+  contig_1704                       34516
+  contig_1709                       29236
+  contig_1710                       16429
+  contig_1719                       10876
+  contig_1721                       15057
+  contig_1731                       19908
+  contig_1732                       44792
+  contig_1733                       15389
+  contig_1741                       10413
+  contig_1744                       20549
+  contig_1745                       15461
+  contig_1746                       14081
+  contig_1759                       12291
+  contig_1765                       15462
+  contig_1773                       15380
+  contig_1774                       10548
+  contig_1775                       11989
+  contig_1784                       35435
+  contig_1786                       15627
+  contig_1794                       24927
+  contig_1800                       11662
+  contig_1807                       10194
+  contig_1812                       12800
+  contig_1820                       20085
+  contig_1822                       21472
+  contig_1823                       35044
+  contig_1826                       11901
+  contig_1832                       10131
+  contig_1833                       17767
+  contig_1848                       11786
+  contig_1850                       10519
+  contig_1851                       32804
+  contig_1852                       15573
+  contig_1853                       13433
+  contig_1870                       11638
+  contig_1879                       32767
+  contig_1882                       14386
+  contig_1883                       11285
+  contig_1887                       30177
+  contig_1889                       28993
+  contig_1890                       18955
+  contig_1891                       13057
+  contig_1901                       22297
+  contig_1902                       12362
+  contig_1904                       19337
+  contig_1913                       10750
+  contig_1914                       10947
+  contig_1931                       11038
+  contig_1934                       11037
+  contig_1936                       29860
+  contig_1942                       48992
+  contig_1943                       10285
+  contig_1945                       22115
+  contig_1954                       16416
+  contig_1963                       37422
+  contig_1964                       13084
+  contig_1965                       12121
+  contig_1980                       75879
+  contig_1989                       10389
+  contig_2017                       13708
+  contig_2018                       11178
+  contig_2019                       47193
+  contig_2027                       25600
+  contig_2058                       14507
+  contig_2060                       12973
+  contig_2073                       11017
+  contig_2084                       21589
+  contig_2091                       14160
+  contig_2095                       13866
+  contig_2102                       31705
+  contig_2103                       23608
+  contig_2114                       30293
+  contig_2125                       25585
+  contig_2135                       11190
+  contig_2156                       23971
+  contig_2163                       14576
+  contig_2169                       14827
+  contig_2172                       20913
+  contig_2183                       11033
+  contig_2195                       14468
+  contig_2196                       12889
+  contig_2209                       12208
+  contig_2216                       11823
+  contig_2224                       21322
+  contig_2230                       13332
+  contig_2231                       11751
+  contig_2233                       15325
+  contig_2238                       37516
+  contig_2239                       18491
+  contig_2240                       10515
+  contig_2254                       10313
+  contig_2258                       30999
+  contig_2262                       12450
+  contig_2269                       18302
+  contig_2278                       13807
+  contig_2297                       14551
+  contig_2302                       14327
+  contig_2305                       12929
+  contig_2328                       19020
+  contig_2348                       26140
+  contig_2356                       12628
+  contig_2357                       10865
+  contig_2377                       15656
+  contig_2387                       12939
+  contig_2425                       18774
+  contig_2435                       10516
+  contig_2441                       26936
+  contig_2445                       14501
+  contig_2448                       17202
+  contig_2450                       16129
+  contig_2452                       10644
+  contig_2454                       10216
+  contig_2458                       12277
+  contig_2461                       10078
+  contig_2472                       12909
+  contig_2490                       12492
+  contig_2560                       11055
+  contig_2565                       19085
+  contig_2578                       16260
+  contig_2580                       10946
+  contig_2584                       24724
+  contig_2586                       11464
+  contig_2589                       19131
+  contig_2590                       27398
+  contig_2591                       14737
+  contig_2594                       12056
+  contig_2596                       18494
+  contig_2621                       17990
+  contig_2624                       25185
+  contig_2630                       16893
+  contig_2643                       34587
+  contig_2652                       14884
+  contig_2673                       12177
+  contig_2674                       10659
+  contig_2681                       11952
+  contig_2687                       11762
+  contig_2702                       12553
+  contig_2705                       20234
+  contig_2706                       21679
+  contig_2712                       10565
+  contig_2724                       22923
+  contig_2728                       27579
+  contig_2752                       17290
+  contig_2753                       25097
+  contig_2759                       11025
+  contig_2760                       10086
+  contig_2766                       13046
+  contig_2787                       17601
+  contig_2789                       13079
+  contig_2793                       10519
+  contig_2800                       13667
+  contig_2801                       28761
+  contig_2809                       11279
+  contig_2812                       24919
+  contig_2815                       12306
+  contig_2816                       22873
+  contig_2817                       33969
+  contig_2822                       29613
+  contig_2825                       22736
+  contig_2838                       14434
+  contig_2845                       11173
+  contig_2852                       19464
+  contig_2855                       10799
+  contig_2860                       14630
+  contig_2863                       10322
+  contig_2867                       10781
+  contig_2870                       30794
+  contig_2872                       14200
+  contig_2879                       33846
+  contig_2882                       14008
+  contig_2885                       23303
+  contig_2889                       17126
+  contig_2904                       15625
+  contig_2905                       13636
+  contig_2913                       16967
+  contig_2921                       11204
+  contig_2926                       10420
+  contig_2930                       23563
+  contig_2938                       19530
+  contig_2945                       24343
+  contig_2949                       39575
+  contig_2956                       14434
+  contig_2961                       14737
+  contig_2970                       15167
+  contig_2980                       63336
+  contig_2982                       12743
+  contig_2983                       14824
+  contig_2985                       11377
+  contig_3004                       12321
+  contig_3018                       13309
+  contig_3020                       14331
+  contig_3025                       17805
+  contig_3026                       15736
+  contig_3032                       24835
+  contig_3034                       26693
+  contig_3037                       14470
+  contig_3041                       12362
+  contig_3050                       18092
+  contig_3059                       11603
+  contig_3062                       12759
+  contig_3063                       12703
+  contig_3064                       14211
+  contig_3067                       13351
+  contig_3070                       10496
+  contig_3074                       16871
+  contig_3079                       11235
+  contig_3091                       24866
+  contig_3102                       15215
+  contig_3104                       30007
+  contig_3113                       10006
+  contig_3115                       16474
+  contig_3141                       11392
+  contig_3143                       15152
+  contig_3146                       11579
+  contig_3147                       11678
+  contig_3151                       16115
+  contig_3159                       18493
+  contig_3166                       11888
+  contig_3168                       36886
+  contig_3179                       20101
+  contig_3182                       11379
+  contig_3183                       12494
+  contig_3185                       10100
+  contig_3189                       16110
+  contig_3196                       13116
+  contig_3200                       12181
+  contig_3204                       12830
+  contig_3218                       11874
+  contig_3226                       10041
+  contig_3237                       10414
+  contig_3238                       12555
+  contig_3252                       26796
+  contig_3253                       14410
+  contig_3259                       24335
+  contig_3260                       12008
+  contig_3263                       14255
+  contig_3271                       14277
+  contig_3287                       14278
+  contig_3289                       10431
+  contig_3294                       10442
+  contig_3296                       12633
+  contig_3297                       21480
+  contig_3311                       14449
+  contig_3318                       19115
+  contig_3324                       11391
+  contig_3329                       31777
+  contig_3331                       10392
+  contig_3355                       35312
+  contig_3357                       11390
+  contig_3358                       11202
+  contig_3375                       16862
+  contig_3381                       15914
+  contig_3397                       34377
+  contig_3404                       11480
+  contig_3407                       18577
+  contig_3408                       28082
+  contig_3411                       10170
+  contig_3416                       17084
+  contig_3425                       20175
+  contig_3428                       17887
+  contig_3432                       16593
+  contig_3441                       10866
+  contig_3442                       17648
+  contig_3445                       18723
+  contig_3448                       11863
+  contig_3449                       21266
+  contig_3450                       24763
+  contig_3453                       13981
+  contig_3455                       10180
+  contig_3458                       30107
+  contig_3459                       12446
+  contig_3463                       11603
+  contig_3466                       13004
+  contig_3467                       20886
+  contig_3470                       10572
+  contig_3501                       17307
+  contig_3510                       10117
+  contig_3514                       35585
+  contig_3519                       23329
+  contig_3521                       14983
+  contig_3522                       11792
+  contig_3523                       14054
+  contig_3532                       10651
+  contig_3546                       24723
+  contig_3567                       13482
+  contig_3572                       19664
+  contig_3582                       13285
+  contig_3583                       10892
+  contig_3584                       10817
+  contig_3590                       10317
+  contig_3595                       14332
+  contig_3600                       23315
+  contig_3601                       12306
+  contig_3602                       22074
+  contig_3603                       19110
+  contig_3619                       13687
+  contig_3620                       19760
+  contig_3629                       10507
+  contig_3634                       28603
+  contig_3648                       10121
+  contig_3652                       10228
+  contig_3659                       17971
+  contig_3673                       11673
+  contig_3680                       12010
+  contig_3681                       11309
+  contig_3685                       14845
+  contig_3715                       21493
+  contig_3721                       14739
+  contig_3722                       16970
+  contig_3723                       22223
+  contig_3729                       14115
+  contig_3734                       22420
+  contig_3737                       13542
+  contig_3740                       22907
+  contig_3742                       24636
+  contig_3745                       29400
+  contig_3751                       12222
+  contig_3752                       14861
+  contig_3767                       12116
+  contig_3768                       20321
+  contig_3769                       12526
+  contig_3770                       17462
+  contig_3772                       15811
+  contig_3784                       15024
+  contig_3801                       10408
+  contig_3802                       20025
+  contig_3804                       10011
+  contig_3805                       17252
+  contig_3824                       14731
+  contig_3835                       20452
+  contig_3848                       14872
+  contig_3858                       23795
+  contig_3862                       12758
+  contig_3863                       12367
+  contig_3869                       12919
+  contig_3870                       30752
+  contig_3880                       18805
+  contig_3881                       27228
+  contig_3882                       14131
+  contig_3889                       16777
+  contig_3892                       27864
+  contig_3898                       23038
+  contig_3899                       25643
+  contig_3920                       38242
+  contig_3925                       10338
+  contig_3974                       32436
+  contig_3983                       11919
+  contig_3987                       15770
+  contig_3992                       15695
+  contig_3999                       22959
+  contig_4002                       11187
+  contig_4013                       22962
+  contig_4015                       15462
+  contig_4020                       15431
+  contig_4034                       16052
+  contig_4053                       11558
+  contig_4066                       11928
+  contig_4067                       14035
+  contig_4070                       18978
+  contig_4078                       14171
+  contig_4080                       14049
+  contig_4082                       19534
+  contig_4083                       33348
+  contig_4085                       28230
+  contig_4096                       17475
+  contig_4097                       22099
+  contig_4106                       14444
+  contig_4113                       18559
+  contig_4115                       14039
+  contig_4124                       11656
+  contig_4129                       16432
+  contig_4143                       11691
+  contig_4148                       27743
+  contig_4161                       19477
+  contig_4168                       15908
+  contig_4174                       14393
+  contig_4184                       15303
+  contig_4185                       19616
+  contig_4188                       24895
+  contig_4194                       25661
+  contig_4223                       11155
+  contig_4227                       21469
+  contig_4236                       11496
+  contig_4246                       11138
+  contig_4262                       22647
+  contig_4283                       12042
+  contig_4286                       15301
+  contig_4304                       11626
+  contig_4312                       25684
+  contig_4321                       31588
+  contig_4322                       16269
+  contig_4324                       10277
+  contig_4331                       13317
+  contig_4336                       20810
+  contig_4337                       10745
+  contig_4344                       15720
+  contig_4364                       28840
+  contig_4378                       35192
+  contig_4381                       10510
+  contig_4385                       22603
+  contig_4390                       19104
+  contig_4395                       14933
+  contig_4396                       19757
+  contig_4399                       10134
+  contig_4401                       19292
+  contig_4402                       17732
+  contig_4407                       12871
+  contig_4411                       11422
+  contig_4412                       10168
+  contig_4413                       11797
+  contig_4422                       25268
+  contig_4427                       13017
+  contig_4445                       29034
+  contig_4473                       15465
+  contig_4474                       22108
+  contig_4475                       12625
+  contig_4481                       12928
+  contig_4502                       19762
+  contig_4521                       11092
+  contig_4535                       19572
+  contig_4537                       14256
+  contig_4540                       13540
+  contig_4555                       10385
+  contig_4563                       19231
+  contig_4570                       10526
+  contig_4575                       26187
+  contig_4584                       10345
+  contig_4605                       23841
+  contig_4607                       11720
+  contig_4614                       11125
+  contig_4615                       27125
+  contig_4632                       19064
+  contig_4644                       10958
+  contig_4648                       14808
+  contig_4650                       32527
+  contig_4651                       15981
+  contig_4668                       12531
+  contig_4670                       11233
+  contig_4672                       14712
+  contig_4673                       21208
+  contig_4680                       12784
+  contig_4725                       10482
+  contig_4731                       11982
+  contig_4734                       33031
+  contig_4735                       13508
+  contig_4741                       10245
+  contig_4750                       31898
+  contig_4754                       18220
+  contig_4784                       11392
+  contig_4797                       27285
+  contig_4800                       14008
+  contig_4815                       13547
+  contig_4823                       16871
+  contig_4830                       19824
+  contig_4835                       19001
+  contig_4846                       13581
+  contig_4847                       14323
+  contig_4855                       10638
+  contig_4862                       16192
+  contig_4872                       18119
+  contig_4892                       16001
+  contig_4895                       18240
+  contig_4901                       11408
+  contig_4902                       14194
+  contig_4908                       14505
+  contig_4910                       13907
+  contig_4916                       27228
+  contig_4919                       25106
+  contig_4921                       49346
+  contig_4923                       17536
+  contig_4925                       11623
+  contig_4930                       20337
+  contig_4939                       18817
+  contig_4947                       25631
+  contig_4965                       11772
+  contig_4966                       14941
+  contig_4969                       29988
+  contig_4971                       14010
+  contig_4977                       10333
+  contig_4980                       10746
+  contig_4986                       12359
+  contig_4989                       11074
+  contig_4994                       11755
+  contig_5002                       13615
+  contig_5003                       34055
+  contig_5010                       15500
+  contig_5012                       38562
+  contig_5013                       13270
+  contig_5023                       21947
+  contig_5024                       13865
+  contig_5037                       18964
+  contig_5045                       10879
+  contig_5072                       15686
+  contig_5074                       30292
+  contig_5080                       12649
+  contig_5085                       27857
+  contig_5086                       18766
+  contig_5100                       11867
+  contig_5113                       14123
+  contig_5121                       20382
+  contig_5133                       13868
+  contig_5153                       10926
+  contig_5154                       14781
+  contig_5160                       12071
+  contig_5168                       27321
+  contig_5177                       19710
+  contig_5192                       23488
+  contig_5211                       15092
+  contig_5218                       24587
+  contig_5222                       13184
+  contig_5234                       11824
+  contig_5242                       16035
+  contig_5248                       17659
+  contig_5249                       20767
+  contig_5259                       28064
+  contig_5263                       28236
+  contig_5271                       11675
+  contig_5276                       19036
+  contig_5283                       15414
+  contig_5289                       10388
+  contig_5290                       10857
+  contig_5298                       14388
+  contig_5311                       15677
+  contig_5313                       10852
+  contig_5319                       11412
+  contig_5322                       14023
+  contig_5326                       14787
+  contig_5333                       14655
+  contig_5346                       23088
+  contig_5348                       20251
+  contig_5383                       10967
+  contig_5389                       14641
+  contig_5400                       26911
+  contig_5436                       16844
+  contig_5461                       20813
+  contig_5462                       13526
+  contig_5469                       40462
+  contig_5488                       24686
+  contig_5507                       10198
+  contig_5531                       11395
+  contig_5532                       28028
+  contig_5533                       18200
+  contig_5541                       16703
+  contig_5544                       17373
+  contig_5591                       13744
+  contig_5598                       13586
+  contig_5599                       40199
+  contig_5610                       23589
+  contig_5626                       11294
+  contig_5638                       22574
+  contig_5640                       11241
+  contig_5644                       16428
+  contig_5646                       13799
+  contig_5664                       10037
+  contig_5671                       18968
+  contig_5681                       22443
+  contig_5692                       15063
+  contig_5702                       11088
+  contig_5718                       17260
+  contig_5732                       27903
+  contig_5736                       12413
+  contig_5753                       12517
+  contig_5758                       13372
+  contig_5789                       18605
+  contig_5816                       11409
+  contig_5817                       10112
+  contig_5822                       23470
+  contig_5831                       10924
+  contig_5847                       24940
+  contig_5848                       14692
+  contig_5851                       13351
+  contig_5853                       10339
+  contig_5856                       12567
+  contig_5870                       12424
+  contig_5871                       11789
+  contig_5874                       17046
+  contig_5884                       12422
+  contig_5896                       10670
+  contig_5901                       26030
+  contig_5918                       12328
+  contig_5923                       11025
+  contig_5925                       15299
+  contig_5933                       10614
+  contig_5983                       14263
+  contig_5987                       10109
+  contig_5990                       16888
+  contig_5991                       13577
+  contig_5994                       15238
+  contig_5995                       11695
+  contig_6001                       10852
+  contig_6032                       17561
+  contig_6044                       26470
+  contig_6046                       11440
+  contig_6068                       12713
+  contig_6093                       20619
+  contig_6095                       18231
+  contig_6131                       13169
+  contig_6152                       12081
+  contig_6153                       17651
+  contig_6163                       17969
+  contig_6186                       11910
+  contig_6196                       20082
+  contig_6202                       15936
+  contig_6203                       11054
+  contig_6224                       22645
+  contig_6229                       16887
+  contig_6243                       15774
+  contig_6253                       25813
+  contig_6260                       10543
+  contig_6281                       12229
+  contig_6285                       20613
+  contig_6289                       11563
+  contig_6291                       20516
+  contig_6293                       12418
+  contig_6317                       17949
+  contig_6332                       14839
+  contig_6337                       13131
+  contig_6344                       13080
+  contig_6347                       15411
+  contig_6354                       18216
+  contig_6356                       10987
+  contig_6362                       27033
+  contig_6366                       11216
+  contig_6377                       20112
+  contig_6425                       18993
+  contig_6427                       17150
+  contig_6441                       13840
+  contig_6444                       10753
+  contig_6449                       11672
+  contig_6453                       20415
+  contig_6456                       15059
+  contig_6477                       13581
+  contig_6479                       21072
+  contig_6481                       11461
+  contig_6484                       13062
+  contig_6487                       17785
+  contig_6490                       10143
+  contig_6503                       25733
+  contig_6509                       19576
+  contig_6536                       15605
+  contig_6537                       19366
+  contig_6541                       18132
+  contig_6560                       13557
+  contig_6562                       14076
+  contig_6580                       13398
+  contig_6583                       22673
+  contig_6584                       10777
+  contig_6585                       11565
+  contig_6596                       13782
+  contig_6618                       16398
+  contig_6627                       13439
+  contig_6632                       14394
+  contig_6648                       12450
+  contig_6651                       23586
+  contig_6652                       10114
+  contig_6677                       10236
+  contig_6682                       23006
+  contig_6688                       23063
+  contig_6691                       16260
+  contig_6693                       13640
+  contig_6699                       17617
+  contig_6707                       27235
+  contig_6708                       13167
+  contig_6721                       12179
+  contig_6725                       16369
+  contig_6755                       18042
+  contig_6760                       14249
+  contig_6791                       41238
+  contig_6798                       16634
+  contig_6800                       16425
+  contig_6805                       10131
+  contig_6814                       11655
+  contig_6820                       14521
+  contig_6829                       39251
+  contig_6849                       11602
+  contig_6850                       12758
+  contig_6858                       12312
+  contig_6860                       14405
+  contig_6867                       10710
+  contig_6879                       12818
+  contig_6881                       13331
+  contig_6890                       12973
+  contig_6923                       27423
+  contig_6936                       25022
+  contig_6937                       20063
+  contig_6938                       23535
+  contig_6957                       11658
+  contig_6958                       20421
+  contig_6989                       15581
+  contig_6992                       13039
+  contig_7000                       10107
+  contig_7003                       35141
+  contig_7012                       11698
+  contig_7017                       20024
+  contig_7021                       11525
+  contig_7024                       10862
+  contig_7025                       20668
+  contig_7029                       38105
+  contig_7043                       12953
+  contig_7051                       15323
+  contig_7064                       14429
+  contig_7074                       12711
+  contig_7096                       20040
+  contig_7102                       10517
+  contig_7139                       11366
+  contig_7144                       14014
+  contig_7155                       14905
+  contig_7157                       12460
+  contig_7164                       13658
+  contig_7170                       18421
+  contig_7172                       11822
+  contig_7175                       11413
+  contig_7179                       11928
+  contig_7184                       25567
+  contig_7190                       15263
+  contig_7196                       10318
+  contig_7208                       24422
+  contig_7218                       13737
+  contig_7225                       13547
+  contig_7229                       19186
+  contig_7249                       11760
+  contig_7253                       18343
+  contig_7254                       16594
+  contig_7255                       11145
+  contig_7256                       14707
+  contig_7260                       13461
+  contig_7263                       11320
+  contig_7279                       20219
+  contig_7298                       13572
+  contig_7299                       14471
+  contig_7308                       15834
+  contig_7313                       12268
+  contig_7314                       13640
+  contig_7318                       11992
+  contig_7321                       11644
+  contig_7324                       12414
+  contig_7328                       12209
+  contig_7331                       14043
+  contig_7353                       10018
+  contig_7375                       35120
+  contig_7379                       20177
+  contig_7389                       11311
+  contig_7414                       10708
+  contig_7415                       12563
+  contig_7418                       15526
+  contig_7437                       23481
+  contig_7448                       16236
+  contig_7456                       29228
+  contig_7473                       14376
+  contig_7488                       22495
+  contig_7493                       10397
+  contig_7494                       15616
+  contig_7495                       58992
+  contig_7501                       18008
+  contig_7505                       10191
+  contig_7508                       18797
+  contig_7509                       11917
+  contig_7519                       13390
+  contig_7527                       15948
+  contig_7547                       10612
+  contig_7549                       18176
+  contig_7552                       23652
+  contig_7558                       10722
+  contig_7565                       18615
+  contig_7580                       14243
+  contig_7581                       18401
+  contig_7588                       21942
+  contig_7589                       10998
+  contig_7592                       13928
+  contig_7605                       21722
+  contig_7617                       24250
+  contig_7621                       11915
+  contig_7639                       12502
+  contig_7650                       30034
+  contig_7664                       14323
+  contig_7672                       10913
+  contig_7673                       32155
+  contig_7675                       13810
+  contig_7679                       19942
+  contig_7688                       12466
+  contig_7711                       12214
+  contig_7713                       12964
+  contig_7723                       12140
+  contig_7726                       14311
+  contig_7733                       25947
+  contig_7757                       15767
+  contig_7759                       15313
+  contig_7760                       12155
+  contig_7765                       16660
+  contig_7796                       22933
+  contig_7798                       24623
+  contig_7809                       10590
+  contig_7814                       11758
+  contig_7845                       20808
+  contig_7863                       12602
+  contig_7872                       36718
+  contig_7885                       14798
+  contig_7902                       18618
+  contig_7903                       11005
+  contig_7909                       25936
+  contig_7916                       13469
+  contig_7925                       25828
+  contig_7938                       15982
+  contig_7954                       17272
+  contig_7959                       13030
+  contig_7961                       13856
+  contig_7968                       20831
+  contig_7983                       17122
+  contig_7993                       12030
+  contig_8003                       14141
+  contig_8006                       17411
+  contig_8015                       14728
+  contig_8039                       14937
+  contig_8047                       10328
+  contig_8048                       26465
+  contig_8052                       10006
+  contig_8066                       39759
+  contig_8070                       10734
+  contig_8080                       11346
+  contig_8083                       10795
+  contig_8096                       15525
+  contig_8123                       21443
+  contig_8125                       12576
+  contig_8129                       10664
+  contig_8135                       14879
+  contig_8150                       15995
+  contig_8155                       10039
+  contig_8158                       24885
+  contig_8164                       22366
+  contig_8181                       11222
+  contig_8186                       13065
+  contig_8194                       10418
+  contig_8199                       12606
+  contig_8216                       10856
+  contig_8217                       14891
+  contig_8226                       12944
+  contig_8241                       19540
+  contig_8280                       12417
+  contig_8284                       12007
+  contig_8294                       10289
+  contig_8308                       18903
+  contig_8312                       14275
+  contig_8331                       23164
+  contig_8347                       12830
+  contig_8351                       14123
+  contig_8374                       10851
+  contig_8377                       11625
+  contig_8391                       12856
+  contig_8399                       20807
+  contig_8400                       12351
+  contig_8401                       14673
+  contig_8405                       14490
+  contig_8421                       20092
+  contig_8425                       26397
+  contig_8447                       16998
+  contig_8448                       13013
+  contig_8449                       15767
+  contig_8462                       12941
+  contig_8483                       13205
+  contig_8529                       20497
+  contig_8533                       26372
+  contig_8552                       11787
+  contig_8561                       12486
+  contig_8567                       14982
+  contig_8576                       10750
+  contig_8577                       16132
+  contig_8579                       23985
+  contig_8588                       21075
+  contig_8591                       12727
+  contig_8599                       11016
+  contig_8609                       10568
+  contig_8611                       11321
+  contig_8618                       26769
+  contig_8622                       10174
+  contig_8630                       17415
+  contig_8646                       17895
+  contig_8647                       10866
+  contig_8648                       16429
+  contig_8656                       13823
+  contig_8657                       10187
+  contig_8674                       41512
+  contig_8676                       16178
+  contig_8693                       10030
+  contig_8699                       13380
+  contig_8716                       15125
+  contig_8717                       24106
+  contig_8722                       11698
+  contig_8733                       17855
+  contig_8738                       10960
+  contig_8747                       19146
+  contig_8763                       11033
+  contig_8773                       16089
+  contig_8776                       11010
+  contig_8781                       19674
+  contig_8789                       10849
+  contig_8795                       12093
+  contig_8805                       12073
+  contig_8821                       11892
+  contig_8828                       10886
+  contig_8835                       14160
+  contig_8840                       17044
+  contig_8850                       13139
+  contig_8855                       16384
+  contig_8864                       16122
+  contig_8875                       11911
+  contig_8882                       21551
+  contig_8902                       10034
+  contig_8914                       13904
+  contig_8931                       13470
+  contig_8933                       13040
+  contig_8975                       20940
+  contig_8980                       16384
+  contig_8984                       11768
+  contig_9008                       27519
+  contig_9009                       18309
+  contig_9025                       10376
+  contig_9026                       10392
+  contig_9028                       17880
+  contig_9033                       12248
+  contig_9054                       13231
+  contig_9055                       19587
+  contig_9059                       15961
+  contig_9071                       11809
+  contig_9077                       13800
+  contig_9084                       11140
+  contig_9094                       14453
+  contig_9103                       16896
+  contig_9116                       22591
+  contig_9117                       15636
+  contig_9125                       10760
+  contig_9130                       12121
+  contig_9150                       11175
+  contig_9179                       13806
+  contig_9228                       14658
+  contig_9231                       10974
+  contig_9237                       15340
+  contig_9242                       22469
+  contig_9265                       10929
+  contig_9273                       16779
+  contig_9279                       14029
+  contig_9288                       10848
+  contig_9291                       14346
+  contig_9292                       20532
+  contig_9306                       17322
+  contig_9310                       11025
+  contig_9324                       17049
+  contig_9334                       11001
+  contig_9338                       11563
+  contig_9354                       14817
+  contig_9356                       10546
+  contig_9357                       14048
+  contig_9359                       11384
+  contig_9369                       24126
+  contig_9374                       14432
+  contig_9375                       10547
+  contig_9378                       18143
+  contig_9385                       19540
+  contig_9387                       21458
+  contig_9422                       12273
+  contig_9424                       16373
+  contig_9425                       10663
+  contig_9434                       33855
+  contig_9436                       12243
+  contig_9446                       10105
+  contig_9487                       16523
+  contig_9499                       13584
+  contig_9501                       12291
+  contig_9506                       15454
+  contig_9517                       13781
+  contig_9542                       13883
+  contig_9553                       12345
+  contig_9557                       17914
+  contig_9559                       17421
+  contig_9560                       21096
+  contig_9598                       10064
+  contig_9619                       14980
+  contig_9653                       12025
+  contig_9670                       15573
+  contig_9693                       18605
+  contig_9706                       19338
+  contig_9711                       10105
+  contig_9717                       16088
+  contig_9755                       17399
+  contig_9759                       10117
+  contig_9766                       25844
+  contig_9772                       18562
+  contig_9793                       12187
+  contig_9797                       10677
+  contig_9821                       11267
+  contig_9838                       10224
+  contig_9840                       10169
+  contig_9878                       10991
+  contig_9881                       12202
+  contig_9882                       30832
+  contig_9886                       11515
+  contig_9890                       21316
+  contig_9901                       12304
+  contig_9914                       18459
+  contig_9917                       10662
+  contig_9956                       24122
+  contig_9979                       11966
+  contig_9995                       16140
+  contig_10004                      30000
+  contig_10005                      31613
+  contig_10006                      28014
+  contig_10032                      15877
+  contig_10049                      11525
+  contig_10054                      31320
+  contig_10059                      12785
+  contig_10066                      17886
+  contig_10085                      10741
+  contig_10106                      20977
+  contig_10115                      10622
+  contig_10116                      16978
+  contig_10126                      25852
+  contig_10133                      13060
+  contig_10142                      21471
+  contig_10146                      14756
+  contig_10163                      14476
+  contig_10167                      26352
+  contig_10174                      10067
+  contig_10187                      12113
+  contig_10202                      16473
+  contig_10237                      17044
+  contig_10255                      27875
+  contig_10267                      17731
+  contig_10276                      27505
+  contig_10285                      14823
+  contig_10325                      13366
+  contig_10337                      22951
+  contig_10382                      14399
+  contig_10408                      13836
+  contig_10416                      15908
+  contig_10425                      12516
+  contig_10434                      13224
+  contig_10440                      13279
+  contig_10451                      10496
+  contig_10456                      16566
+  contig_10465                      16657
+  contig_10479                      11565
+  contig_10494                      10039
+  contig_10498                      14827
+  contig_10509                      12687
+  contig_10512                      15374
+  contig_10513                      10408
+  contig_10520                      10740
+  contig_10523                      20352
+  contig_10539                      16892
+  contig_10540                      22357
+  contig_10572                      16676
+  contig_10575                      12172
+  contig_10584                      12599
+  contig_10585                      22279
+  contig_10601                      10849
+  contig_10612                      10100
+  contig_10613                      12350
+  contig_10619                      10717
+  contig_10639                      13616
+  contig_10650                      12955
+  contig_10662                      13828
+  contig_10663                      11381
+  contig_10720                      21459
+  contig_10723                      14625
+  contig_10735                      10897
+  contig_10769                      17282
+  contig_10772                      10898
+  contig_10802                      14310
+  contig_10809                      13664
+  contig_10830                      16078
+  contig_10842                      17699
+  contig_10868                      11978
+  contig_10883                      12904
+  contig_10896                      11807
+  contig_10905                      15481
+  contig_10913                      14063
+  contig_10914                      11872
+  contig_10919                      18121
+  contig_10920                      27024
+  contig_10932                      18240
+  contig_10938                      15940
+  contig_10948                      12125
+  contig_10952                      23313
+  contig_10959                      14661
+  contig_10968                      10708
+  contig_10971                      11128
+  contig_10987                      26689
+  contig_10990                      14256
+  contig_10992                      14808
+  contig_10998                      14342
+  contig_10999                      13543
+  contig_11006                      10450
+  contig_11020                      12847
+  contig_11043                      10539
+  contig_11072                      18430
+  contig_11076                      20461
+  contig_11090                      26014
+  contig_11117                      11892
+  contig_11120                      13148
+  contig_11134                      28676
+  contig_11141                      10171
+  contig_11143                      14253
+  contig_11144                      14198
+  contig_11183                      18285
+  contig_11184                      18768
+  contig_11191                      10283
+  contig_11203                      14555
+  contig_11222                      20449
+  contig_11245                      19255
+  contig_11249                      11178
+  contig_11267                      13756
+  contig_11274                      13850
+  contig_11292                      15553
+  contig_11317                      14480
+  contig_11341                      10372
+  contig_11364                      29295
+  contig_11378                      13419
+  contig_11389                      10944
+  contig_11412                      16926
+  contig_11424                      44256
+  contig_11449                      12662
+  contig_11459                      14198
+  contig_11483                      25003
+  contig_11529                      17589
+  contig_11536                      10539
+  contig_11560                      11587
+  contig_11641                      18041
+  contig_11652                      10756
+  contig_11657                      12458
+  contig_11701                      13553
+  contig_11724                      19403
+  contig_11751                      15108
+  contig_11759                      12531
+  contig_11765                      12395
+  contig_11779                      11411
+  contig_11787                      32037
+  contig_11791                      13668
+  contig_11827                      17182
+  contig_11828                      22733
+  contig_11846                      14026
+  contig_11850                      12191
+  contig_11853                      16439
+  contig_11860                      18093
+  contig_11865                      12433
+  contig_11875                      16692
+  contig_11882                      14112
+  contig_11915                      15522
+  contig_11917                      11633
+  contig_11930                      11202
+  contig_11938                      10095
+  contig_11955                      11613
+  contig_11998                      10551
+  contig_12004                      11061
+  contig_12032                      10801
+  contig_12046                      17426
+  contig_12059                      10799
+  contig_12094                      14645
+  contig_12108                      10348
+  contig_12121                      11218
+  contig_12147                      10284
+  contig_12148                      19549
+  contig_12167                      14116
+  contig_12183                      21365
+  contig_12185                      13073
+  contig_12187                      12228
+  contig_12217                      11433
+  contig_12226                      19223
+  contig_12228                      31839
+  contig_12266                      13389
+  contig_12284                      15502
+  contig_12290                      20167
+  contig_12298                      20974
+  contig_12308                      10793
+  contig_12324                      15081
+  contig_12335                      13232
+  contig_12339                      10384
+  contig_12350                      14436
+  contig_12354                      10580
+  contig_12364                      13573
+  contig_12374                      13050
+  contig_12403                      11356
+  contig_12413                      22355
+  contig_12430                      11980
+  contig_12438                      14847
+  contig_12439                      12026
+  contig_12449                      34945
+  contig_12461                      12268
+  contig_12472                      10025
+  contig_12490                      11453
+  contig_12498                      19015
+  contig_12501                      10075
+  contig_12535                      12603
+  contig_12551                      13650
+  contig_12562                      12111
+  contig_12570                      14788
+  contig_12571                      13898
+  contig_12585                      15199
+  contig_12612                      11232
+  contig_12661                      11403
+  contig_12674                      11326
+  contig_12707                      15181
+  contig_12733                      18888
+  contig_12749                      11731
+  contig_12779                      10363
+  contig_12787                      30781
+  contig_12848                      13055
+  contig_12853                      10684
+  contig_12862                      10029
+  contig_12863                      21346
+  contig_12868                      16228
+  contig_12877                      31162
+  contig_12883                      11588
+  contig_12885                      27559
+  contig_12903                      18717
+  contig_12927                      11286
+  contig_12930                      26455
+  contig_12948                      22465
+  contig_12961                      11901
+  contig_12970                      12691
+  contig_12982                      11500
+  contig_12990                      12845
+  contig_13011                      14213
+  contig_13019                      15991
+  contig_13152                      13435
+  contig_13163                      14703
+  contig_13234                      20311
+  contig_13242                      11473
+  contig_13271                      10121
+  contig_13309                      10379
+  contig_13443                      15638
+  contig_13467                      17527
+  contig_13481                      14499
+  contig_13483                      11361
+  contig_13484                      11011
+  contig_13492                      14673
+  contig_13494                      34393
+  contig_13498                      10667
+  contig_13522                      17741
+  contig_13525                      13296
+  contig_13536                      10336
+  contig_13575                      18985
+  contig_13607                      20185
+  contig_13646                      11075
+  contig_13683                      16830
+  contig_13697                      15308
+  contig_13698                      10062
+  contig_13732                      11690
+  contig_13735                      13935
+  contig_13761                      12085
+  contig_13766                      19885
+  contig_13790                      11635
+  contig_13794                      10503
+  contig_13822                      10936
+  contig_13875                      11845
+  contig_13883                      14616
+  contig_13898                      13601
+  contig_13901                      38631
+  contig_13902                      10951
+  contig_13923                      11843
+  contig_13933                      12719
+  contig_13945                      23726
+  contig_13952                      12099
+  contig_13977                      22601
+  contig_13983                      10320
+  contig_14033                      10150
+  contig_14084                      11446
+  contig_14092                      20592
+  contig_14114                      16085
+  contig_14144                      16445
+  contig_14209                      11456
+  contig_14219                      16812
+  contig_14220                      10338
+  contig_14250                      12649
+  contig_14277                      10998
+  contig_14284                      17796
+  contig_14297                      14850
+  contig_14318                      11976
+  contig_14342                      17345
+  contig_14349                      14780
+  contig_14363                      10543
+  contig_14392                      16890
+  contig_14413                      26192
+  contig_14451                      10802
+  contig_14453                      14132
+  contig_14461                      12192
+  contig_14468                      10849
+  contig_14488                      10324
+  contig_14493                      11151
+  contig_14517                      27996
+  contig_14523                      20229
+  contig_14546                      20904
+  contig_14552                      13139
+  contig_14569                      12449
+  contig_14595                      10339
+  contig_14597                      10598
+  contig_14604                      10846
+  contig_14606                      11663
+  contig_14658                      10161
+  contig_14687                      22529
+  contig_14698                      11987
+  contig_14707                      12775
+  contig_14727                      10762
+  contig_14786                      13314
+  contig_14798                      22151
+  contig_14857                      11043
+  contig_14868                      11856
+  contig_14903                      12035
+  contig_14911                      20167
+  contig_14942                      20459
+  contig_14968                      14871
+  contig_14972                      12719
+  contig_15003                      14136
+  contig_15008                      20429
+  contig_15062                      16801
+  contig_15097                      23198
+  contig_15102                      15587
+  contig_15125                      26954
+  contig_15132                      11126
+  contig_15138                      11871
+  contig_15143                      17751
+  contig_15156                      19645
+  contig_15166                      13220
+  contig_15210                      17762
+  contig_15231                      16046
+  contig_15243                      18314
+  contig_15290                      19485
+  contig_15308                      11654
+  contig_15335                      10466
+  contig_15349                      16223
+  contig_15355                      20893
+  contig_15377                      10466
+  contig_15380                      10228
+  contig_15422                      12688
+  contig_15461                      10084
+  contig_15467                      18177
+  contig_15488                      12279
+  contig_15489                      13693
+  contig_15500                      14646
+  contig_15509                      13677
+  contig_15539                      16264
+  contig_15563                      11809
+  contig_15634                      10015
+  contig_15635                      21545
+  contig_15682                      12527
+  contig_15722                      12122
+  contig_15729                      10688
+  contig_15744                      14557
+  contig_15755                      13548
+  contig_15759                      13182
+  contig_15778                      16025
+  contig_15817                      12800
+  contig_15821                      13217
+  contig_15837                      10855
+  contig_15843                      12053
+  contig_15865                      16683
+  contig_15885                      25528
+  contig_15905                      17745
+  contig_15916                      11482
+  contig_15917                      17671
+  contig_15920                      10203
+  contig_15936                      13960
+  contig_15946                      16501
+  contig_15956                      15474
+  contig_15989                      16951
+  contig_16008                      14320
+  contig_16012                      10903
+  contig_16026                      13163
+  contig_16027                      10133
+  contig_16048                      11809
+  contig_16050                      11197
+  contig_16053                      10348
+  contig_16084                      11964
+  contig_16085                      11808
+  contig_16161                      20228
+  contig_16174                      11949
+  contig_16218                      10694
+  contig_16224                      11219
+  contig_16271                      20073
+  contig_16273                      15504
+  contig_16301                      18180
+  contig_16311                      12559
+  contig_16325                      19851
+  contig_16370                      14468
+  contig_16414                      10010
+  contig_16425                      10458
+  contig_16429                      13554
+  contig_16448                      16038
+  contig_16461                      14901
+  contig_16465                      12514
+  contig_16474                      13130
+  contig_16479                      15111
+  contig_16482                      15362
+  contig_16503                      21839
+  contig_16505                      25706
+  contig_16516                      10919
+  contig_16525                      21436
+  contig_16582                      10258
+  contig_16645                      14695
+  contig_16654                      10566
+  contig_16678                      12657
+  contig_16683                      10269
+  contig_16690                      11919
+  contig_16691                      14273
+  contig_16711                      11069
+  contig_16722                      10848
+  contig_16727                      10044
+  contig_16766                      27057
+  contig_16771                      12583
+  contig_16772                      15981
+  contig_16776                      13184
+  contig_16813                      12649
+  contig_16853                      15255
+  contig_16880                      20266
+  contig_16881                      12674
+  contig_16992                      14908
+  contig_17016                      17699
+  contig_17019                      13632
+  contig_17046                      10378
+  contig_17074                      16965
+  contig_17079                      14230
+  contig_17116                      15840
+  contig_17167                      10917
+  contig_17185                      10881
+  contig_17226                      15291
+  contig_17282                      23041
+  contig_17318                      10826
+  contig_17319                      10292
+  contig_17489                      11401
+  contig_17499                      12295
+  contig_17538                      11067
+  contig_17544                      20303
+  contig_17577                      24487
+  contig_17587                      14724
+  contig_17650                      10778
+  contig_17652                      20375
+  contig_17661                      11029
+  contig_17711                      11508
+  contig_17746                      16364
+  contig_17748                      10309
+  contig_17755                      12865
+  contig_17756                      11834
+  contig_17766                      10137
+  contig_17774                      11078
+  contig_17779                      12569
+  contig_17796                      23844
+  contig_17849                      10520
+  contig_17898                      12381
+  contig_17918                      16378
+  contig_17937                      13070
+  contig_17944                      10507
+  contig_17978                      15321
+  contig_17980                      10666
+  contig_18004                      15529
+  contig_18041                      13419
+  contig_18059                      10545
+  contig_18078                      16852
+  contig_18129                      13201
+  contig_18136                      31361
+  contig_18145                      24075
+  contig_18187                      15037
+  contig_18193                      10882
+  contig_18223                      11867
+  contig_18232                      15224
+  contig_18277                      10105
+  contig_18317                      15751
+  contig_18336                      14285
+  contig_18379                      10525
+  contig_18403                      10726
+  contig_18442                      10470
+  contig_18449                      14568
+  contig_18473                      16241
+  contig_18509                      24482
+  contig_18512                      12184
+  contig_18534                      12935
+  contig_18570                      10544
+  contig_18694                      16797
+  contig_18698                      11669
+  contig_18764                      18644
+  contig_18859                      11077
+  contig_18860                      13129
+  contig_18891                      16671
+  contig_18932                      10176
+  contig_18969                      14093
+  contig_18981                      10390
+  contig_19010                      13922
+  contig_19130                      10322
+  contig_19197                      21051
+  contig_19198                      21139
+  contig_19224                      13506
+  contig_19244                      10441
+  contig_19247                      11093
+  contig_19252                      16277
+  contig_19261                      14090
+  contig_19278                      12564
+  contig_19280                      12721
+  contig_19370                      17420
+  contig_19411                      13248
+  contig_19412                      16338
+  contig_19425                      10393
+  contig_19450                      13224
+  contig_19485                      11087
+  contig_19490                      11085
+  contig_19538                      29392
+  contig_19557                      10055
+  contig_19585                      12110
+  contig_19589                      10148
+  contig_19592                      16247
+  contig_19594                      10293
+  contig_19667                      10261
+  contig_19698                      12232
+  contig_19714                      10892
+  contig_19783                      10941
+  contig_19785                      18762
+  contig_19821                      10791
+  contig_19835                      14256
+  contig_19878                      13273
+  contig_19922                      17963
+  contig_20023                      10805
+  contig_20049                      16151
+  contig_20090                      10307
+  contig_20183                      13321
+  contig_20203                      11115
+  contig_20204                      10439
+  contig_20223                      11687
+  contig_20258                      13945
+  contig_20331                      13317
+  contig_20333                      16064
+  contig_20373                      13544
+  contig_20404                      10788
+  contig_20491                      17128
+  contig_20627                      13052
+  contig_20658                      13623
+  contig_20679                      15969
+  contig_20711                      10333
+  contig_20881                      12265
+  contig_20945                      17518
+  contig_20950                      16116
+  contig_21104                      13043
+  contig_21125                      12975
+  contig_21186                      12813
+  contig_21193                      16280
+  contig_21229                      22141
+  contig_21309                      16496
+  contig_21380                      10571
+  contig_21442                      10079
+  contig_21457                      11507
+  contig_21465                      17565
+  contig_21488                      11719
+  contig_21555                      30810
+  contig_21562                      12052
+  contig_21563                      15239
+  contig_21640                      13034
+  contig_21678                      13218
+  contig_21742                      18863
+  contig_21751                      13649
+  contig_21764                      15600
+  contig_21776                      17519
+  contig_21794                      17876
+  contig_21824                      18781
+  contig_21843                      11376
+  contig_21856                      10242
+  contig_21888                      11528
+  contig_21892                      13500
+  contig_21897                      12455
+  contig_22023                      17395
+  contig_22042                      12528
+  contig_22047                      24165
+  contig_22118                      17735
+  contig_22166                      13144
+  contig_22209                      10591
+  contig_22276                      14194
+  contig_22298                      15504
+  contig_22313                      12896
+  contig_22328                      14429
+  contig_22356                      12631
+  contig_22453                      13473
+  contig_22468                      11099
+  contig_22487                      10294
+  contig_22534                      11685
+  contig_22541                      21806
+  contig_22601                      13481
+  contig_22644                      10892
+  contig_22657                      11476
+  contig_22675                      12911
+  contig_22694                      11384
+  contig_22704                      11651
+  contig_22774                      15443
+  contig_23005                      10877
+  contig_23082                      11107
+  contig_23161                      15316
+  contig_23164                      17665
+  contig_23215                      15498
+  contig_23309                      10034
+  contig_23369                      11268
+  contig_23459                      16560
+  contig_23489                      15055
+  contig_23515                      10062
+  contig_23521                      17833
+  contig_23555                      10277
+  contig_23588                      13440
+  contig_23652                      13163
+  contig_23939                      12087
+  contig_23981                      22661
+  contig_24067                      10478
+  contig_24078                      13535
+  contig_24095                      12839
+  contig_24164                      14008
+  contig_24254                      10500
+  contig_24418                      24453
+  contig_24493                      17061
+  contig_24507                      10570
+  contig_24528                      10241
+  contig_24577                      11489
+  contig_24583                      11147
+  contig_24622                      10159
+  contig_24624                      16811
+  contig_24701                      10748
+  contig_24712                      15072
+  contig_24751                      10447
+  contig_24773                      10614
+  contig_24781                      12888
+  contig_24863                      11749
+  contig_24874                      10022
+  contig_24925                      15247
+  contig_25060                      10281
+  contig_25227                      11611
+  contig_25285                      10545
+  contig_25439                      14833
+  contig_25440                      10055
+  contig_25559                      11240
+  contig_25630                      11815
+  contig_25688                      17950
+  contig_25719                      10267
+  contig_25975                      14682
+  contig_25980                      11144
+  contig_26020                      13442
+  contig_26022                      14269
+  contig_26045                      14736
+  contig_26069                      15794
+  contig_26088                      12111
+  contig_26110                      11565
+  contig_26120                      11853
+  contig_26274                      10993
+  contig_26285                      11768
+  contig_26287                      12105
+  contig_26326                      10698
+  contig_26333                      11272
+  contig_26393                      16123
+  contig_26441                      16363
+  contig_26477                      13073
+  contig_26557                      10119
+  contig_26627                      10167
+  contig_26679                      13586
+  contig_26841                      11133
+  contig_26872                      10073
+  contig_26938                      12789
+  contig_26996                      12367
+  contig_27008                      10042
+  contig_27239                      12687
+  contig_27256                      12618
+  contig_27277                      13947
+  contig_27344                      14161
+  contig_27524                      10679
+  contig_27728                      11754
+  contig_27857                      10079
+  contig_27923                      13863
+  contig_27937                      10110
+  contig_28065                      10368
+  contig_28067                      15629
+  contig_28184                      10127
+  contig_28197                      23442
+  contig_28332                      15683
+  contig_28403                      10586
+  contig_28504                      12048
+  contig_28529                      11073
+  contig_29120                      14602
+  contig_29181                      14029
+  contig_29228                      14668
+  contig_29403                      21446
+  contig_29627                      13254
+  contig_29694                      13958
+  contig_29734                      14716
+  contig_29759                      10317
+  contig_29801                      10555
+  contig_29917                      11873
+  contig_29935                      12917
+  contig_29947                      13005
+  contig_30085                      10635
+  contig_30197                      10482
+  contig_30263                      12309
+  contig_30340                      11111
+  contig_30779                      13547
+  contig_31145                      10244
+  contig_31170                      11773
+  contig_31392                      15047
+  contig_31810                      12637
+  contig_32382                      12883
+  contig_32430                      12777
+  contig_32497                      13312
+  contig_32542                      10980
+  contig_32818                      14284
+  contig_33031                      10667
+  contig_33311                      10876
+  contig_33412                      14049
+  contig_33419                      20342
+  contig_33615                      13217
+  contig_33743                      10577
+  contig_34132                      14705
+  contig_34174                      12062
+  contig_34192                      14301
+  contig_34387                      13368
+  contig_34450                      15888
+  contig_34507                      10896
+  contig_34523                      16181
+  contig_34678                      13262
+  contig_34956                      13168
+  contig_34963                      13626
+  contig_34984                      10641
+  contig_35006                      10455
+  contig_35144                      13283
+  contig_35257                      10769
+  contig_35262                      13001
+  contig_35272                      14459
+  contig_35365                      11579
+  contig_36281                      10723
+  contig_36427                      13199
+  contig_36543                      10123
+  contig_36923                      11903
+  contig_37043                      13282
+  contig_37286                      15030
+  contig_37294                      13090
+  contig_37619                      10105
+  contig_37974                      24144
+  contig_38174                      15050
+  contig_39158                      13181
+  contig_39194                      10145
+  contig_39620                      13879
+  contig_39871                      18369
+  contig_40120                      15439
+  contig_40917                      13378
+  contig_40955                      15514
+  contig_41144                      15185
+  contig_41206                      13183
+  contig_41561                      13524
+  contig_41741                      13188
+  contig_41881                      10046
+  contig_42742                      11751
+  contig_42912                      12859
+  contig_43286                      11008
+  contig_43377                      16041
+  contig_43919                      10067
+  contig_43928                      10540
+  contig_44440                      10259
+  contig_44747                      10564
+  contig_45282                      13825
+  contig_46333                      11322
+  contig_46594                      10054
+  contig_47189                      17124
+  contig_47266                      18084
+  contig_48085                      13517
+  contig_48705                      17774
+  contig_49036                      16545
+  contig_49320                      16254
+  contig_49324                      13147
+  contig_49358                      10613
+  contig_49430                      14028
+  contig_49664                      13119
+  contig_50224                      16079
+  contig_50496                      13362
+  contig_51932                      14345
+  contig_52405                      16947
+  contig_52837                      16779
+  contig_53444                      11798
+  contig_53519                      15660
+  contig_54835                      14692
+  contig_54896                      20767
+  contig_56103                      12749
+  contig_58613                      13540
+  contig_58849                      20425
+  contig_59813                      10950
+  contig_59831                      13804
+  contig_60322                      12964
+  contig_60572                      13089
+  contig_63291                      10820
+  contig_63486                      13399
+  contig_63855                      10212
+  contig_63936                      13387
+  contig_64352                      10105
+  contig_64617                      13079
+  contig_64713                      12872
+  contig_65230                      11226
+  contig_65423                      13821
+  contig_65461                      13944
+  contig_65986                      11873
+  contig_67321                      10025
+  contig_67467                      14883
+  contig_67997                      19153
+  contig_68035                      10830
+  contig_68170                      16907
+  contig_68233                      12695
+  contig_68467                      10067
+  contig_69057                      10526
+  contig_69126                      29370
+  contig_69876                      13248
+  contig_69907                      10940
+  contig_70249                      12619
+  contig_70425                      14054
+  contig_70503                      14242
+  contig_70730                      13030
+  contig_70921                      10955
+  contig_70956                      13612
+  contig_71927                      10289
+  contig_72054                      12408
+  contig_72601                      10155
+  contig_73318                      13016
+  contig_73880                      15884
+  contig_75492                      12606
+  contig_78826                      19497
+  contig_80418                      12444
+
+  Length 10006                          2
+  Length 10010                          1
+  Length 10011                          1
+  Length 10015                          1
+  Length 10017                          1
+  Length 10018                          1
+  Length 10022                          1
+  Length 10025                          2
+  Length 10029                          2
+  Length 10030                          1
+  Length 10032                          1
+  Length 10034                          2
+  Length 10037                          1
+  Length 10039                          2
+  Length 10041                          1
+  Length 10042                          2
+  Length 10044                          1
+  Length 10046                          1
+  Length 10054                          1
+  Length 10055                          2
+  Length 10062                          2
+  Length 10064                          1
+  Length 10067                          3
+  Length 10073                          1
+  Length 10075                          1
+  Length 10078                          1
+  Length 10079                          2
+  Length 10084                          1
+  Length 10086                          1
+  Length 10095                          1
+  Length 10100                          2
+  Length 10102                          1
+  Length 10105                          5
+  Length 10107                          1
+  Length 10109                          1
+  Length 10110                          1
+  Length 10112                          1
+  Length 10114                          1
+  Length 10117                          2
+  Length 10119                          1
+  Length 10121                          2
+  Length 10123                          1
+  Length 10127                          1
+  Length 10131                          2
+  Length 10133                          1
+  Length 10134                          1
+  Length 10137                          1
+  Length 10143                          1
+  Length 10145                          1
+  Length 10148                          1
+  Length 10150                          1
+  Length 10155                          1
+  Length 10159                          1
+  Length 10161                          1
+  Length 10167                          1
+  Length 10168                          1
+  Length 10169                          1
+  Length 10170                          1
+  Length 10171                          1
+  Length 10174                          1
+  Length 10176                          1
+  Length 10179                          1
+  Length 10180                          1
+  Length 10187                          1
+  Length 10191                          1
+  Length 10194                          1
+  Length 10198                          1
+  Length 10202                          1
+  Length 10203                          1
+  Length 10212                          1
+  Length 10216                          1
+  Length 10218                          1
+  Length 10224                          1
+  Length 10228                          2
+  Length 10236                          1
+  Length 10241                          2
+  Length 10242                          1
+  Length 10244                          1
+  Length 10245                          1
+  Length 10258                          1
+  Length 10259                          1
+  Length 10261                          1
+  Length 10267                          1
+  Length 10269                          1
+  Length 10277                          2
+  Length 10281                          1
+  Length 10283                          1
+  Length 10284                          1
+  Length 10285                          1
+  Length 10289                          2
+  Length 10292                          2
+  Length 10293                          1
+  Length 10294                          1
+  Length 10307                          1
+  Length 10309                          1
+  Length 10313                          2
+  Length 10317                          2
+  Length 10318                          1
+  Length 10320                          1
+  Length 10322                          2
+  Length 10324                          1
+  Length 10328                          2
+  Length 10332                          1
+  Length 10333                          2
+  Length 10336                          1
+  Length 10338                          2
+  Length 10339                          2
+  Length 10345                          1
+  Length 10348                          2
+  Length 10363                          1
+  Length 10368                          1
+  Length 10369                          1
+  Length 10372                          2
+  Length 10376                          1
+  Length 10378                          1
+  Length 10379                          1
+  Length 10384                          1
+  Length 10385                          1
+  Length 10387                          1
+  Length 10388                          1
+  Length 10389                          1
+  Length 10390                          1
+  Length 10392                          2
+  Length 10393                          1
+  Length 10397                          1
+  Length 10400                          1
+  Length 10408                          2
+  Length 10413                          1
+  Length 10414                          1
+  Length 10418                          1
+  Length 10420                          1
+  Length 10431                          1
+  Length 10439                          1
+  Length 10441                          1
+  Length 10442                          1
+  Length 10447                          1
+  Length 10450                          2
+  Length 10455                          1
+  Length 10458                          1
+  Length 10466                          2
+  Length 10470                          1
+  Length 10471                          1
+  Length 10478                          1
+  Length 10482                          2
+  Length 10485                          1
+  Length 10491                          1
+  Length 10496                          2
+  Length 10500                          1
+  Length 10503                          1
+  Length 10507                          2
+  Length 10510                          1
+  Length 10515                          1
+  Length 10516                          1
+  Length 10517                          1
+  Length 10519                          2
+  Length 10520                          1
+  Length 10525                          2
+  Length 10526                          2
+  Length 10539                          2
+  Length 10540                          1
+  Length 10543                          2
+  Length 10544                          1
+  Length 10545                          2
+  Length 10546                          1
+  Length 10547                          1
+  Length 10548                          1
+  Length 10551                          1
+  Length 10555                          1
+  Length 10559                          1
+  Length 10564                          1
+  Length 10565                          1
+  Length 10566                          1
+  Length 10568                          1
+  Length 10570                          1
+  Length 10571                          1
+  Length 10572                          1
+  Length 10577                          1
+  Length 10580                          1
+  Length 10586                          1
+  Length 10590                          1
+  Length 10591                          1
+  Length 10598                          1
+  Length 10612                          1
+  Length 10613                          1
+  Length 10614                          3
+  Length 10622                          1
+  Length 10635                          1
+  Length 10638                          1
+  Length 10641                          1
+  Length 10644                          1
+  Length 10651                          1
+  Length 10659                          1
+  Length 10662                          1
+  Length 10663                          1
+  Length 10664                          1
+  Length 10666                          1
+  Length 10667                          2
+  Length 10670                          1
+  Length 10677                          1
+  Length 10679                          1
+  Length 10684                          1
+  Length 10688                          1
+  Length 10694                          1
+  Length 10698                          1
+  Length 10708                          2
+  Length 10710                          1
+  Length 10717                          1
+  Length 10722                          1
+  Length 10723                          1
+  Length 10726                          1
+  Length 10734                          1
+  Length 10737                          1
+  Length 10740                          1
+  Length 10741                          2
+  Length 10745                          1
+  Length 10746                          1
+  Length 10748                          1
+  Length 10750                          2
+  Length 10753                          1
+  Length 10756                          1
+  Length 10760                          1
+  Length 10762                          2
+  Length 10769                          1
+  Length 10777                          1
+  Length 10778                          1
+  Length 10781                          1
+  Length 10788                          1
+  Length 10791                          2
+  Length 10793                          1
+  Length 10795                          1
+  Length 10799                          2
+  Length 10801                          1
+  Length 10802                          1
+  Length 10805                          1
+  Length 10817                          1
+  Length 10820                          1
+  Length 10826                          1
+  Length 10830                          1
+  Length 10846                          1
+  Length 10848                          2
+  Length 10849                          4
+  Length 10851                          1
+  Length 10852                          2
+  Length 10855                          1
+  Length 10856                          1
+  Length 10857                          1
+  Length 10862                          1
+  Length 10865                          1
+  Length 10866                          2
+  Length 10876                          2
+  Length 10877                          1
+  Length 10879                          1
+  Length 10881                          1
+  Length 10882                          1
+  Length 10886                          1
+  Length 10892                          3
+  Length 10896                          1
+  Length 10897                          1
+  Length 10898                          1
+  Length 10903                          1
+  Length 10907                          1
+  Length 10913                          1
+  Length 10917                          1
+  Length 10919                          1
+  Length 10920                          1
+  Length 10924                          1
+  Length 10926                          1
+  Length 10929                          1
+  Length 10936                          1
+  Length 10940                          1
+  Length 10941                          1
+  Length 10944                          1
+  Length 10946                          1
+  Length 10947                          1
+  Length 10950                          1
+  Length 10951                          1
+  Length 10955                          1
+  Length 10958                          2
+  Length 10960                          1
+  Length 10965                          1
+  Length 10967                          1
+  Length 10974                          1
+  Length 10980                          1
+  Length 10987                          1
+  Length 10991                          1
+  Length 10993                          1
+  Length 10998                          2
+  Length 11001                          1
+  Length 11005                          1
+  Length 11008                          1
+  Length 11010                          1
+  Length 11011                          1
+  Length 11016                          1
+  Length 11017                          1
+  Length 11021                          1
+  Length 11025                          3
+  Length 11029                          1
+  Length 11033                          3
+  Length 11037                          1
+  Length 11038                          1
+  Length 11043                          1
+  Length 11050                          1
+  Length 11054                          1
+  Length 11055                          1
+  Length 11061                          1
+  Length 11065                          1
+  Length 11067                          1
+  Length 11069                          1
+  Length 11073                          1
+  Length 11074                          1
+  Length 11075                          1
+  Length 11077                          1
+  Length 11078                          1
+  Length 11085                          1
+  Length 11087                          1
+  Length 11088                          1
+  Length 11092                          1
+  Length 11093                          1
+  Length 11095                          1
+  Length 11099                          1
+  Length 11107                          1
+  Length 11111                          1
+  Length 11115                          1
+  Length 11117                          1
+  Length 11125                          1
+  Length 11126                          1
+  Length 11128                          1
+  Length 11133                          1
+  Length 11138                          1
+  Length 11140                          1
+  Length 11144                          1
+  Length 11145                          1
+  Length 11147                          1
+  Length 11151                          1
+  Length 11154                          1
+  Length 11155                          1
+  Length 11173                          1
+  Length 11175                          1
+  Length 11178                          3
+  Length 11187                          1
+  Length 11190                          1
+  Length 11197                          1
+  Length 11202                          2
+  Length 11204                          1
+  Length 11216                          1
+  Length 11218                          1
+  Length 11219                          1
+  Length 11222                          1
+  Length 11226                          1
+  Length 11232                          1
+  Length 11233                          1
+  Length 11235                          1
+  Length 11240                          1
+  Length 11241                          1
+  Length 11267                          1
+  Length 11268                          1
+  Length 11272                          1
+  Length 11279                          1
+  Length 11285                          1
+  Length 11286                          1
+  Length 11294                          1
+  Length 11296                          1
+  Length 11309                          1
+  Length 11311                          1
+  Length 11320                          1
+  Length 11321                          1
+  Length 11322                          1
+  Length 11326                          1
+  Length 11346                          1
+  Length 11356                          1
+  Length 11361                          1
+  Length 11366                          1
+  Length 11376                          1
+  Length 11377                          1
+  Length 11379                          1
+  Length 11381                          1
+  Length 11383                          1
+  Length 11384                          2
+  Length 11390                          1
+  Length 11391                          1
+  Length 11392                          2
+  Length 11395                          1
+  Length 11401                          1
+  Length 11403                          1
+  Length 11408                          1
+  Length 11409                          1
+  Length 11411                          1
+  Length 11412                          1
+  Length 11413                          1
+  Length 11422                          1
+  Length 11433                          1
+  Length 11440                          1
+  Length 11446                          1
+  Length 11453                          1
+  Length 11456                          1
+  Length 11461                          1
+  Length 11464                          1
+  Length 11473                          2
+  Length 11476                          1
+  Length 11480                          1
+  Length 11482                          1
+  Length 11489                          1
+  Length 11491                          1
+  Length 11496                          1
+  Length 11500                          1
+  Length 11507                          1
+  Length 11508                          1
+  Length 11515                          1
+  Length 11525                          2
+  Length 11528                          1
+  Length 11558                          1
+  Length 11563                          2
+  Length 11565                          3
+  Length 11574                          1
+  Length 11579                          2
+  Length 11587                          1
+  Length 11588                          1
+  Length 11594                          1
+  Length 11602                          1
+  Length 11603                          2
+  Length 11611                          1
+  Length 11613                          1
+  Length 11623                          1
+  Length 11625                          1
+  Length 11626                          1
+  Length 11633                          1
+  Length 11635                          1
+  Length 11637                          1
+  Length 11638                          1
+  Length 11644                          1
+  Length 11651                          1
+  Length 11654                          1
+  Length 11655                          1
+  Length 11656                          1
+  Length 11658                          1
+  Length 11662                          1
+  Length 11663                          1
+  Length 11669                          1
+  Length 11672                          1
+  Length 11673                          1
+  Length 11675                          1
+  Length 11678                          1
+  Length 11682                          1
+  Length 11685                          1
+  Length 11687                          1
+  Length 11690                          1
+  Length 11691                          1
+  Length 11695                          1
+  Length 11698                          3
+  Length 11719                          1
+  Length 11720                          1
+  Length 11731                          1
+  Length 11749                          1
+  Length 11751                          2
+  Length 11754                          1
+  Length 11755                          1
+  Length 11758                          1
+  Length 11760                          1
+  Length 11762                          1
+  Length 11768                          2
+  Length 11772                          1
+  Length 11773                          1
+  Length 11784                          1
+  Length 11786                          1
+  Length 11787                          1
+  Length 11789                          1
+  Length 11792                          1
+  Length 11797                          1
+  Length 11798                          1
+  Length 11807                          1
+  Length 11808                          1
+  Length 11809                          4
+  Length 11815                          1
+  Length 11822                          1
+  Length 11823                          1
+  Length 11824                          1
+  Length 11834                          1
+  Length 11843                          1
+  Length 11845                          1
+  Length 11853                          1
+  Length 11856                          1
+  Length 11863                          1
+  Length 11867                          2
+  Length 11871                          1
+  Length 11872                          1
+  Length 11873                          2
+  Length 11874                          1
+  Length 11888                          1
+  Length 11892                          2
+  Length 11901                          2
+  Length 11903                          1
+  Length 11910                          1
+  Length 11911                          1
+  Length 11915                          1
+  Length 11917                          1
+  Length 11919                          2
+  Length 11928                          2
+  Length 11949                          1
+  Length 11952                          1
+  Length 11964                          1
+  Length 11966                          1
+  Length 11976                          1
+  Length 11978                          1
+  Length 11980                          1
+  Length 11982                          1
+  Length 11987                          1
+  Length 11989                          1
+  Length 11992                          1
+  Length 12007                          1
+  Length 12008                          1
+  Length 12010                          1
+  Length 12025                          1
+  Length 12026                          1
+  Length 12030                          2
+  Length 12035                          1
+  Length 12042                          1
+  Length 12048                          1
+  Length 12052                          1
+  Length 12053                          1
+  Length 12056                          1
+  Length 12062                          1
+  Length 12071                          1
+  Length 12073                          2
+  Length 12081                          1
+  Length 12085                          1
+  Length 12087                          1
+  Length 12093                          1
+  Length 12099                          1
+  Length 12105                          1
+  Length 12110                          1
+  Length 12111                          2
+  Length 12113                          1
+  Length 12116                          1
+  Length 12121                          2
+  Length 12122                          1
+  Length 12125                          1
+  Length 12140                          1
+  Length 12145                          1
+  Length 12155                          1
+  Length 12172                          1
+  Length 12173                          1
+  Length 12177                          1
+  Length 12179                          1
+  Length 12181                          1
+  Length 12184                          1
+  Length 12187                          1
+  Length 12190                          1
+  Length 12191                          1
+  Length 12192                          1
+  Length 12202                          1
+  Length 12208                          1
+  Length 12209                          1
+  Length 12214                          1
+  Length 12222                          1
+  Length 12226                          1
+  Length 12228                          1
+  Length 12229                          1
+  Length 12232                          1
+  Length 12243                          1
+  Length 12248                          1
+  Length 12265                          1
+  Length 12268                          2
+  Length 12273                          1
+  Length 12277                          1
+  Length 12279                          1
+  Length 12286                          1
+  Length 12289                          1
+  Length 12291                          2
+  Length 12295                          1
+  Length 12304                          1
+  Length 12306                          2
+  Length 12309                          1
+  Length 12312                          1
+  Length 12316                          1
+  Length 12321                          1
+  Length 12328                          1
+  Length 12337                          1
+  Length 12345                          1
+  Length 12350                          1
+  Length 12351                          1
+  Length 12359                          1
+  Length 12362                          2
+  Length 12367                          2
+  Length 12381                          1
+  Length 12395                          1
+  Length 12408                          1
+  Length 12413                          1
+  Length 12414                          1
+  Length 12416                          1
+  Length 12417                          1
+  Length 12418                          1
+  Length 12422                          1
+  Length 12424                          1
+  Length 12433                          1
+  Length 12444                          1
+  Length 12446                          1
+  Length 12449                          1
+  Length 12450                          2
+  Length 12455                          1
+  Length 12458                          1
+  Length 12460                          1
+  Length 12466                          1
+  Length 12484                          1
+  Length 12486                          1
+  Length 12492                          1
+  Length 12494                          1
+  Length 12502                          1
+  Length 12514                          1
+  Length 12516                          1
+  Length 12517                          1
+  Length 12525                          1
+  Length 12526                          1
+  Length 12527                          1
+  Length 12528                          1
+  Length 12531                          2
+  Length 12548                          1
+  Length 12553                          1
+  Length 12555                          1
+  Length 12559                          1
+  Length 12563                          2
+  Length 12564                          1
+  Length 12567                          1
+  Length 12569                          2
+  Length 12576                          1
+  Length 12583                          1
+  Length 12599                          1
+  Length 12602                          1
+  Length 12603                          2
+  Length 12606                          2
+  Length 12618                          1
+  Length 12619                          1
+  Length 12625                          1
+  Length 12628                          1
+  Length 12631                          1
+  Length 12633                          1
+  Length 12637                          1
+  Length 12649                          3
+  Length 12657                          1
+  Length 12662                          1
+  Length 12674                          1
+  Length 12681                          1
+  Length 12687                          2
+  Length 12688                          1
+  Length 12691                          1
+  Length 12695                          1
+  Length 12703                          1
+  Length 12711                          1
+  Length 12713                          1
+  Length 12719                          2
+  Length 12721                          1
+  Length 12727                          1
+  Length 12742                          1
+  Length 12743                          1
+  Length 12749                          1
+  Length 12758                          2
+  Length 12759                          1
+  Length 12775                          1
+  Length 12777                          2
+  Length 12784                          1
+  Length 12785                          1
+  Length 12789                          1
+  Length 12800                          2
+  Length 12802                          1
+  Length 12813                          1
+  Length 12818                          1
+  Length 12830                          2
+  Length 12839                          1
+  Length 12845                          1
+  Length 12847                          1
+  Length 12856                          1
+  Length 12859                          1
+  Length 12865                          1
+  Length 12866                          1
+  Length 12869                          1
+  Length 12871                          1
+  Length 12872                          1
+  Length 12883                          1
+  Length 12888                          1
+  Length 12889                          1
+  Length 12896                          1
+  Length 12904                          1
+  Length 12909                          1
+  Length 12911                          1
+  Length 12917                          1
+  Length 12919                          1
+  Length 12928                          1
+  Length 12929                          1
+  Length 12935                          1
+  Length 12939                          1
+  Length 12941                          2
+  Length 12944                          1
+  Length 12953                          1
+  Length 12955                          1
+  Length 12964                          2
+  Length 12973                          2
+  Length 12975                          1
+  Length 12997                          1
+  Length 13001                          1
+  Length 13004                          1
+  Length 13005                          1
+  Length 13013                          1
+  Length 13016                          1
+  Length 13017                          1
+  Length 13030                          3
+  Length 13034                          1
+  Length 13036                          1
+  Length 13039                          1
+  Length 13040                          1
+  Length 13043                          2
+  Length 13046                          1
+  Length 13050                          1
+  Length 13052                          1
+  Length 13055                          1
+  Length 13057                          1
+  Length 13059                          1
+  Length 13060                          1
+  Length 13062                          1
+  Length 13065                          1
+  Length 13070                          1
+  Length 13073                          2
+  Length 13079                          2
+  Length 13080                          1
+  Length 13084                          1
+  Length 13089                          1
+  Length 13090                          1
+  Length 13101                          1
+  Length 13116                          1
+  Length 13119                          1
+  Length 13129                          1
+  Length 13130                          1
+  Length 13131                          1
+  Length 13139                          2
+  Length 13144                          2
+  Length 13147                          1
+  Length 13148                          1
+  Length 13163                          2
+  Length 13167                          1
+  Length 13168                          1
+  Length 13169                          1
+  Length 13181                          1
+  Length 13182                          1
+  Length 13183                          1
+  Length 13184                          2
+  Length 13188                          2
+  Length 13192                          1
+  Length 13199                          1
+  Length 13201                          1
+  Length 13205                          1
+  Length 13217                          2
+  Length 13218                          1
+  Length 13220                          1
+  Length 13224                          2
+  Length 13231                          1
+  Length 13232                          1
+  Length 13248                          2
+  Length 13254                          1
+  Length 13262                          1
+  Length 13270                          1
+  Length 13273                          1
+  Length 13278                          1
+  Length 13279                          1
+  Length 13282                          1
+  Length 13283                          1
+  Length 13285                          1
+  Length 13296                          1
+  Length 13307                          1
+  Length 13309                          1
+  Length 13312                          1
+  Length 13314                          1
+  Length 13317                          2
+  Length 13321                          1
+  Length 13331                          1
+  Length 13332                          1
+  Length 13350                          1
+  Length 13351                          2
+  Length 13362                          1
+  Length 13366                          1
+  Length 13368                          1
+  Length 13372                          1
+  Length 13378                          1
+  Length 13379                          1
+  Length 13380                          1
+  Length 13387                          1
+  Length 13389                          1
+  Length 13390                          1
+  Length 13398                          1
+  Length 13399                          1
+  Length 13409                          1
+  Length 13419                          2
+  Length 13433                          1
+  Length 13435                          1
+  Length 13439                          1
+  Length 13440                          1
+  Length 13442                          1
+  Length 13460                          1
+  Length 13461                          1
+  Length 13469                          1
+  Length 13470                          1
+  Length 13473                          1
+  Length 13481                          1
+  Length 13482                          1
+  Length 13500                          1
+  Length 13506                          1
+  Length 13508                          1
+  Length 13517                          1
+  Length 13521                          1
+  Length 13524                          1
+  Length 13526                          1
+  Length 13535                          1
+  Length 13540                          2
+  Length 13542                          1
+  Length 13543                          1
+  Length 13544                          1
+  Length 13547                          3
+  Length 13548                          1
+  Length 13553                          1
+  Length 13554                          1
+  Length 13557                          1
+  Length 13572                          1
+  Length 13573                          1
+  Length 13577                          1
+  Length 13581                          2
+  Length 13584                          1
+  Length 13586                          2
+  Length 13601                          1
+  Length 13612                          1
+  Length 13615                          1
+  Length 13616                          1
+  Length 13623                          1
+  Length 13626                          1
+  Length 13632                          1
+  Length 13636                          1
+  Length 13640                          2
+  Length 13649                          1
+  Length 13650                          1
+  Length 13658                          1
+  Length 13664                          1
+  Length 13667                          1
+  Length 13668                          1
+  Length 13670                          1
+  Length 13677                          1
+  Length 13684                          1
+  Length 13687                          1
+  Length 13693                          1
+  Length 13708                          1
+  Length 13737                          1
+  Length 13744                          1
+  Length 13756                          1
+  Length 13769                          1
+  Length 13770                          1
+  Length 13781                          2
+  Length 13782                          1
+  Length 13799                          1
+  Length 13800                          1
+  Length 13804                          1
+  Length 13806                          1
+  Length 13807                          1
+  Length 13810                          1
+  Length 13821                          1
+  Length 13823                          1
+  Length 13825                          1
+  Length 13827                          1
+  Length 13828                          1
+  Length 13835                          1
+  Length 13836                          1
+  Length 13840                          1
+  Length 13850                          1
+  Length 13856                          1
+  Length 13859                          1
+  Length 13863                          1
+  Length 13865                          1
+  Length 13866                          1
+  Length 13868                          1
+  Length 13871                          1
+  Length 13879                          1
+  Length 13882                          1
+  Length 13883                          1
+  Length 13898                          1
+  Length 13899                          1
+  Length 13904                          1
+  Length 13907                          1
+  Length 13922                          1
+  Length 13928                          1
+  Length 13935                          1
+  Length 13944                          1
+  Length 13945                          1
+  Length 13947                          1
+  Length 13953                          1
+  Length 13958                          1
+  Length 13960                          1
+  Length 13981                          1
+  Length 14008                          3
+  Length 14010                          1
+  Length 14014                          1
+  Length 14023                          1
+  Length 14026                          1
+  Length 14028                          1
+  Length 14029                          2
+  Length 14035                          1
+  Length 14039                          1
+  Length 14043                          1
+  Length 14048                          1
+  Length 14049                          2
+  Length 14054                          2
+  Length 14063                          1
+  Length 14069                          1
+  Length 14076                          1
+  Length 14081                          1
+  Length 14090                          1
+  Length 14093                          1
+  Length 14112                          1
+  Length 14115                          1
+  Length 14116                          1
+  Length 14123                          2
+  Length 14131                          1
+  Length 14132                          1
+  Length 14136                          1
+  Length 14141                          1
+  Length 14160                          2
+  Length 14161                          1
+  Length 14171                          1
+  Length 14194                          2
+  Length 14198                          2
+  Length 14200                          1
+  Length 14211                          1
+  Length 14213                          1
+  Length 14230                          1
+  Length 14237                          1
+  Length 14242                          1
+  Length 14243                          1
+  Length 14249                          1
+  Length 14253                          1
+  Length 14255                          1
+  Length 14256                          3
+  Length 14263                          1
+  Length 14269                          1
+  Length 14273                          1
+  Length 14275                          1
+  Length 14277                          1
+  Length 14278                          1
+  Length 14284                          1
+  Length 14285                          1
+  Length 14301                          1
+  Length 14310                          2
+  Length 14311                          1
+  Length 14320                          1
+  Length 14323                          2
+  Length 14327                          1
+  Length 14331                          1
+  Length 14332                          1
+  Length 14342                          1
+  Length 14345                          1
+  Length 14346                          1
+  Length 14362                          1
+  Length 14376                          1
+  Length 14386                          1
+  Length 14388                          1
+  Length 14393                          1
+  Length 14394                          1
+  Length 14399                          1
+  Length 14405                          1
+  Length 14410                          1
+  Length 14429                          2
+  Length 14432                          1
+  Length 14434                          2
+  Length 14436                          1
+  Length 14444                          1
+  Length 14449                          1
+  Length 14453                          1
+  Length 14459                          1
+  Length 14468                          2
+  Length 14470                          1
+  Length 14471                          1
+  Length 14476                          1
+  Length 14480                          1
+  Length 14484                          1
+  Length 14490                          1
+  Length 14499                          1
+  Length 14501                          1
+  Length 14505                          1
+  Length 14507                          1
+  Length 14521                          1
+  Length 14536                          1
+  Length 14551                          1
+  Length 14555                          1
+  Length 14557                          1
+  Length 14568                          1
+  Length 14576                          1
+  Length 14602                          1
+  Length 14616                          1
+  Length 14625                          1
+  Length 14630                          1
+  Length 14641                          1
+  Length 14645                          1
+  Length 14646                          1
+  Length 14648                          1
+  Length 14655                          1
+  Length 14658                          1
+  Length 14661                          1
+  Length 14668                          1
+  Length 14673                          2
+  Length 14675                          1
+  Length 14682                          1
+  Length 14692                          2
+  Length 14695                          1
+  Length 14703                          1
+  Length 14705                          1
+  Length 14707                          1
+  Length 14712                          1
+  Length 14713                          1
+  Length 14716                          1
+  Length 14724                          1
+  Length 14725                          1
+  Length 14728                          1
+  Length 14731                          1
+  Length 14736                          1
+  Length 14737                          2
+  Length 14739                          1
+  Length 14756                          1
+  Length 14780                          1
+  Length 14781                          1
+  Length 14787                          1
+  Length 14788                          1
+  Length 14798                          1
+  Length 14800                          1
+  Length 14808                          2
+  Length 14817                          1
+  Length 14823                          1
+  Length 14824                          1
+  Length 14827                          2
+  Length 14833                          1
+  Length 14839                          1
+  Length 14845                          1
+  Length 14847                          1
+  Length 14850                          1
+  Length 14858                          1
+  Length 14861                          1
+  Length 14871                          1
+  Length 14872                          1
+  Length 14879                          3
+  Length 14883                          1
+  Length 14884                          1
+  Length 14891                          1
+  Length 14901                          1
+  Length 14905                          1
+  Length 14908                          1
+  Length 14933                          1
+  Length 14937                          1
+  Length 14941                          1
+  Length 14980                          1
+  Length 14982                          1
+  Length 14983                          1
+  Length 15014                          1
+  Length 15024                          1
+  Length 15030                          1
+  Length 15037                          1
+  Length 15047                          1
+  Length 15050                          1
+  Length 15055                          1
+  Length 15057                          1
+  Length 15059                          1
+  Length 15063                          1
+  Length 15072                          1
+  Length 15081                          1
+  Length 15092                          1
+  Length 15108                          1
+  Length 15111                          1
+  Length 15125                          1
+  Length 15152                          1
+  Length 15160                          1
+  Length 15166                          1
+  Length 15167                          1
+  Length 15181                          1
+  Length 15185                          1
+  Length 15199                          1
+  Length 15215                          1
+  Length 15218                          1
+  Length 15224                          1
+  Length 15228                          1
+  Length 15238                          1
+  Length 15239                          1
+  Length 15247                          1
+  Length 15255                          1
+  Length 15263                          1
+  Length 15291                          1
+  Length 15299                          1
+  Length 15301                          1
+  Length 15303                          1
+  Length 15308                          1
+  Length 15313                          1
+  Length 15316                          1
+  Length 15321                          1
+  Length 15323                          1
+  Length 15325                          1
+  Length 15340                          1
+  Length 15362                          1
+  Length 15374                          1
+  Length 15380                          1
+  Length 15389                          1
+  Length 15411                          1
+  Length 15414                          1
+  Length 15431                          1
+  Length 15439                          1
+  Length 15443                          1
+  Length 15454                          1
+  Length 15461                          1
+  Length 15462                          2
+  Length 15465                          1
+  Length 15466                          1
+  Length 15474                          1
+  Length 15481                          1
+  Length 15498                          1
+  Length 15500                          1
+  Length 15502                          1
+  Length 15504                          2
+  Length 15514                          1
+  Length 15522                          1
+  Length 15525                          1
+  Length 15526                          1
+  Length 15528                          1
+  Length 15529                          1
+  Length 15553                          1
+  Length 15573                          2
+  Length 15581                          1
+  Length 15584                          1
+  Length 15587                          1
+  Length 15597                          1
+  Length 15600                          1
+  Length 15605                          1
+  Length 15616                          1
+  Length 15625                          1
+  Length 15627                          1
+  Length 15629                          1
+  Length 15636                          1
+  Length 15638                          1
+  Length 15656                          1
+  Length 15660                          1
+  Length 15677                          1
+  Length 15683                          1
+  Length 15686                          1
+  Length 15695                          1
+  Length 15720                          1
+  Length 15736                          1
+  Length 15751                          1
+  Length 15767                          2
+  Length 15770                          1
+  Length 15774                          1
+  Length 15782                          1
+  Length 15794                          1
+  Length 15811                          1
+  Length 15820                          1
+  Length 15831                          1
+  Length 15834                          2
+  Length 15840                          1
+  Length 15877                          1
+  Length 15884                          1
+  Length 15888                          1
+  Length 15895                          1
+  Length 15908                          2
+  Length 15914                          1
+  Length 15929                          1
+  Length 15936                          1
+  Length 15940                          1
+  Length 15948                          1
+  Length 15957                          1
+  Length 15961                          1
+  Length 15969                          1
+  Length 15973                          1
+  Length 15981                          2
+  Length 15982                          1
+  Length 15991                          1
+  Length 15995                          1
+  Length 15999                          1
+  Length 16001                          1
+  Length 16015                          1
+  Length 16025                          1
+  Length 16035                          2
+  Length 16038                          1
+  Length 16041                          1
+  Length 16046                          1
+  Length 16052                          1
+  Length 16064                          1
+  Length 16078                          1
+  Length 16079                          1
+  Length 16085                          1
+  Length 16088                          1
+  Length 16089                          1
+  Length 16110                          1
+  Length 16115                          1
+  Length 16116                          1
+  Length 16122                          2
+  Length 16123                          1
+  Length 16129                          1
+  Length 16132                          1
+  Length 16140                          1
+  Length 16145                          1
+  Length 16151                          1
+  Length 16172                          1
+  Length 16178                          1
+  Length 16181                          1
+  Length 16192                          1
+  Length 16210                          1
+  Length 16223                          1
+  Length 16228                          1
+  Length 16236                          1
+  Length 16241                          1
+  Length 16247                          1
+  Length 16254                          1
+  Length 16260                          2
+  Length 16264                          1
+  Length 16269                          1
+  Length 16277                          1
+  Length 16280                          1
+  Length 16297                          1
+  Length 16301                          1
+  Length 16330                          1
+  Length 16338                          1
+  Length 16363                          1
+  Length 16364                          1
+  Length 16369                          1
+  Length 16373                          1
+  Length 16378                          1
+  Length 16384                          2
+  Length 16398                          1
+  Length 16416                          1
+  Length 16425                          1
+  Length 16428                          1
+  Length 16429                          2
+  Length 16432                          1
+  Length 16439                          1
+  Length 16445                          1
+  Length 16473                          1
+  Length 16474                          1
+  Length 16496                          1
+  Length 16501                          1
+  Length 16523                          1
+  Length 16527                          1
+  Length 16545                          1
+  Length 16560                          1
+  Length 16566                          1
+  Length 16593                          1
+  Length 16594                          1
+  Length 16634                          1
+  Length 16657                          1
+  Length 16660                          1
+  Length 16671                          1
+  Length 16676                          1
+  Length 16683                          1
+  Length 16692                          1
+  Length 16703                          1
+  Length 16752                          1
+  Length 16777                          1
+  Length 16779                          2
+  Length 16780                          1
+  Length 16788                          1
+  Length 16797                          1
+  Length 16801                          1
+  Length 16811                          1
+  Length 16812                          1
+  Length 16830                          1
+  Length 16841                          1
+  Length 16844                          1
+  Length 16852                          1
+  Length 16862                          1
+  Length 16871                          2
+  Length 16877                          1
+  Length 16887                          1
+  Length 16888                          1
+  Length 16890                          1
+  Length 16892                          1
+  Length 16893                          1
+  Length 16896                          1
+  Length 16907                          1
+  Length 16926                          1
+  Length 16929                          1
+  Length 16947                          1
+  Length 16951                          1
+  Length 16965                          1
+  Length 16967                          1
+  Length 16970                          1
+  Length 16978                          1
+  Length 16998                          1
+  Length 17001                          1
+  Length 17044                          2
+  Length 17046                          1
+  Length 17049                          1
+  Length 17061                          1
+  Length 17084                          1
+  Length 17101                          1
+  Length 17122                          1
+  Length 17124                          1
+  Length 17126                          1
+  Length 17128                          1
+  Length 17150                          1
+  Length 17182                          1
+  Length 17202                          1
+  Length 17252                          1
+  Length 17260                          1
+  Length 17272                          1
+  Length 17282                          1
+  Length 17290                          1
+  Length 17307                          1
+  Length 17322                          1
+  Length 17345                          1
+  Length 17353                          1
+  Length 17373                          1
+  Length 17395                          1
+  Length 17399                          1
+  Length 17411                          1
+  Length 17415                          1
+  Length 17420                          1
+  Length 17421                          1
+  Length 17426                          1
+  Length 17428                          1
+  Length 17438                          1
+  Length 17462                          1
+  Length 17475                          1
+  Length 17518                          1
+  Length 17519                          1
+  Length 17527                          1
+  Length 17536                          1
+  Length 17561                          1
+  Length 17565                          1
+  Length 17589                          1
+  Length 17601                          1
+  Length 17604                          1
+  Length 17617                          1
+  Length 17618                          1
+  Length 17648                          1
+  Length 17651                          1
+  Length 17659                          1
+  Length 17665                          1
+  Length 17671                          1
+  Length 17699                          2
+  Length 17731                          1
+  Length 17732                          1
+  Length 17735                          1
+  Length 17741                          1
+  Length 17745                          1
+  Length 17751                          1
+  Length 17762                          1
+  Length 17767                          1
+  Length 17774                          1
+  Length 17785                          1
+  Length 17796                          1
+  Length 17805                          1
+  Length 17821                          1
+  Length 17833                          1
+  Length 17855                          1
+  Length 17876                          2
+  Length 17880                          1
+  Length 17885                          1
+  Length 17886                          1
+  Length 17887                          1
+  Length 17895                          1
+  Length 17914                          1
+  Length 17949                          1
+  Length 17950                          1
+  Length 17963                          1
+  Length 17969                          1
+  Length 17971                          1
+  Length 17990                          1
+  Length 18008                          1
+  Length 18041                          1
+  Length 18042                          1
+  Length 18084                          1
+  Length 18090                          1
+  Length 18092                          1
+  Length 18093                          1
+  Length 18095                          1
+  Length 18119                          1
+  Length 18121                          1
+  Length 18132                          1
+  Length 18143                          1
+  Length 18158                          1
+  Length 18176                          1
+  Length 18177                          1
+  Length 18180                          1
+  Length 18200                          1
+  Length 18216                          1
+  Length 18220                          1
+  Length 18231                          1
+  Length 18240                          2
+  Length 18285                          1
+  Length 18302                          1
+  Length 18309                          1
+  Length 18314                          1
+  Length 18343                          1
+  Length 18369                          1
+  Length 18401                          1
+  Length 18421                          2
+  Length 18430                          1
+  Length 18459                          1
+  Length 18491                          1
+  Length 18493                          1
+  Length 18494                          1
+  Length 18550                          1
+  Length 18559                          1
+  Length 18562                          1
+  Length 18577                          1
+  Length 18605                          2
+  Length 18615                          1
+  Length 18618                          1
+  Length 18644                          1
+  Length 18717                          1
+  Length 18723                          1
+  Length 18758                          1
+  Length 18762                          1
+  Length 18766                          1
+  Length 18768                          1
+  Length 18774                          1
+  Length 18781                          1
+  Length 18792                          1
+  Length 18797                          1
+  Length 18805                          1
+  Length 18817                          1
+  Length 18863                          1
+  Length 18888                          1
+  Length 18903                          1
+  Length 18906                          1
+  Length 18955                          1
+  Length 18962                          1
+  Length 18964                          1
+  Length 18968                          1
+  Length 18978                          1
+  Length 18985                          1
+  Length 18993                          1
+  Length 19001                          1
+  Length 19015                          1
+  Length 19020                          1
+  Length 19036                          1
+  Length 19058                          1
+  Length 19064                          1
+  Length 19085                          1
+  Length 19104                          2
+  Length 19110                          1
+  Length 19115                          1
+  Length 19131                          1
+  Length 19137                          1
+  Length 19146                          1
+  Length 19147                          1
+  Length 19153                          1
+  Length 19174                          1
+  Length 19186                          1
+  Length 19223                          1
+  Length 19231                          1
+  Length 19255                          1
+  Length 19292                          1
+  Length 19337                          1
+  Length 19338                          1
+  Length 19366                          1
+  Length 19369                          1
+  Length 19386                          1
+  Length 19387                          1
+  Length 19403                          1
+  Length 19464                          1
+  Length 19465                          1
+  Length 19477                          1
+  Length 19485                          1
+  Length 19497                          1
+  Length 19500                          1
+  Length 19501                          1
+  Length 19530                          1
+  Length 19534                          1
+  Length 19540                          2
+  Length 19549                          1
+  Length 19572                          1
+  Length 19576                          1
+  Length 19587                          1
+  Length 19616                          1
+  Length 19645                          1
+  Length 19655                          1
+  Length 19664                          1
+  Length 19674                          1
+  Length 19710                          1
+  Length 19712                          1
+  Length 19741                          1
+  Length 19757                          1
+  Length 19760                          1
+  Length 19762                          1
+  Length 19778                          1
+  Length 19787                          1
+  Length 19824                          1
+  Length 19829                          1
+  Length 19851                          1
+  Length 19885                          1
+  Length 19908                          1
+  Length 19942                          1
+  Length 19956                          1
+  Length 20024                          1
+  Length 20025                          1
+  Length 20040                          1
+  Length 20063                          1
+  Length 20073                          1
+  Length 20082                          1
+  Length 20085                          1
+  Length 20092                          1
+  Length 20101                          1
+  Length 20112                          1
+  Length 20167                          2
+  Length 20175                          1
+  Length 20177                          1
+  Length 20185                          1
+  Length 20219                          1
+  Length 20228                          1
+  Length 20229                          1
+  Length 20234                          1
+  Length 20251                          1
+  Length 20266                          1
+  Length 20280                          1
+  Length 20296                          1
+  Length 20303                          1
+  Length 20311                          1
+  Length 20321                          1
+  Length 20337                          1
+  Length 20342                          1
+  Length 20352                          1
+  Length 20375                          1
+  Length 20382                          1
+  Length 20410                          1
+  Length 20415                          1
+  Length 20421                          1
+  Length 20425                          1
+  Length 20429                          1
+  Length 20449                          1
+  Length 20452                          1
+  Length 20459                          1
+  Length 20461                          1
+  Length 20497                          1
+  Length 20516                          1
+  Length 20532                          1
+  Length 20549                          1
+  Length 20592                          1
+  Length 20600                          1
+  Length 20613                          1
+  Length 20619                          1
+  Length 20668                          1
+  Length 20767                          2
+  Length 20775                          1
+  Length 20807                          1
+  Length 20808                          1
+  Length 20810                          1
+  Length 20813                          1
+  Length 20831                          1
+  Length 20848                          1
+  Length 20886                          1
+  Length 20893                          1
+  Length 20904                          1
+  Length 20913                          1
+  Length 20926                          1
+  Length 20935                          1
+  Length 20940                          1
+  Length 20951                          1
+  Length 20974                          1
+  Length 20977                          1
+  Length 21051                          1
+  Length 21062                          1
+  Length 21072                          1
+  Length 21075                          1
+  Length 21096                          1
+  Length 21120                          1
+  Length 21139                          1
+  Length 21190                          1
+  Length 21208                          1
+  Length 21245                          1
+  Length 21266                          1
+  Length 21280                          1
+  Length 21316                          1
+  Length 21322                          1
+  Length 21346                          1
+  Length 21365                          1
+  Length 21430                          1
+  Length 21436                          1
+  Length 21443                          1
+  Length 21446                          1
+  Length 21454                          1
+  Length 21458                          1
+  Length 21459                          1
+  Length 21469                          1
+  Length 21471                          1
+  Length 21472                          1
+  Length 21480                          1
+  Length 21493                          1
+  Length 21545                          1
+  Length 21551                          2
+  Length 21587                          1
+  Length 21589                          1
+  Length 21653                          1
+  Length 21679                          1
+  Length 21722                          1
+  Length 21806                          1
+  Length 21839                          1
+  Length 21867                          1
+  Length 21942                          1
+  Length 21947                          1
+  Length 22034                          1
+  Length 22066                          1
+  Length 22074                          1
+  Length 22099                          1
+  Length 22108                          1
+  Length 22115                          1
+  Length 22141                          1
+  Length 22151                          1
+  Length 22223                          1
+  Length 22237                          1
+  Length 22279                          1
+  Length 22297                          1
+  Length 22355                          1
+  Length 22357                          1
+  Length 22366                          1
+  Length 22387                          1
+  Length 22420                          1
+  Length 22443                          1
+  Length 22465                          1
+  Length 22469                          1
+  Length 22490                          1
+  Length 22495                          2
+  Length 22529                          1
+  Length 22534                          1
+  Length 22540                          1
+  Length 22574                          1
+  Length 22581                          1
+  Length 22586                          1
+  Length 22588                          1
+  Length 22589                          1
+  Length 22591                          1
+  Length 22601                          1
+  Length 22603                          1
+  Length 22620                          1
+  Length 22625                          1
+  Length 22645                          1
+  Length 22647                          1
+  Length 22661                          1
+  Length 22673                          1
+  Length 22733                          1
+  Length 22736                          1
+  Length 22823                          1
+  Length 22873                          1
+  Length 22907                          1
+  Length 22923                          1
+  Length 22933                          1
+  Length 22951                          1
+  Length 22959                          1
+  Length 22962                          1
+  Length 22973                          1
+  Length 23006                          1
+  Length 23038                          1
+  Length 23041                          1
+  Length 23063                          1
+  Length 23088                          1
+  Length 23101                          1
+  Length 23127                          1
+  Length 23164                          1
+  Length 23198                          1
+  Length 23199                          1
+  Length 23303                          1
+  Length 23313                          1
+  Length 23315                          1
+  Length 23329                          1
+  Length 23340                          1
+  Length 23442                          1
+  Length 23457                          1
+  Length 23470                          1
+  Length 23481                          1
+  Length 23488                          1
+  Length 23506                          1
+  Length 23516                          1
+  Length 23535                          1
+  Length 23563                          1
+  Length 23586                          1
+  Length 23589                          1
+  Length 23608                          1
+  Length 23652                          1
+  Length 23726                          1
+  Length 23795                          1
+  Length 23841                          1
+  Length 23844                          1
+  Length 23900                          1
+  Length 23912                          1
+  Length 23971                          1
+  Length 23985                          1
+  Length 24075                          1
+  Length 24106                          1
+  Length 24122                          1
+  Length 24126                          1
+  Length 24144                          1
+  Length 24165                          1
+  Length 24250                          1
+  Length 24335                          1
+  Length 24343                          1
+  Length 24422                          2
+  Length 24453                          1
+  Length 24482                          2
+  Length 24486                          1
+  Length 24487                          1
+  Length 24587                          1
+  Length 24623                          1
+  Length 24636                          1
+  Length 24686                          1
+  Length 24723                          1
+  Length 24724                          1
+  Length 24763                          1
+  Length 24835                          1
+  Length 24866                          1
+  Length 24885                          1
+  Length 24895                          1
+  Length 24919                          1
+  Length 24927                          1
+  Length 24940                          1
+  Length 24957                          1
+  Length 25003                          1
+  Length 25022                          1
+  Length 25061                          1
+  Length 25097                          1
+  Length 25106                          1
+  Length 25185                          1
+  Length 25268                          1
+  Length 25378                          1
+  Length 25436                          1
+  Length 25495                          1
+  Length 25528                          1
+  Length 25567                          1
+  Length 25585                          1
+  Length 25600                          1
+  Length 25631                          1
+  Length 25643                          1
+  Length 25661                          1
+  Length 25683                          1
+  Length 25684                          1
+  Length 25696                          1
+  Length 25706                          1
+  Length 25733                          1
+  Length 25813                          1
+  Length 25827                          1
+  Length 25828                          1
+  Length 25844                          1
+  Length 25852                          1
+  Length 25936                          1
+  Length 25947                          1
+  Length 25977                          1
+  Length 26014                          1
+  Length 26030                          1
+  Length 26140                          1
+  Length 26177                          1
+  Length 26187                          1
+  Length 26192                          1
+  Length 26352                          1
+  Length 26372                          1
+  Length 26397                          1
+  Length 26455                          1
+  Length 26465                          1
+  Length 26470                          1
+  Length 26584                          1
+  Length 26654                          1
+  Length 26689                          1
+  Length 26693                          1
+  Length 26763                          1
+  Length 26769                          1
+  Length 26796                          1
+  Length 26901                          1
+  Length 26911                          1
+  Length 26936                          1
+  Length 26954                          1
+  Length 26996                          1
+  Length 27024                          1
+  Length 27033                          1
+  Length 27051                          1
+  Length 27057                          1
+  Length 27125                          1
+  Length 27228                          2
+  Length 27235                          1
+  Length 27285                          1
+  Length 27321                          1
+  Length 27398                          1
+  Length 27423                          1
+  Length 27505                          1
+  Length 27519                          1
+  Length 27541                          1
+  Length 27550                          1
+  Length 27559                          1
+  Length 27579                          1
+  Length 27743                          1
+  Length 27857                          1
+  Length 27864                          1
+  Length 27875                          1
+  Length 27903                          1
+  Length 27996                          1
+  Length 28014                          1
+  Length 28028                          1
+  Length 28064                          1
+  Length 28082                          1
+  Length 28151                          1
+  Length 28230                          1
+  Length 28236                          1
+  Length 28408                          1
+  Length 28491                          1
+  Length 28522                          1
+  Length 28603                          1
+  Length 28676                          1
+  Length 28761                          1
+  Length 28840                          1
+  Length 28882                          1
+  Length 28993                          1
+  Length 29034                          1
+  Length 29228                          1
+  Length 29236                          1
+  Length 29295                          1
+  Length 29370                          1
+  Length 29392                          1
+  Length 29400                          1
+  Length 29481                          1
+  Length 29613                          1
+  Length 29670                          1
+  Length 29810                          1
+  Length 29860                          1
+  Length 29892                          1
+  Length 29942                          1
+  Length 29947                          1
+  Length 29988                          1
+  Length 30000                          1
+  Length 30007                          1
+  Length 30034                          1
+  Length 30107                          1
+  Length 30150                          1
+  Length 30177                          1
+  Length 30292                          1
+  Length 30293                          1
+  Length 30664                          1
+  Length 30752                          1
+  Length 30781                          1
+  Length 30791                          1
+  Length 30794                          1
+  Length 30810                          1
+  Length 30832                          1
+  Length 30918                          1
+  Length 30999                          1
+  Length 31162                          1
+  Length 31320                          1
+  Length 31361                          1
+  Length 31398                          1
+  Length 31569                          1
+  Length 31588                          1
+  Length 31613                          1
+  Length 31616                          1
+  Length 31624                          1
+  Length 31705                          1
+  Length 31777                          1
+  Length 31839                          1
+  Length 31898                          1
+  Length 32037                          1
+  Length 32155                          1
+  Length 32436                          1
+  Length 32496                          1
+  Length 32527                          1
+  Length 32767                          1
+  Length 32804                          1
+  Length 33031                          1
+  Length 33181                          1
+  Length 33207                          1
+  Length 33340                          1
+  Length 33348                          1
+  Length 33692                          1
+  Length 33846                          1
+  Length 33855                          1
+  Length 33870                          1
+  Length 33969                          1
+  Length 34025                          1
+  Length 34055                          1
+  Length 34058                          1
+  Length 34377                          1
+  Length 34393                          1
+  Length 34516                          1
+  Length 34521                          1
+  Length 34587                          1
+  Length 34657                          1
+  Length 34730                          1
+  Length 34796                          1
+  Length 34945                          1
+  Length 35044                          1
+  Length 35120                          1
+  Length 35141                          1
+  Length 35170                          1
+  Length 35192                          1
+  Length 35312                          1
+  Length 35435                          1
+  Length 35585                          1
+  Length 36718                          1
+  Length 36886                          1
+  Length 37085                          1
+  Length 37326                          1
+  Length 37422                          1
+  Length 37516                          1
+  Length 38004                          1
+  Length 38105                          1
+  Length 38242                          1
+  Length 38562                          1
+  Length 38631                          1
+  Length 39227                          1
+  Length 39251                          1
+  Length 39575                          1
+  Length 39759                          1
+  Length 40123                          1
+  Length 40199                          1
+  Length 40262                          1
+  Length 40462                          1
+  Length 41238                          1
+  Length 41512                          1
+  Length 41893                          1
+  Length 42330                          1
+  Length 42452                          1
+  Length 42831                          1
+  Length 43036                          1
+  Length 43168                          1
+  Length 44185                          1
+  Length 44256                          1
+  Length 44792                          1
+  Length 45936                          1
+  Length 46160                          1
+  Length 47193                          1
+  Length 47673                          1
+  Length 48057                          1
+  Length 48992                          1
+  Length 49346                          1
+  Length 55101                          1
+  Length 55187                          1
+  Length 58992                          1
+  Length 63336                          1
+  Length 63976                          1
+  Length 65298                          1
+  Length 75879                          1
+  Length 83950                          1
+
