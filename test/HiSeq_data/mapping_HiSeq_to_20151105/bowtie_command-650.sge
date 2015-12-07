@@ -1,0 +1,11 @@
+#$ -cwd
+#$ -pe mpich 10
+#$ -q high_mem
+#$ -S /bin/bash
+
+DB=/nobackup/data5/Skeletonema_marinoi_genome_project/test/MiSeq_data/20151105/Skeletonema_MiSeq_20151105_novo.fa
+FWD=/nobackup/data5/data/skeletonema/reads/7_140307_BC41G9ACXX_P926_101_1.FXT.CA.FQF.Pair.fastq
+REW=/nobackup/data5/data/skeletonema/reads/7_140307_BC41G9ACXX_P926_101_2.FXT.CA.FQF.Pair.fastq
+
+mapping_filtering.sh -d $DB -1 $FWD -2 $REW -n 650_lib -k -t $NSLOTS
+
