@@ -1,11 +1,11 @@
 #$ -cwd
-#$ -pe mpich 10
 #$ -q node0
 #$ -S /bin/bash
 
 DB=/nobackup/data5/Skeletonema_marinoi_genome_project/test/MiSeq_data/20151105/Skeletonema_MiSeq_20151105_novo.fa
 FWD=/nobackup/data5/data/skeletonema/reads/1_130204_AC1GK5ACXX_P286_109B_index2_1.fastq
 REW=/nobackup/data5/data/skeletonema/reads/1_130204_AC1GK5ACXX_P286_109B_index2_2.fastq
+HERE=/nobackup/data5/Skeletonema_marinoi_genome_project/test/HiSeq_data/mapping_HiSeq_to_20151105
 
-mapping_filtering.sh -d $DB -1 $FWD -2 $REW -n 150_lib -k -t $NSLOTS
+$HERE/mapping_filtering.sh -d $DB -1 $FWD -2 $REW -n 150_lib -k
 
