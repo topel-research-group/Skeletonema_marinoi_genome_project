@@ -1,6662 +1,3331 @@
-810089 unitig_3545|quiver
-539071 unitig_37|quiver
-521914 unitig_3752|quiver
-450842 unitig_46|quiver
-396607 unitig_3623|quiver
-388337 unitig_57|quiver
-387957 unitig_51|quiver
-353089 unitig_4002|quiver
-343317 unitig_4003|quiver
-330326 unitig_4010|quiver
-275852 unitig_3712|quiver
-247892 unitig_3632|quiver
-241337 unitig_44|quiver
-235985 unitig_3888|quiver
-232257 unitig_3930|quiver
-230861 unitig_3968|quiver
-229628 unitig_142|quiver
-229317 unitig_3984|quiver
-224964 unitig_3890|quiver
-219718 unitig_203|quiver
-213623 unitig_3477|quiver
-202184 unitig_3571|quiver
-200111 unitig_263|quiver
-198428 unitig_239|quiver
-197686 unitig_3656|quiver
-190901 unitig_369|quiver
-187069 unitig_169|quiver
-184364 unitig_3696|quiver
-183136 unitig_236|quiver
-176611 unitig_3817|quiver
-175754 unitig_3749|quiver
-173744 unitig_3382|quiver
-167631 unitig_3342|quiver
-163194 unitig_451|quiver
-161845 unitig_306|quiver
-160876 unitig_316|quiver
-159385 unitig_3852|quiver
-153502 unitig_3976|quiver
-151213 unitig_3918|quiver
-148537 unitig_49|quiver
-145151 unitig_456|quiver
-144545 unitig_3802|quiver
-142991 unitig_3829|quiver
-139327 unitig_63|quiver
-139130 unitig_35|quiver
-137587 unitig_646|quiver
-137309 unitig_3987|quiver
-136579 unitig_3672|quiver
-135962 unitig_329|quiver
-135668 unitig_3368|quiver
-135608 unitig_3978|quiver
-135373 unitig_3989|quiver
-135020 unitig_593|quiver
-134626 unitig_3877|quiver
-134334 unitig_3412|quiver
-133947 unitig_277|quiver
-133584 unitig_3983|quiver
-133351 unitig_84|quiver
-133311 unitig_376|quiver
-132516 unitig_3874|quiver
-131616 unitig_3328|quiver
-131261 unitig_3352|quiver
-130390 unitig_585|quiver
-130386 unitig_3567|quiver
-130197 unitig_432|quiver
-130044 unitig_3534|quiver
-129008 unitig_3979|quiver
-127759 unitig_90|quiver
-127431 unitig_855|quiver
-127378 unitig_741|quiver
-125751 unitig_3442|quiver
-125464 unitig_3993|quiver
-125427 unitig_374|quiver
-125170 unitig_3677|quiver
-124028 unitig_654|quiver
-123823 unitig_631|quiver
-123523 unitig_267|quiver
-123502 unitig_3727|quiver
-122645 unitig_3504|quiver
-120710 unitig_736|quiver
-120704 unitig_3853|quiver
-120417 unitig_650|quiver
-119450 unitig_3923|quiver
-119439 unitig_3805|quiver
-119105 unitig_712|quiver
-118696 unitig_3882|quiver
-118525 unitig_460|quiver
-118073 unitig_3676|quiver
-117444 unitig_3588|quiver
-115640 unitig_3556|quiver
-114706 unitig_3836|quiver
-113489 unitig_3523|quiver
-112585 unitig_677|quiver
-112294 unitig_3977|quiver
-110906 unitig_13|quiver
-110467 unitig_932|quiver
-108562 unitig_619|quiver
-107926 unitig_1221|quiver
-107796 unitig_160|quiver
-107780 unitig_3543|quiver
-106513 unitig_45|quiver
-106382 unitig_612|quiver
-106277 unitig_3419|quiver
-104727 unitig_112|quiver
-104521 unitig_264|quiver
-104295 unitig_351|quiver
-104153 unitig_651|quiver
-102996 unitig_3527|quiver
-102982 unitig_3924|quiver
-102978 unitig_3869|quiver
-102931 unitig_887|quiver
-102732 unitig_82|quiver
-102093 unitig_3619|quiver
-101330 unitig_411|quiver
-101299 unitig_466|quiver
-100936 unitig_1131|quiver
-100610 unitig_997|quiver
-100355 unitig_1082|quiver
-99954 unitig_132|quiver
-99349 unitig_475|quiver
-98590 unitig_950|quiver
-98585 unitig_3810|quiver
-98420 unitig_3898|quiver
-98329 unitig_1097|quiver
-98327 unitig_225|quiver
-98033 unitig_728|quiver
-98008 unitig_371|quiver
-97611 unitig_3889|quiver
-97491 unitig_491|quiver
-97328 unitig_3697|quiver
-97219 unitig_562|quiver
-96199 unitig_939|quiver
-95508 unitig_3959|quiver
-94365 unitig_817|quiver
-94134 unitig_852|quiver
-94085 unitig_414|quiver
-93903 unitig_234|quiver
-93523 unitig_705|quiver
-93317 unitig_3398|quiver
-93203 unitig_3444|quiver
-93141 unitig_3897|quiver
-92635 unitig_3706|quiver
-92482 unitig_3743|quiver
-91901 unitig_3785|quiver
-91587 unitig_307|quiver
-91507 unitig_3344|quiver
-91158 unitig_357|quiver
-91149 unitig_137|quiver
-90788 unitig_165|quiver
-90564 unitig_742|quiver
-90431 unitig_289|quiver
-90336 unitig_1086|quiver
-89617 unitig_186|quiver
-88657 unitig_925|quiver
-88309 unitig_4109|quiver
-88254 unitig_266|quiver
-88173 unitig_480|quiver
-87808 unitig_3634|quiver
-87678 unitig_3704|quiver
-87662 unitig_946|quiver
-87507 unitig_785|quiver
-87032 unitig_1128|quiver
-86533 unitig_1083|quiver
-86514 unitig_3798|quiver
-85647 unitig_204|quiver
-85566 unitig_3952|quiver
-85266 unitig_1218|quiver
-85177 unitig_3911|quiver
-84956 unitig_576|quiver
-84911 unitig_3848|quiver
-84518 unitig_935|quiver
-84311 unitig_170|quiver
-84212 unitig_3917|quiver
-84011 unitig_3324|quiver
-83391 unitig_3554|quiver
-83101 unitig_3850|quiver
-83064 unitig_196|quiver
-82845 unitig_544|quiver
-82824 unitig_645|quiver
-82592 unitig_1241|quiver
-82512 unitig_191|quiver
-82392 unitig_339|quiver
-81992 unitig_287|quiver
-81987 unitig_3660|quiver
-81556 unitig_499|quiver
-81324 unitig_1006|quiver
-80971 unitig_3868|quiver
-80848 unitig_3891|quiver
-80591 unitig_955|quiver
-80544 unitig_151|quiver
-80530 unitig_609|quiver
-80467 unitig_3738|quiver
-80352 unitig_3825|quiver
-80242 unitig_3353|quiver
-80180 unitig_297|quiver
-80078 unitig_3875|quiver
-79827 unitig_1084|quiver
-79649 unitig_605|quiver
-79647 unitig_3737|quiver
-79491 unitig_3699|quiver
-79242 unitig_975|quiver
-78833 unitig_66|quiver
-78676 unitig_3326|quiver
-78622 unitig_810|quiver
-78462 unitig_268|quiver
-78447 unitig_3638|quiver
-78301 unitig_131|quiver
-77459 unitig_3734|quiver
-77192 unitig_3618|quiver
-77084 unitig_1185|quiver
-77031 unitig_4006|quiver
-76977 unitig_1588|quiver
-76816 unitig_3553|quiver
-76742 unitig_3587|quiver
-76477 unitig_3871|quiver
-75922 unitig_442|quiver
-75746 unitig_1045|quiver
-75668 unitig_876|quiver
-75634 unitig_1275|quiver
-75494 unitig_916|quiver
-74896 unitig_439|quiver
-74883 unitig_1442|quiver
-73625 unitig_892|quiver
-73528 unitig_3334|quiver
-73233 unitig_622|quiver
-72999 unitig_3546|quiver
-72914 unitig_241|quiver
-72902 unitig_3750|quiver
-72785 unitig_549|quiver
-72736 unitig_1044|quiver
-72681 unitig_1064|quiver
-72156 unitig_3715|quiver
-72119 unitig_1361|quiver
-72061 unitig_554|quiver
-72050 unitig_782|quiver
-72008 unitig_3893|quiver
-71812 unitig_1079|quiver
-70780 unitig_614|quiver
-70770 unitig_3881|quiver
-70523 unitig_3615|quiver
-70451 unitig_3725|quiver
-70312 unitig_786|quiver
-70304 unitig_392|quiver
-70291 unitig_1638|quiver
-69784 unitig_3819|quiver
-69765 unitig_1037|quiver
-69488 unitig_594|quiver
-69466 unitig_262|quiver
-69116 unitig_1272|quiver
-68649 unitig_1|quiver
-68390 unitig_1507|quiver
-68285 unitig_140|quiver
-67993 unitig_1346|quiver
-67576 unitig_444|quiver
-67508 unitig_3721|quiver
-67493 unitig_647|quiver
-67406 unitig_3771|quiver
-67390 unitig_148|quiver
-67288 unitig_3585|quiver
-66827 unitig_1405|quiver
-66695 unitig_1528|quiver
-66591 unitig_221|quiver
-66259 unitig_3735|quiver
-66132 unitig_1786|quiver
-65929 unitig_478|quiver
-65736 unitig_3954|quiver
-64951 unitig_405|quiver
-64863 unitig_1243|quiver
-64404 unitig_1308|quiver
-64179 unitig_327|quiver
-64006 unitig_504|quiver
-63864 unitig_3670|quiver
-63856 unitig_465|quiver
-63837 unitig_464|quiver
-63791 unitig_338|quiver
-63695 unitig_3666|quiver
-63507 unitig_3452|quiver
-63332 unitig_830|quiver
-63259 unitig_3994|quiver
-63207 unitig_372|quiver
-63157 unitig_215|quiver
-63018 unitig_3614|quiver
-62889 unitig_3998|quiver
-62885 unitig_3609|quiver
-62790 unitig_1071|quiver
-62649 unitig_1360|quiver
-62600 unitig_1330|quiver
-62436 unitig_1658|quiver
-62365 unitig_1177|quiver
-62141 unitig_3779|quiver
-62128 unitig_3492|quiver
-61778 unitig_3873|quiver
-61778 unitig_1593|quiver
-61304 unitig_1188|quiver
-60986 unitig_3454|quiver
-60869 unitig_276|quiver
-60760 unitig_3744|quiver
-60575 unitig_1531|quiver
-60540 unitig_3555|quiver
-60300 unitig_1362|quiver
-60168 unitig_256|quiver
-60157 unitig_3943|quiver
-60117 unitig_1311|quiver
-59806 unitig_754|quiver
-59781 unitig_3459|quiver
-59384 unitig_4128|quiver
-59344 unitig_746|quiver
-59198 unitig_3583|quiver
-58988 unitig_789|quiver
-58949 unitig_1579|quiver
-58935 unitig_486|quiver
-58711 unitig_3603|quiver
-58527 unitig_640|quiver
-58431 unitig_1444|quiver
-58377 unitig_1673|quiver
-57817 unitig_766|quiver
-57744 unitig_3995|quiver
-57738 unitig_3649|quiver
-57641 unitig_1607|quiver
-57613 unitig_3584|quiver
-57565 unitig_514|quiver
-57514 unitig_3990|quiver
-57488 unitig_1351|quiver
-57269 unitig_1505|quiver
-57266 unitig_608|quiver
-57130 unitig_3937|quiver
-57093 unitig_1112|quiver
-56570 unitig_1122|quiver
-56339 unitig_3662|quiver
-56097 unitig_3688|quiver
-55885 unitig_424|quiver
-55770 unitig_1687|quiver
-55726 unitig_616|quiver
-55695 unitig_858|quiver
-55658 unitig_77|quiver
-55645 unitig_3521|quiver
-55624 unitig_3345|quiver
-55157 unitig_1104|quiver
-55069 unitig_750|quiver
-55012 unitig_3945|quiver
-54884 unitig_1251|quiver
-54762 unitig_3861|quiver
-54654 unitig_1748|quiver
-54627 unitig_3770|quiver
-54553 unitig_862|quiver
-54549 unitig_828|quiver
-54065 unitig_3594|quiver
-54005 unitig_848|quiver
-54000 unitig_3724|quiver
-53867 unitig_1132|quiver
-53582 unitig_1587|quiver
-53539 unitig_1510|quiver
-53418 unitig_1262|quiver
-53408 unitig_1061|quiver
-53400 unitig_3713|quiver
-53352 unitig_3591|quiver
-53242 unitig_1439|quiver
-53212 unitig_587|quiver
-53186 unitig_495|quiver
-52992 unitig_1592|quiver
-52861 unitig_552|quiver
-52858 unitig_737|quiver
-52703 unitig_3637|quiver
-52604 unitig_3745|quiver
-52499 unitig_1239|quiver
-52214 unitig_337|quiver
-52123 unitig_2043|quiver
-51992 unitig_1513|quiver
-51807 unitig_1555|quiver
-51792 unitig_1392|quiver
-51608 unitig_3606|quiver
-51162 unitig_3379|quiver
-51103 unitig_1227|quiver
-51063 unitig_1326|quiver
-50970 unitig_771|quiver
-50936 unitig_3437|quiver
-50475 unitig_175|quiver
-50475 unitig_1036|quiver
-50185 unitig_1769|quiver
-50101 unitig_96|quiver
-50023 unitig_3617|quiver
-49998 unitig_929|quiver
-49945 unitig_3934|quiver
-49903 unitig_3906|quiver
-49843 unitig_4007|quiver
-49658 unitig_691|quiver
-49652 unitig_201|quiver
-49467 unitig_819|quiver
-49415 unitig_901|quiver
-49365 unitig_571|quiver
-49165 unitig_153|quiver
-49145 unitig_3964|quiver
-49074 unitig_1521|quiver
-49036 unitig_1908|quiver
-49031 unitig_3350|quiver
-48956 unitig_529|quiver
-48869 unitig_290|quiver
-48844 unitig_3960|quiver
-48796 unitig_3944|quiver
-48708 unitig_1867|quiver
-48697 unitig_1440|quiver
-48595 unitig_1246|quiver
-48555 unitig_3405|quiver
-48439 unitig_3840|quiver
-48379 unitig_430|quiver
-48361 unitig_445|quiver
-48229 unitig_689|quiver
-48196 unitig_1499|quiver
-47899 unitig_1454|quiver
-47890 unitig_1504|quiver
-47880 unitig_278|quiver
-47823 unitig_1052|quiver
-47817 unitig_3630|quiver
-47786 unitig_3733|quiver
-47756 unitig_923|quiver
-47745 unitig_1511|quiver
-47721 unitig_1815|quiver
-47699 unitig_3391|quiver
-47606 unitig_114|quiver
-47534 unitig_3913|quiver
-47495 unitig_258|quiver
-47473 unitig_886|quiver
-47406 unitig_1773|quiver
-47352 unitig_176|quiver
-47323 unitig_2019|quiver
-47140 unitig_1342|quiver
-47036 unitig_2179|quiver
-46961 unitig_3410|quiver
-46857 unitig_1787|quiver
-46809 unitig_778|quiver
-46779 unitig_4127|quiver
-46771 unitig_1657|quiver
-46752 unitig_1190|quiver
-46581 unitig_1229|quiver
-46511 unitig_437|quiver
-46475 unitig_545|quiver
-46458 unitig_551|quiver
-46420 unitig_3653|quiver
-46383 unitig_1701|quiver
-46358 unitig_537|quiver
-46340 unitig_1963|quiver
-46332 unitig_1646|quiver
-46131 unitig_3783|quiver
-46096 unitig_1276|quiver
-46073 unitig_1854|quiver
-46052 unitig_921|quiver
-45870 unitig_1725|quiver
-45861 unitig_1201|quiver
-45827 unitig_3841|quiver
-45825 unitig_1274|quiver
-45720 unitig_3731|quiver
-45609 unitig_3359|quiver
-45602 unitig_1340|quiver
-45595 unitig_1654|quiver
-45531 unitig_1497|quiver
-45413 unitig_525|quiver
-45385 unitig_15|quiver
-45308 unitig_521|quiver
-45247 unitig_280|quiver
-45199 unitig_3475|quiver
-44914 unitig_3880|quiver
-44828 unitig_223|quiver
-44742 unitig_987|quiver
-44732 unitig_260|quiver
-44682 unitig_4101|quiver
-44550 unitig_999|quiver
-44530 unitig_1943|quiver
-44345 unitig_2066|quiver
-44067 unitig_3804|quiver
-44064 unitig_3639|quiver
-43961 unitig_4114|quiver
-43763 unitig_407|quiver
-43591 unitig_3486|quiver
-43554 unitig_1710|quiver
-43487 unitig_548|quiver
-43187 unitig_1861|quiver
-43165 unitig_1462|quiver
-43102 unitig_208|quiver
-42684 unitig_500|quiver
-42646 unitig_1081|quiver
-42612 unitig_180|quiver
-42361 unitig_1643|quiver
-42058 unitig_95|quiver
-41949 unitig_367|quiver
-41937 unitig_2257|quiver
-41798 unitig_1793|quiver
-41761 unitig_564|quiver
-41733 unitig_100|quiver
-41641 unitig_1578|quiver
-41480 unitig_340|quiver
-41470 unitig_1909|quiver
-41464 unitig_3757|quiver
-41446 unitig_2058|quiver
-41437 unitig_3774|quiver
-41434 unitig_271|quiver
-41421 unitig_1517|quiver
-41389 unitig_3838|quiver
-41389 unitig_3374|quiver
-41332 unitig_1519|quiver
-41154 unitig_1727|quiver
-41080 unitig_2057|quiver
-40997 unitig_1359|quiver
-40968 unitig_3980|quiver
-40952 unitig_91|quiver
-40886 unitig_3646|quiver
-40767 unitig_73|quiver
-40717 unitig_1394|quiver
-40703 unitig_387|quiver
-40588 unitig_3739|quiver
-40575 unitig_1524|quiver
-40556 unitig_1139|quiver
-40480 unitig_38|quiver
-40449 unitig_3302|quiver
-40414 unitig_3361|quiver
-40396 unitig_752|quiver
-40354 unitig_1387|quiver
-40192 unitig_3729|quiver
-40168 unitig_247|quiver
-40142 unitig_1482|quiver
-40109 unitig_898|quiver
-40079 unitig_743|quiver
-40052 unitig_173|quiver
-40048 unitig_3610|quiver
-39924 unitig_419|quiver
-39878 unitig_772|quiver
-39877 unitig_889|quiver
-39865 unitig_1395|quiver
-39832 unitig_2017|quiver
-39650 unitig_1389|quiver
-39631 unitig_3827|quiver
-39605 unitig_3422|quiver
-39605 unitig_2270|quiver
-39576 unitig_708|quiver
-39549 unitig_1009|quiver
-39510 unitig_3347|quiver
-39424 unitig_1702|quiver
-39211 unitig_678|quiver
-39158 unitig_1509|quiver
-39117 unitig_3449|quiver
-39105 unitig_1894|quiver
-39081 unitig_134|quiver
-38979 unitig_272|quiver
-38863 unitig_216|quiver
-38861 unitig_70|quiver
-38834 unitig_476|quiver
-38803 unitig_1391|quiver
-38721 unitig_141|quiver
-38691 unitig_1705|quiver
-38607 unitig_1325|quiver
-38517 unitig_930|quiver
-38491 unitig_825|quiver
-38449 unitig_178|quiver
-38374 unitig_1422|quiver
-38318 unitig_1848|quiver
-38261 unitig_1712|quiver
-38260 unitig_1596|quiver
-38201 unitig_1584|quiver
-38199 unitig_1390|quiver
-38179 unitig_671|quiver
-38116 unitig_1945|quiver
-38069 unitig_3552|quiver
-38057 unitig_3411|quiver
-38046 unitig_1481|quiver
-37956 unitig_607|quiver
-37950 unitig_281|quiver
-37949 unitig_111|quiver
-37949 unitig_1008|quiver
-37938 unitig_1724|quiver
-37917 unitig_1196|quiver
-37886 unitig_839|quiver
-37854 unitig_1192|quiver
-37826 unitig_860|quiver
-37802 unitig_3963|quiver
-37790 unitig_1820|quiver
-37783 unitig_1665|quiver
-37552 unitig_3654|quiver
-37505 unitig_1601|quiver
-37418 unitig_328|quiver
-37388 unitig_835|quiver
-37350 unitig_814|quiver
-37309 unitig_3922|quiver
-37266 unitig_319|quiver
-37201 unitig_245|quiver
-37147 unitig_2145|quiver
-37113 unitig_914|quiver
-36924 unitig_3466|quiver
-36896 unitig_1958|quiver
-36829 unitig_3369|quiver
-36821 unitig_3467|quiver
-36686 unitig_492|quiver
-36680 unitig_1970|quiver
-36658 unitig_313|quiver
-36653 unitig_1962|quiver
-36622 unitig_1558|quiver
-36602 unitig_956|quiver
-36598 unitig_961|quiver
-36561 unitig_1582|quiver
-36559 unitig_3925|quiver
-36493 unitig_213|quiver
-36486 unitig_1789|quiver
-36477 unitig_3686|quiver
-36471 unitig_1393|quiver
-36361 unitig_3707|quiver
-36288 unitig_3709|quiver
-36209 unitig_1199|quiver
-36053 unitig_1089|quiver
-36051 unitig_3956|quiver
-35991 unitig_1138|quiver
-35943 unitig_497|quiver
-35942 unitig_128|quiver
-35824 unitig_192|quiver
-35803 unitig_1813|quiver
-35742 unitig_3788|quiver
-35730 unitig_1718|quiver
-35658 unitig_1877|quiver
-35561 unitig_3396|quiver
-35494 unitig_2041|quiver
-35494 unitig_1181|quiver
-35251 unitig_931|quiver
-35250 unitig_3451|quiver
-35190 unitig_776|quiver
-35085 unitig_1669|quiver
-35067 unitig_1187|quiver
-34851 unitig_166|quiver
-34790 unitig_1575|quiver
-34758 unitig_675|quiver
-34614 unitig_1184|quiver
-34596 unitig_190|quiver
-34583 unitig_3402|quiver
-34582 unitig_62|quiver
-34554 unitig_325|quiver
-34549 unitig_3698|quiver
-34530 unitig_3900|quiver
-34528 unitig_707|quiver
-34518 unitig_3665|quiver
-34465 unitig_556|quiver
-34406 unitig_1296|quiver
-34394 unitig_3883|quiver
-34392 unitig_3323|quiver
-34279 unitig_597|quiver
-34276 unitig_751|quiver
-34265 unitig_238|quiver
-34196 unitig_1516|quiver
-34162 unitig_3949|quiver
-34149 unitig_3535|quiver
-34041 unitig_150|quiver
-33901 unitig_1951|quiver
-33898 unitig_161|quiver
-33683 unitig_1373|quiver
-33664 unitig_1863|quiver
-33651 unitig_3595|quiver
-33650 unitig_394|quiver
-33633 unitig_68|quiver
-33620 unitig_1234|quiver
-33502 unitig_144|quiver
-33462 unitig_3941|quiver
-33459 unitig_1253|quiver
-33426 unitig_1885|quiver
-33408 unitig_888|quiver
-33376 unitig_390|quiver
-33356 unitig_162|quiver
-33309 unitig_907|quiver
-33204 unitig_3687|quiver
-33171 unitig_3318|quiver
-33156 unitig_661|quiver
-33067 unitig_630|quiver
-33024 unitig_406|quiver
-32997 unitig_575|quiver
-32919 unitig_1878|quiver
-32870 unitig_1211|quiver
-32860 unitig_224|quiver
-32789 unitig_1950|quiver
-32784 unitig_890|quiver
-32735 unitig_3787|quiver
-32720 unitig_1281|quiver
-32676 unitig_1228|quiver
-32598 unitig_1535|quiver
-32564 unitig_1617|quiver
-32546 unitig_474|quiver
-32439 unitig_472|quiver
-32378 unitig_1212|quiver
-32349 unitig_3915|quiver
-32262 unitig_3620|quiver
-32256 unitig_1126|quiver
-32250 unitig_546|quiver
-32246 unitig_3408|quiver
-32229 unitig_1708|quiver
-32227 unitig_3456|quiver
-32204 unitig_1240|quiver
-32191 unitig_3701|quiver
-32164 unitig_2196|quiver
-32160 unitig_699|quiver
-32071 unitig_1189|quiver
-32043 unitig_1671|quiver
-31997 unitig_1286|quiver
-31991 unitig_356|quiver
-31907 unitig_3541|quiver
-31896 unitig_1345|quiver
-31878 unitig_1054|quiver
-31860 unitig_3339|quiver
-31758 unitig_1043|quiver
-31737 unitig_1041|quiver
-31622 unitig_1838|quiver
-31566 unitig_1129|quiver
-31537 unitig_632|quiver
-31519 unitig_3392|quiver
-31468 unitig_335|quiver
-31462 unitig_1493|quiver
-31417 unitig_74|quiver
-31405 unitig_332|quiver
-31398 unitig_1038|quiver
-31384 unitig_2033|quiver
-31375 unitig_1896|quiver
-31335 unitig_2122|quiver
-31276 unitig_3837|quiver
-31245 unitig_1136|quiver
-31165 unitig_2220|quiver
-31119 unitig_3935|quiver
-31111 unitig_23|quiver
-31111 unitig_1144|quiver
-31079 unitig_1936|quiver
-31021 unitig_1865|quiver
-30986 unitig_3845|quiver
-30951 unitig_1750|quiver
-30949 unitig_104|quiver
-30870 unitig_1525|quiver
-30775 unitig_3708|quiver
-30742 unitig_383|quiver
-30739 unitig_350|quiver
-30738 unitig_1411|quiver
-30679 unitig_649|quiver
-30644 unitig_3331|quiver
-30611 unitig_3633|quiver
-30505 unitig_3903|quiver
-30404 unitig_764|quiver
-30353 unitig_1804|quiver
-30321 unitig_1774|quiver
-30294 unitig_2053|quiver
-30277 unitig_1975|quiver
-30273 unitig_47|quiver
-30224 unitig_231|quiver
-30153 unitig_1485|quiver
-30127 unitig_1120|quiver
-30109 unitig_1310|quiver
-30019 unitig_2178|quiver
-30014 unitig_1955|quiver
-29882 unitig_3833|quiver
-29870 unitig_1703|quiver
-29819 unitig_1534|quiver
-29769 unitig_92|quiver
-29721 unitig_3305|quiver
-29710 unitig_3427|quiver
-29708 unitig_1150|quiver
-29617 unitig_795|quiver
-29613 unitig_672|quiver
-29603 unitig_2160|quiver
-29578 unitig_1947|quiver
-29577 unitig_1952|quiver
-29573 unitig_3598|quiver
-29522 unitig_883|quiver
-29489 unitig_1780|quiver
-29444 unitig_3907|quiver
-29319 unitig_1610|quiver
-29317 unitig_413|quiver
-29307 unitig_1965|quiver
-29255 unitig_39|quiver
-29179 unitig_2023|quiver
-29146 unitig_1600|quiver
-29134 unitig_1318|quiver
-29125 unitig_1853|quiver
-29064 unitig_813|quiver
-29058 unitig_945|quiver
-29042 unitig_3360|quiver
-29036 unitig_1594|quiver
-29015 unitig_1749|quiver
-28955 unitig_200|quiver
-28954 unitig_2287|quiver
-28907 unitig_1977|quiver
-28896 unitig_1141|quiver
-28885 unitig_1155|quiver
-28877 unitig_244|quiver
-28865 unitig_473|quiver
-28859 unitig_1939|quiver
-28777 unitig_477|quiver
-28740 unitig_461|quiver
-28732 unitig_1252|quiver
-28695 unitig_653|quiver
-28651 unitig_3436|quiver
-28631 unitig_3301|quiver
-28571 unitig_3327|quiver
-28522 unitig_415|quiver
-28521 unitig_3792|quiver
-28498 unitig_1070|quiver
-28490 unitig_2037|quiver
-28427 unitig_753|quiver
-28405 unitig_346|quiver
-28403 unitig_1651|quiver
-28368 unitig_3887|quiver
-28316 unitig_3736|quiver
-28255 unitig_1230|quiver
-28245 unitig_2289|quiver
-28242 unitig_3340|quiver
-28196 unitig_1506|quiver
-28183 unitig_3667|quiver
-28174 unitig_2259|quiver
-28163 unitig_3642|quiver
-28149 unitig_2246|quiver
-28025 unitig_1123|quiver
-28022 unitig_1450|quiver
-28014 unitig_3969|quiver
-28006 unitig_3940|quiver
-27990 unitig_3428|quiver
-27927 unitig_3530|quiver
-27923 unitig_1612|quiver
-27870 unitig_324|quiver
-27844 unitig_429|quiver
-27802 unitig_490|quiver
-27800 unitig_1862|quiver
-27796 unitig_1797|quiver
-27766 unitig_3661|quiver
-27719 unitig_157|quiver
-27667 unitig_1145|quiver
-27638 unitig_3616|quiver
-27614 unitig_3717|quiver
-27589 unitig_591|quiver
-27586 unitig_2409|quiver
-27584 unitig_1635|quiver
-27580 unitig_666|quiver
-27579 unitig_3870|quiver
-27561 unitig_998|quiver
-27555 unitig_1091|quiver
-27539 unitig_738|quiver
-27528 unitig_418|quiver
-27517 unitig_748|quiver
-27489 unitig_1988|quiver
-27478 unitig_820|quiver
-27433 unitig_1842|quiver
-27428 unitig_1072|quiver
-27396 unitig_343|quiver
-27395 unitig_3776|quiver
-27395 unitig_1090|quiver
-27362 unitig_315|quiver
-27349 unitig_3561|quiver
-27260 unitig_1583|quiver
-27252 unitig_1503|quiver
-27202 unitig_2149|quiver
-27199 unitig_1886|quiver
-27193 unitig_408|quiver
-27165 unitig_2064|quiver
-27131 unitig_2045|quiver
-27128 unitig_1979|quiver
-27074 unitig_123|quiver
-27069 unitig_1357|quiver
-27067 unitig_2071|quiver
-27021 unitig_2218|quiver
-26931 unitig_2108|quiver
-26914 unitig_1536|quiver
-26891 unitig_2263|quiver
-26859 unitig_3846|quiver
-26856 unitig_1174|quiver
-26836 unitig_447|quiver
-26811 unitig_882|quiver
-26727 unitig_1331|quiver
-26697 unitig_1928|quiver
-26652 unitig_493|quiver
-26643 unitig_1133|quiver
-26637 unitig_36|quiver
-26629 unitig_1328|quiver
-26610 unitig_3559|quiver
-26577 unitig_2195|quiver
-26536 unitig_3782|quiver
-26511 unitig_1301|quiver
-26503 unitig_2027|quiver
-26451 unitig_1788|quiver
-26412 unitig_1675|quiver
-26408 unitig_2128|quiver
-26397 unitig_341|quiver
-26391 unitig_3999|quiver
-26390 unitig_2049|quiver
-26382 unitig_440|quiver
-26369 unitig_40|quiver
-26323 unitig_3538|quiver
-26316 unitig_676|quiver
-26315 unitig_189|quiver
-26311 unitig_1307|quiver
-26294 unitig_2015|quiver
-26252 unitig_60|quiver
-26237 unitig_288|quiver
-26211 unitig_780|quiver
-26202 unitig_427|quiver
-26193 unitig_1447|quiver
-26190 unitig_202|quiver
-26184 unitig_3578|quiver
-26131 unitig_2173|quiver
-26087 unitig_452|quiver
-26029 unitig_758|quiver
-26000 unitig_3370|quiver
-25945 unitig_624|quiver
-25941 unitig_709|quiver
-25937 unitig_3772|quiver
-25915 unitig_1526|quiver
-25846 unitig_29|quiver
-25843 unitig_3622|quiver
-25831 unitig_1514|quiver
-25782 unitig_2299|quiver
-25775 unitig_900|quiver
-25751 unitig_1035|quiver
-25747 unitig_3684|quiver
-25733 unitig_1798|quiver
-25728 unitig_1691|quiver
-25719 unitig_3803|quiver
-25702 unitig_1852|quiver
-25672 unitig_1433|quiver
-25669 unitig_2121|quiver
-25656 unitig_2067|quiver
-25641 unitig_2496|quiver
-25615 unitig_3495|quiver
-25614 unitig_25|quiver
-25609 unitig_976|quiver
-25604 unitig_101|quiver
-25584 unitig_2119|quiver
-25581 unitig_2183|quiver
-25553 unitig_536|quiver
-25459 unitig_58|quiver
-25451 unitig_1232|quiver
-25427 unitig_857|quiver
-25408 unitig_1707|quiver
-25400 unitig_197|quiver
-25398 unitig_856|quiver
-25369 unitig_496|quiver
-25368 unitig_1453|quiver
-25363 unitig_3791|quiver
-25327 unitig_2356|quiver
-25315 unitig_286|quiver
-25308 unitig_635|quiver
-25297 unitig_1172|quiver
-25280 unitig_628|quiver
-25260 unitig_167|quiver
-25258 unitig_41|quiver
-25238 unitig_1101|quiver
-25228 unitig_816|quiver
-25227 unitig_2141|quiver
-25218 unitig_3558|quiver
-25176 unitig_1595|quiver
-25152 unitig_1469|quiver
-25135 unitig_1530|quiver
-25114 unitig_154|quiver
-25110 unitig_2184|quiver
-25094 unitig_17|quiver
-25092 unitig_1859|quiver
-25089 unitig_3815|quiver
-25085 unitig_3335|quiver
-25060 unitig_1764|quiver
-24985 unitig_963|quiver
-24985 unitig_4026|quiver
-24985 unitig_3702|quiver
-24982 unitig_1164|quiver
-24976 unitig_943|quiver
-24970 unitig_3695|quiver
-24969 unitig_611|quiver
-24965 unitig_181|quiver
-24928 unitig_1033|quiver
-24918 unitig_2268|quiver
-24878 unitig_1566|quiver
-24874 unitig_2029|quiver
-24873 unitig_3761|quiver
-24833 unitig_366|quiver
-24814 unitig_1775|quiver
-24805 unitig_2235|quiver
-24802 unitig_2115|quiver
-24717 unitig_484|quiver
-24704 unitig_3568|quiver
-24684 unitig_177|quiver
-24682 unitig_665|quiver
-24680 unitig_1154|quiver
-24675 unitig_1398|quiver
-24673 unitig_2188|quiver
-24667 unitig_3985|quiver
-24623 unitig_279|quiver
-24602 unitig_428|quiver
-24582 unitig_2024|quiver
-24575 unitig_2372|quiver
-24570 unitig_2238|quiver
-24569 unitig_133|quiver
-24568 unitig_198|quiver
-24562 unitig_255|quiver
-24512 unitig_1792|quiver
-24486 unitig_590|quiver
-24481 unitig_704|quiver
-24448 unitig_727|quiver
-24445 unitig_1620|quiver
-24444 unitig_539|quiver
-24444 unitig_2261|quiver
-24435 unitig_3775|quiver
-24411 unitig_1383|quiver
-24408 unitig_3884|quiver
-24331 unitig_625|quiver
-24330 unitig_798|quiver
-24323 unitig_3315|quiver
-24318 unitig_3424|quiver
-24310 unitig_2293|quiver
-24287 unitig_130|quiver
-24276 unitig_505|quiver
-24275 unitig_1261|quiver
-24274 unitig_954|quiver
-24244 unitig_2075|quiver
-24233 unitig_3590|quiver
-24205 unitig_2202|quiver
-24197 unitig_681|quiver
-24188 unitig_972|quiver
-24179 unitig_1106|quiver
-24177 unitig_993|quiver
-24149 unitig_67|quiver
-24141 unitig_1142|quiver
-24131 unitig_1193|quiver
-24125 unitig_561|quiver
-24125 unitig_1456|quiver
-24080 unitig_1205|quiver
-24073 unitig_3651|quiver
-24072 unitig_2262|quiver
-24027 unitig_3319|quiver
-24014 unitig_362|quiver
-24010 unitig_1856|quiver
-23993 unitig_2070|quiver
-23945 unitig_1158|quiver
-23937 unitig_2016|quiver
-23924 unitig_1080|quiver
-23893 unitig_3777|quiver
-23864 unitig_3655|quiver
-23853 unitig_740|quiver
-23845 unitig_54|quiver
-23834 unitig_3741|quiver
-23829 unitig_1722|quiver
-23825 unitig_3498|quiver
-23800 unitig_2550|quiver
-23765 unitig_2022|quiver
-23760 unitig_3450|quiver
-23743 unitig_2224|quiver
-23742 unitig_3550|quiver
-23711 unitig_3332|quiver
-23708 unitig_3926|quiver
-23705 unitig_3497|quiver
-23698 unitig_1849|quiver
-23660 unitig_3818|quiver
-23633 unitig_2279|quiver
-23628 unitig_2198|quiver
-23603 unitig_3533|quiver
-23596 unitig_3414|quiver
-23545 unitig_685|quiver
-23535 unitig_683|quiver
-23515 unitig_1711|quiver
-23513 unitig_1597|quiver
-23507 unitig_1666|quiver
-23461 unitig_2322|quiver
-23439 unitig_519|quiver
-23438 unitig_1247|quiver
-23432 unitig_1203|quiver
-23419 unitig_377|quiver
-23398 unitig_3346|quiver
-23382 unitig_55|quiver
-23370 unitig_747|quiver
-23356 unitig_3790|quiver
-23258 unitig_958|quiver
-23247 unitig_2097|quiver
-23243 unitig_3799|quiver
-23237 unitig_506|quiver
-23235 unitig_2542|quiver
-23233 unitig_2182|quiver
-23103 unitig_2368|quiver
-23098 unitig_2370|quiver
-23075 unitig_1615|quiver
-23075 unitig_145|quiver
-23069 unitig_2265|quiver
-23013 unitig_2042|quiver
-23008 unitig_235|quiver
-22985 unitig_261|quiver
-22961 unitig_2109|quiver
-22912 unitig_1186|quiver
-22888 unitig_527|quiver
-22886 unitig_1795|quiver
-22873 unitig_3508|quiver
-22872 unitig_1846|quiver
-22856 unitig_2185|quiver
-22852 unitig_1672|quiver
-22810 unitig_1898|quiver
-22787 unitig_232|quiver
-22759 unitig_3689|quiver
-22746 unitig_3592|quiver
-22746 unitig_1777|quiver
-22746 unitig_1431|quiver
-22745 unitig_2227|quiver
-22729 unitig_1068|quiver
-22711 unitig_3524|quiver
-22695 unitig_1028|quiver
-22649 unitig_941|quiver
-22643 unitig_274|quiver
-22639 unitig_450|quiver
-22636 unitig_3648|quiver
-22630 unitig_1932|quiver
-22595 unitig_3997|quiver
-22574 unitig_891|quiver
-22543 unitig_1124|quiver
-22532 unitig_2391|quiver
-22489 unitig_1108|quiver
-22458 unitig_1336|quiver
-22419 unitig_3542|quiver
-22388 unitig_185|quiver
-22371 unitig_2462|quiver
-22360 unitig_3755|quiver
-22334 unitig_1022|quiver
-22333 unitig_980|quiver
-22317 unitig_2382|quiver
-22293 unitig_767|quiver
-22263 unitig_2350|quiver
-22249 unitig_2112|quiver
-22205 unitig_2051|quiver
-22204 unitig_1770|quiver
-22185 unitig_1217|quiver
-22183 unitig_874|quiver
-22176 unitig_3338|quiver
-22174 unitig_3675|quiver
-22165 unitig_2271|quiver
-22159 unitig_1236|quiver
-22147 unitig_2489|quiver
-22146 unitig_3822|quiver
-22130 unitig_3313|quiver
-22122 unitig_56|quiver
-22071 unitig_0|quiver
-22070 unitig_1976|quiver
-22067 unitig_716|quiver
-22037 unitig_219|quiver
-22029 unitig_1737|quiver
-22020 unitig_1096|quiver
-22015 unitig_3635|quiver
-22003 unitig_118|quiver
-21984 unitig_1460|quiver
-21977 unitig_3808|quiver
-21967 unitig_693|quiver
-21950 unitig_34|quiver
-21922 unitig_50|quiver
-21919 unitig_1434|quiver
-21913 unitig_982|quiver
-21905 unitig_3929|quiver
-21896 unitig_3381|quiver
-21876 unitig_1642|quiver
-21828 unitig_1869|quiver
-21820 unitig_86|quiver
-21803 unitig_768|quiver
-21790 unitig_355|quiver
-21761 unitig_1329|quiver
-21716 unitig_749|quiver
-21704 unitig_2400|quiver
-21652 unitig_2180|quiver
-21648 unitig_3996|quiver
-21647 unitig_1294|quiver
-21622 unitig_3812|quiver
-21621 unitig_620|quiver
-21619 unitig_1198|quiver
-21601 unitig_2407|quiver
-21599 unitig_567|quiver
-21598 unitig_1808|quiver
-21580 unitig_11|quiver
-21566 unitig_1146|quiver
-21557 unitig_902|quiver
-21538 unitig_2021|quiver
-21532 unitig_3309|quiver
-21530 unitig_211|quiver
-21484 unitig_1237|quiver
-21455 unitig_811|quiver
-21436 unitig_2101|quiver
-21415 unitig_893|quiver
-21389 unitig_364|quiver
-21366 unitig_2089|quiver
-21362 unitig_1016|quiver
-21350 unitig_1094|quiver
-21324 unitig_851|quiver
-21301 unitig_1843|quiver
-21299 unitig_658|quiver
-21288 unitig_3939|quiver
-21267 unitig_3506|quiver
-21254 unitig_3300|quiver
-21234 unitig_3680|quiver
-21229 unitig_528|quiver
-21216 unitig_2274|quiver
-21200 unitig_194|quiver
-21198 unitig_532|quiver
-21161 unitig_1589|quiver
-21157 unitig_393|quiver
-21155 unitig_3308|quiver
-21139 unitig_1354|quiver
-21112 unitig_3663|quiver
-21101 unitig_481|quiver
-21093 unitig_1446|quiver
-21089 unitig_3311|quiver
-21089 unitig_2452|quiver
-21084 unitig_1226|quiver
-21078 unitig_517|quiver
-21074 unitig_2223|quiver
-21063 unitig_3|quiver
-21052 unitig_763|quiver
-21032 unitig_656|quiver
-21015 unitig_3329|quiver
-20991 unitig_435|quiver
-20966 unitig_3659|quiver
-20955 unitig_823|quiver
-20925 unitig_978|quiver
-20895 unitig_237|quiver
-20854 unitig_3470|quiver
-20846 unitig_1800|quiver
-20837 unitig_3502|quiver
-20829 unitig_2013|quiver
-20829 unitig_1102|quiver
-20811 unitig_1297|quiver
-20794 unitig_1680|quiver
-20790 unitig_824|quiver
-20783 unitig_1396|quiver
-20773 unitig_912|quiver
-20760 unitig_171|quiver
-20751 unitig_3457|quiver
-20749 unitig_3371|quiver
-20729 unitig_2214|quiver
-20723 unitig_2381|quiver
-20719 unitig_254|quiver
-20702 unitig_2294|quiver
-20694 unitig_1162|quiver
-20693 unitig_1463|quiver
-20692 unitig_1051|quiver
-20689 unitig_1305|quiver
-20649 unitig_1057|quiver
-20638 unitig_1067|quiver
-20636 unitig_463|quiver
-20629 unitig_1653|quiver
-20609 unitig_3515|quiver
-20607 unitig_3851|quiver
-20607 unitig_2402|quiver
-20564 unitig_1107|quiver
-20548 unitig_3581|quiver
-20531 unitig_1350|quiver
-20524 unitig_1716|quiver
-20519 unitig_1906|quiver
-20517 unitig_1818|quiver
-20509 unitig_14|quiver
-20501 unitig_1315|quiver
-20499 unitig_2451|quiver
-20484 unitig_2125|quiver
-20483 unitig_2396|quiver
-20470 unitig_1676|quiver
-20468 unitig_79|quiver
-20464 unitig_1470|quiver
-20463 unitig_399|quiver
-20453 unitig_193|quiver
-20434 unitig_2292|quiver
-20433 unitig_1327|quiver
-20433 unitig_1152|quiver
-20419 unitig_1545|quiver
-20417 unitig_1419|quiver
-20415 unitig_629|quiver
-20415 unitig_3916|quiver
-20415 unitig_1841|quiver
-20346 unitig_1299|quiver
-20342 unitig_3510|quiver
-20321 unitig_1782|quiver
-20308 unitig_4008|quiver
-20306 unitig_257|quiver
-20294 unitig_2081|quiver
-20294 unitig_1915|quiver
-20281 unitig_2405|quiver
-20272 unitig_1719|quiver
-20266 unitig_1095|quiver
-20262 unitig_2210|quiver
-20237 unitig_550|quiver
-20225 unitig_808|quiver
-20189 unitig_859|quiver
-20187 unitig_917|quiver
-20186 unitig_2454|quiver
-20160 unitig_1194|quiver
-20140 unitig_2302|quiver
-20125 unitig_6|quiver
-20106 unitig_482|quiver
-20103 unitig_1352|quiver
-20042 unitig_623|quiver
-20042 unitig_1461|quiver
-20017 unitig_3526|quiver
-20005 unitig_3754|quiver
-19992 unitig_3767|quiver
-19989 unitig_1486|quiver
-19987 unitig_1320|quiver
-19930 unitig_1990|quiver
-19923 unitig_125|quiver
-19903 unitig_449|quiver
-19902 unitig_3728|quiver
-19886 unitig_2357|quiver
-19881 unitig_1926|quiver
-19848 unitig_863|quiver
-19843 unitig_610|quiver
-19834 unitig_1664|quiver
-19818 unitig_664|quiver
-19767 unitig_3440|quiver
-19766 unitig_3574|quiver
-19755 unitig_354|quiver
-19749 unitig_744|quiver
-19739 unitig_209|quiver
-19736 unitig_641|quiver
-19718 unitig_3950|quiver
-19717 unitig_454|quiver
-19687 unitig_1375|quiver
-19649 unitig_968|quiver
-19640 unitig_3560|quiver
-19619 unitig_2176|quiver
-19607 unitig_781|quiver
-19606 unitig_1971|quiver
-19591 unitig_1314|quiver
-19561 unitig_2639|quiver
-19554 unitig_516|quiver
-19553 unitig_574|quiver
-19533 unitig_1001|quiver
-19519 unitig_2300|quiver
-19518 unitig_3958|quiver
-19498 unitig_1637|quiver
-19493 unitig_1125|quiver
-19489 unitig_1121|quiver
-19468 unitig_1457|quiver
-19448 unitig_3726|quiver
-19437 unitig_2038|quiver
-19430 unitig_1048|quiver
-19425 unitig_1225|quiver
-19419 unitig_498|quiver
-19400 unitig_773|quiver
-19390 unitig_1781|quiver
-19371 unitig_2080|quiver
-19354 unitig_2237|quiver
-19351 unitig_1523|quiver
-19348 unitig_812|quiver
-19321 unitig_434|quiver
-19314 unitig_2654|quiver
-19312 unitig_1964|quiver
-19305 unitig_3460|quiver
-19300 unitig_1472|quiver
-19287 unitig_2054|quiver
-19287 unitig_122|quiver
-19285 unitig_1100|quiver
-19270 unitig_1554|quiver
-19266 unitig_1073|quiver
-19264 unitig_3664|quiver
-19247 unitig_806|quiver
-19238 unitig_2267|quiver
-19229 unitig_48|quiver
-19224 unitig_1550|quiver
-19213 unitig_2482|quiver
-19209 unitig_28|quiver
-19203 unitig_2091|quiver
-19191 unitig_2094|quiver
-19165 unitig_3652|quiver
-19161 unitig_152|quiver
-19156 unitig_2034|quiver
-19152 unitig_1634|quiver
-19139 unitig_1618|quiver
-19137 unitig_1875|quiver
-19132 unitig_2362|quiver
-19127 unitig_168|quiver
-19112 unitig_1489|quiver
-19107 unitig_1148|quiver
-19085 unitig_1085|quiver
-19063 unitig_3599|quiver
-19061 unitig_3613|quiver
-19058 unitig_508|quiver
-19044 unitig_119|quiver
-19039 unitig_89|quiver
-19012 unitig_1388|quiver
-19008 unitig_2399|quiver
-18996 unitig_1219|quiver
-18993 unitig_361|quiver
-18992 unitig_1941|quiver
-18979 unitig_12|quiver
-18976 unitig_1714|quiver
-18976 unitig_1644|quiver
-18968 unitig_3499|quiver
-18942 unitig_3856|quiver
-18940 unitig_227|quiver
-18924 unitig_1474|quiver
-18913 unitig_1215|quiver
-18901 unitig_2110|quiver
-18895 unitig_4055|quiver
-18893 unitig_1289|quiver
-18892 unitig_2072|quiver
-18874 unitig_395|quiver
-18870 unitig_1973|quiver
-18862 unitig_1972|quiver
-18832 unitig_601|quiver
-18827 unitig_3682|quiver
-18819 unitig_1204|quiver
-18814 unitig_3547|quiver
-18798 unitig_2222|quiver
-18786 unitig_1244|quiver
-18770 unitig_872|quiver
-18766 unitig_3435|quiver
-18754 unitig_913|quiver
-18740 unitig_1778|quiver
-18737 unitig_3557|quiver
-18731 unitig_218|quiver
-18730 unitig_586|quiver
-18726 unitig_135|quiver
-18700 unitig_485|quiver
-18699 unitig_453|quiver
-18687 unitig_3378|quiver
-18685 unitig_3421|quiver
-18667 unitig_1677|quiver
-18654 unitig_503|quiver
-18654 unitig_1974|quiver
-18647 unitig_2599|quiver
-18645 unitig_3612|quiver
-18638 unitig_2783|quiver
-18597 unitig_1430|quiver
-18560 unitig_3826|quiver
-18548 unitig_1871|quiver
-18536 unitig_877|quiver
-18530 unitig_3423|quiver
-18516 unitig_648|quiver
-18515 unitig_3678|quiver
-18511 unitig_172|quiver
-18483 unitig_3909|quiver
-18446 unitig_924|quiver
-18426 unitig_2485|quiver
-18425 unitig_599|quiver
-18416 unitig_69|quiver
-18392 unitig_2483|quiver
-18385 unitig_979|quiver
-18376 unitig_3758|quiver
-18364 unitig_3647|quiver
-18362 unitig_700|quiver
-18343 unitig_1313|quiver
-18336 unitig_425|quiver
-18328 unitig_3364|quiver
-18323 unitig_2479|quiver
-18301 unitig_2817|quiver
-18289 unitig_163|quiver
-18277 unitig_3388|quiver
-18258 unitig_1502|quiver
-18241 unitig_1002|quiver
-18217 unitig_26|quiver
-18200 unitig_774|quiver
-18187 unitig_1954|quiver
-18155 unitig_2014|quiver
-18119 unitig_511|quiver
-18113 unitig_1347|quiver
-18098 unitig_417|quiver
-18094 unitig_581|quiver
-18032 unitig_2491|quiver
-18016 unitig_2069|quiver
-18008 unitig_2552|quiver
-18001 unitig_240|quiver
-17999 unitig_760|quiver
-17994 unitig_65|quiver
-17979 unitig_2583|quiver
-17977 unitig_3377|quiver
-17962 unitig_1728|quiver
-17934 unitig_2191|quiver
-17926 unitig_2269|quiver
-17925 unitig_1334|quiver
-17919 unitig_3461|quiver
-17896 unitig_1137|quiver
-17888 unitig_694|quiver
-17878 unitig_2304|quiver
-17869 unitig_2056|quiver
-17842 unitig_2096|quiver
-17823 unitig_2283|quiver
-17816 unitig_2207|quiver
-17809 unitig_1477|quiver
-17796 unitig_2441|quiver
-17786 unitig_326|quiver
-17772 unitig_981|quiver
-17743 unitig_578|quiver
-17730 unitig_275|quiver
-17728 unitig_3469|quiver
-17723 unitig_1355|quiver
-17716 unitig_1249|quiver
-17702 unitig_613|quiver
-17693 unitig_468|quiver
-17690 unitig_512|quiver
-17685 unitig_1053|quiver
-17675 unitig_2339|quiver
-17660 unitig_1467|quiver
-17631 unitig_116|quiver
-17615 unitig_3644|quiver
-17583 unitig_298|quiver
-17583 unitig_2258|quiver
-17556 unitig_1571|quiver
-17553 unitig_2458|quiver
-17546 unitig_303|quiver
-17540 unitig_2098|quiver
-17532 unitig_775|quiver
-17532 unitig_4087|quiver
-17529 unitig_1892|quiver
-17520 unitig_1668|quiver
-17518 unitig_2154|quiver
-17517 unitig_2193|quiver
-17516 unitig_1406|quiver
-17515 unitig_2348|quiver
-17510 unitig_3430|quiver
-17503 unitig_1899|quiver
-17500 unitig_1074|quiver
-17479 unitig_1621|quiver
-17470 unitig_1903|quiver
-17458 unitig_1018|quiver
-17456 unitig_1256|quiver
-17449 unitig_1614|quiver
-17410 unitig_3511|quiver
-17405 unitig_4|quiver
-17401 unitig_2040|quiver
-17394 unitig_3514|quiver
-17391 unitig_2111|quiver
-17383 unitig_1418|quiver
-17380 unitig_2488|quiver
-17365 unitig_1733|quiver
-17359 unitig_885|quiver
-17357 unitig_668|quiver
-17354 unitig_809|quiver
-17349 unitig_3384|quiver
-17348 unitig_3866|quiver
-17347 unitig_3565|quiver
-17346 unitig_959|quiver
-17330 unitig_1855|quiver
-17328 unitig_2233|quiver
-17300 unitig_944|quiver
-17291 unitig_1490|quiver
-17290 unitig_3441|quiver
-17288 unitig_1119|quiver
-17278 unitig_20|quiver
-17274 unitig_1868|quiver
-17269 unitig_733|quiver
-17264 unitig_2280|quiver
-17262 unitig_1543|quiver
-17261 unitig_657|quiver
-17259 unitig_938|quiver
-17249 unitig_3549|quiver
-17241 unitig_3139|quiver
-17237 unitig_2436|quiver
-17233 unitig_731|quiver
-17232 unitig_796|quiver
-17220 unitig_2276|quiver
-17219 unitig_1423|quiver
-17208 unitig_1529|quiver
-17205 unitig_2371|quiver
-17185 unitig_2200|quiver
-17164 unitig_871|quiver
-17157 unitig_2204|quiver
-17149 unitig_627|quiver
-17146 unitig_1371|quiver
-17120 unitig_565|quiver
-17119 unitig_2358|quiver
-17115 unitig_2061|quiver
-17099 unitig_1397|quiver
-17092 unitig_299|quiver
-17090 unitig_3525|quiver
-17087 unitig_1959|quiver
-17084 unitig_7|quiver
-17062 unitig_2048|quiver
-17055 unitig_1206|quiver
-17031 unitig_2278|quiver
-17008 unitig_2099|quiver
-16987 unitig_1115|quiver
-16974 unitig_573|quiver
-16974 unitig_522|quiver
-16971 unitig_3872|quiver
-16971 unitig_3320|quiver
-16951 unitig_3732|quiver
-16945 unitig_990|quiver
-16942 unitig_1830|quiver
-16938 unitig_799|quiver
-16930 unitig_1626|quiver
-16925 unitig_1273|quiver
-16920 unitig_3316|quiver
-16913 unitig_1993|quiver
-16902 unitig_3690|quiver
-16889 unitig_1285|quiver
-16888 unitig_291|quiver
-16881 unitig_1533|quiver
-16851 unitig_2971|quiver
-16849 unitig_1580|quiver
-16823 unitig_2063|quiver
-16821 unitig_1478|quiver
-16820 unitig_2698|quiver
-16819 unitig_2255|quiver
-16814 unitig_2448|quiver
-16813 unitig_3716|quiver
-16809 unitig_1380|quiver
-16800 unitig_3446|quiver
-16797 unitig_710|quiver
-16794 unitig_1844|quiver
-16793 unitig_1857|quiver
-16779 unitig_1078|quiver
-16776 unitig_3832|quiver
-16766 unitig_2478|quiver
-16754 unitig_4000|quiver
-16753 unitig_777|quiver
-16752 unitig_2390|quiver
-16752 unitig_1609|quiver
-16739 unitig_3658|quiver
-16733 unitig_398|quiver
-16728 unitig_3366|quiver
-16702 unitig_596|quiver
-16689 unitig_3811|quiver
-16681 unitig_422|quiver
-16678 unitig_821|quiver
-16672 unitig_1356|quiver
-16672 unitig_1109|quiver
-16669 unitig_800|quiver
-16667 unitig_2172|quiver
-16645 unitig_3967|quiver
-16637 unitig_1539|quiver
-16621 unitig_30|quiver
-16606 unitig_2503|quiver
-16601 unitig_1874|quiver
-16585 unitig_3892|quiver
-16584 unitig_1540|quiver
-16557 unitig_3573|quiver
-16545 unitig_3480|quiver
-16501 unitig_2477|quiver
-16489 unitig_761|quiver
-16488 unitig_2177|quiver
-16487 unitig_2026|quiver
-16481 unitig_1238|quiver
-16474 unitig_922|quiver
-16465 unitig_217|quiver
-16435 unitig_3747|quiver
-16429 unitig_2050|quiver
-16418 unitig_3357|quiver
-16413 unitig_1897|quiver
-16396 unitig_1403|quiver
-16387 unitig_2393|quiver
-16383 unitig_2352|quiver
-16373 unitig_1292|quiver
-16372 unitig_3393|quiver
-16340 unitig_783|quiver
-16319 unitig_1937|quiver
-16313 unitig_965|quiver
-16299 unitig_5|quiver
-16246 unitig_540|quiver
-16243 unitig_3962|quiver
-16229 unitig_31|quiver
-16225 unitig_2423|quiver
-16224 unitig_2333|quiver
-16217 unitig_3784|quiver
-16216 unitig_2035|quiver
-16207 unitig_992|quiver
-16195 unitig_2291|quiver
-16191 unitig_1996|quiver
-16190 unitig_3548|quiver
-16181 unitig_1784|quiver
-16173 unitig_2522|quiver
-16171 unitig_1484|quiver
-16162 unitig_2239|quiver
-16148 unitig_2273|quiver
-16137 unitig_3862|quiver
-16134 unitig_1111|quiver
-16117 unitig_1602|quiver
-16096 unitig_265|quiver
-16093 unitig_2535|quiver
-16074 unitig_660|quiver
-16065 unitig_2345|quiver
-16062 unitig_1763|quiver
-15980 unitig_1167|quiver
-15978 unitig_107|quiver
-15977 unitig_670|quiver
-15974 unitig_1729|quiver
-15973 unitig_2369|quiver
-15957 unitig_2256|quiver
-15957 unitig_1401|quiver
-15955 unitig_868|quiver
-15954 unitig_3601|quiver
-15949 unitig_259|quiver
-15944 unitig_1799|quiver
-15923 unitig_962|quiver
-15911 unitig_873|quiver
-15904 unitig_3719|quiver
-15901 unitig_713|quiver
-15899 unitig_78|quiver
-15896 unitig_2383|quiver
-15884 unitig_2003|quiver
-15882 unitig_1344|quiver
-15873 unitig_3380|quiver
-15872 unitig_2351|quiver
-15866 unitig_72|quiver
-15859 unitig_1992|quiver
-15845 unitig_462|quiver
-15843 unitig_3886|quiver
-15843 unitig_1113|quiver
-15838 unitig_2699|quiver
-15832 unitig_1709|quiver
-15831 unitig_1400|quiver
-15830 unitig_2576|quiver
-15830 unitig_1295|quiver
-15820 unitig_80|quiver
-15816 unitig_1876|quiver
-15815 unitig_2539|quiver
-15811 unitig_2166|quiver
-15801 unitig_538|quiver
-15793 unitig_3910|quiver
-15790 unitig_667|quiver
-15784 unitig_2359|quiver
-15774 unitig_10|quiver
-15758 unitig_32|quiver
-15751 unitig_3602|quiver
-15731 unitig_2553|quiver
-15728 unitig_402|quiver
-15725 unitig_1424|quiver
-15704 unitig_1559|quiver
-15689 unitig_2610|quiver
-15687 unitig_2453|quiver
-15685 unitig_18|quiver
-15683 unitig_1165|quiver
-15674 unitig_543|quiver
-15660 unitig_1291|quiver
-15655 unitig_1501|quiver
-15653 unitig_2194|quiver
-15647 unitig_3794|quiver
-15643 unitig_1348|quiver
-15637 unitig_682|quiver
-15628 unitig_3859|quiver
-15617 unitig_973|quiver
-15616 unitig_2288|quiver
-15609 unitig_2493|quiver
-15598 unitig_155|quiver
-15568 unitig_2138|quiver
-15556 unitig_1448|quiver
-15529 unitig_448|quiver
-15510 unitig_2310|quiver
-15506 unitig_3544|quiver
-15500 unitig_2187|quiver
-15495 unitig_2364|quiver
-15476 unitig_251|quiver
-15472 unitig_3627|quiver
-15469 unitig_1277|quiver
-15457 unitig_3386|quiver
-15456 unitig_1766|quiver
-15455 unitig_469|quiver
-15449 unitig_3823|quiver
-15445 unitig_3507|quiver
-15445 unitig_282|quiver
-15438 unitig_1197|quiver
-15418 unitig_2554|quiver
-15406 unitig_725|quiver
-15394 unitig_2114|quiver
-15393 unitig_3471|quiver
-15390 unitig_1105|quiver
-15364 unitig_2213|quiver
-15362 unitig_2277|quiver
-15352 unitig_971|quiver
-15350 unitig_1823|quiver
-15348 unitig_3479|quiver
-15343 unitig_507|quiver
-15340 unitig_2103|quiver
-15339 unitig_4095|quiver
-15335 unitig_3834|quiver
-15335 unitig_3464|quiver
-15310 unitig_502|quiver
-15299 unitig_2286|quiver
-15293 unitig_360|quiver
-15285 unitig_1721|quiver
-15276 unitig_1720|quiver
-15267 unitig_974|quiver
-15258 unitig_1042|quiver
-15255 unitig_3536|quiver
-15254 unitig_1437|quiver
-15253 unitig_2411|quiver
-15245 unitig_636|quiver
-15244 unitig_569|quiver
-15219 unitig_2052|quiver
-15216 unitig_2461|quiver
-15206 unitig_2820|quiver
-15205 unitig_1667|quiver
-15190 unitig_2254|quiver
-15189 unitig_861|quiver
-15181 unitig_93|quiver
-15166 unitig_2162|quiver
-15159 unitig_674|quiver
-15131 unitig_1767|quiver
-15123 unitig_98|quiver
-15091 unitig_865|quiver
-15088 unitig_1224|quiver
-15078 unitig_2543|quiver
-15074 unitig_3914|quiver
-15072 unitig_423|quiver
-15071 unitig_2568|quiver
-15052 unitig_3714|quiver
-15040 unitig_1910|quiver
-15030 unitig_1298|quiver
-15012 unitig_3575|quiver
-15005 unitig_1655|quiver
-15002 unitig_501|quiver
-14968 unitig_1441|quiver
-14951 unitig_2002|quiver
-14924 unitig_2059|quiver
-14899 unitig_1760|quiver
-14892 unitig_2282|quiver
-14880 unitig_1576|quiver
-14870 unitig_3503|quiver
-14867 unitig_22|quiver
-14867 unitig_1650|quiver
-14861 unitig_600|quiver
-14844 unitig_1377|quiver
-14843 unitig_401|quiver
-14843 unitig_1994|quiver
-14831 unitig_662|quiver
-14817 unitig_3966|quiver
-14815 unitig_3433|quiver
-14805 unitig_1316|quiver
-14788 unitig_3793|quiver
-14788 unitig_2123|quiver
-14777 unitig_2675|quiver
-14772 unitig_42|quiver
-14768 unitig_3768|quiver
-14765 unitig_308|quiver
-14765 unitig_1805|quiver
-14751 unitig_1889|quiver
-14744 unitig_2532|quiver
-14742 unitig_1752|quiver
-14737 unitig_1512|quiver
-14732 unitig_621|quiver
-14728 unitig_1173|quiver
-14725 unitig_1007|quiver
-14723 unitig_3830|quiver
-14715 unitig_400|quiver
-14710 unitig_2457|quiver
-14704 unitig_703|quiver
-14697 unitig_977|quiver
-14697 unitig_2433|quiver
-14694 unitig_996|quiver
-14693 unitig_721|quiver
-14684 unitig_1866|quiver
-14684 unitig_1322|quiver
-14683 unitig_3797|quiver
-14679 unitig_1495|quiver
-14676 unitig_3769|quiver
-14672 unitig_822|quiver
-14667 unitig_895|quiver
-14652 unitig_3434|quiver
-14650 unitig_3608|quiver
-14643 unitig_53|quiver
-14642 unitig_2765|quiver
-14639 unitig_1339|quiver
-14638 unitig_2243|quiver
-14633 unitig_3394|quiver
-14622 unitig_1639|quiver
-14606 unitig_222|quiver
-14600 unitig_2318|quiver
-14598 unitig_1216|quiver
-14592 unitig_2389|quiver
-14590 unitig_3337|quiver
-14584 unitig_1927|quiver
-14578 unitig_2215|quiver
-14566 unitig_894|quiver
-14535 unitig_1358|quiver
-14527 unitig_3795|quiver
-14522 unitig_1557|quiver
-14508 unitig_1953|quiver
-14499 unitig_2186|quiver
-14497 unitig_3484|quiver
-14478 unitig_3572|quiver
-14467 unitig_33|quiver
-14467 unitig_183|quiver
-14465 unitig_673|quiver
-14464 unitig_52|quiver
-14408 unitig_2515|quiver
-14405 unitig_2132|quiver
-14402 unitig_3596|quiver
-14399 unitig_2380|quiver
-14382 unitig_2375|quiver
-14378 unitig_375|quiver
-14376 unitig_547|quiver
-14372 unitig_2087|quiver
-14368 unitig_1417|quiver
-14365 unitig_791|quiver
-14361 unitig_779|quiver
-14355 unitig_1039|quiver
-14344 unitig_2644|quiver
-14335 unitig_2175|quiver
-14330 unitig_1436|quiver
-14314 unitig_558|quiver
-14306 unitig_416|quiver
-14300 unitig_2130|quiver
-14298 unitig_870|quiver
-14293 unitig_3597|quiver
-14267 unitig_2536|quiver
-14261 unitig_1997|quiver
-14252 unitig_994|quiver
-14252 unitig_755|quiver
-14247 unitig_1790|quiver
-14219 unitig_3325|quiver
-14219 unitig_2398|quiver
-14212 unitig_1409|quiver
-14210 unitig_1408|quiver
-14199 unitig_426|quiver
-14199 unitig_3847|quiver
-14190 unitig_1649|quiver
-14188 unitig_1850|quiver
-14182 unitig_295|quiver
-14182 unitig_2225|quiver
-14152 unitig_3691|quiver
-14149 unitig_1845|quiver
-14145 unitig_391|quiver
-14143 unitig_986|quiver
-14136 unitig_680|quiver
-14111 unitig_692|quiver
-14106 unitig_4041|quiver
-14103 unitig_604|quiver
-14087 unitig_4009|quiver
-14085 unitig_1985|quiver
-14083 unitig_379|quiver
-14049 unitig_3516|quiver
-14022 unitig_1011|quiver
-14019 unitig_83|quiver
-14019 unitig_1284|quiver
-14011 unitig_3905|quiver
-14008 unitig_1378|quiver
-13996 unitig_602|quiver
-13992 unitig_618|quiver
-13980 unitig_2455|quiver
-13975 unitig_2206|quiver
-13971 unitig_1160|quiver
-13960 unitig_1924|quiver
-13956 unitig_3473|quiver
-13955 unitig_2032|quiver
-13950 unitig_2208|quiver
-13949 unitig_1202|quiver
-13945 unitig_2249|quiver
-13944 unitig_1208|quiver
-13938 unitig_94|quiver
-13928 unitig_3629|quiver
-13923 unitig_2700|quiver
-13921 unitig_952|quiver
-13913 unitig_3972|quiver
-13912 unitig_794|quiver
-13906 unitig_509|quiver
-13881 unitig_2133|quiver
-13875 unitig_510|quiver
-13863 unitig_1332|quiver
-13857 unitig_226|quiver
-13856 unitig_918|quiver
-13856 unitig_1870|quiver
-13849 unitig_3509|quiver
-13848 unitig_1159|quiver
-13841 unitig_1806|quiver
-13839 unitig_1551|quiver
-13834 unitig_1459|quiver
-13827 unitig_2446|quiver
-13822 unitig_9|quiver
-13820 unitig_1245|quiver
-13819 unitig_1968|quiver
-13789 unitig_696|quiver
-13775 unitig_2181|quiver
-13733 unitig_139|quiver
-13731 unitig_2264|quiver
-13724 unitig_385|quiver
-13712 unitig_1829|quiver
-13707 unitig_3778|quiver
-13678 unitig_158|quiver
-13660 unitig_2046|quiver
-13656 unitig_2758|quiver
-13655 unitig_2521|quiver
-13650 unitig_1929|quiver
-13647 unitig_494|quiver
-13637 unitig_734|quiver
-13625 unitig_1179|quiver
-13614 unitig_638|quiver
-13599 unitig_2538|quiver
-13598 unitig_3488|quiver
-13589 unitig_2379|quiver
-13589 unitig_1520|quiver
-13584 unitig_2592|quiver
-13577 unitig_1055|quiver
-13568 unitig_3376|quiver
-13560 unitig_1999|quiver
-13559 unitig_113|quiver
-13551 unitig_2494|quiver
-13531 unitig_2331|quiver
-13511 unitig_2431|quiver
-13499 unitig_1537|quiver
-13488 unitig_1689|quiver
-13486 unitig_1468|quiver
-13473 unitig_1034|quiver
-13469 unitig_441|quiver
-13468 unitig_348|quiver
-13463 unitig_2353|quiver
-13461 unitig_3522|quiver
-13461 unitig_2435|quiver
-13457 unitig_3763|quiver
-13455 unitig_336|quiver
-13444 unitig_542|quiver
-13443 unitig_1624|quiver
-13433 unitig_1647|quiver
-13432 unitig_3711|quiver
-13416 unitig_2028|quiver
-13411 unitig_1157|quiver
-13384 unitig_2541|quiver
-13374 unitig_1161|quiver
-13372 unitig_603|quiver
-13365 unitig_312|quiver
-13361 unitig_2305|quiver
-13361 unitig_105|quiver
-13360 unitig_1851|quiver
-13359 unitig_2432|quiver
-13354 unitig_2|quiver
-13351 unitig_1586|quiver
-13343 unitig_3693|quiver
-13335 unitig_146|quiver
-13316 unitig_2549|quiver
-13312 unitig_1257|quiver
-13311 unitig_718|quiver
-13310 unitig_1546|quiver
-13295 unitig_3447|quiver
-13288 unitig_3679|quiver
-13279 unitig_1608|quiver
-13271 unitig_24|quiver
-13263 unitig_359|quiver
-13261 unitig_1998|quiver
-13234 unitig_905|quiver
-13231 unitig_1050|quiver
-13230 unitig_4080|quiver
-13229 unitig_1280|quiver
-13228 unitig_1740|quiver
-13226 unitig_849|quiver
-13223 unitig_2343|quiver
-13222 unitig_3640|quiver
-13221 unitig_2707|quiver
-13221 unitig_1343|quiver
-13211 unitig_214|quiver
-13205 unitig_1674|quiver
-13203 unitig_1802|quiver
-13197 unitig_2602|quiver
-13194 unitig_832|quiver
-13193 unitig_2088|quiver
-13191 unitig_4001|quiver
-13183 unitig_1049|quiver
-13181 unitig_2589|quiver
-13175 unitig_147|quiver
-13171 unitig_2307|quiver
-13154 unitig_1828|quiver
-13149 unitig_1195|quiver
-13120 unitig_1811|quiver
-13118 unitig_2403|quiver
-13116 unitig_2248|quiver
-13103 unitig_1480|quiver
-13095 unitig_3992|quiver
-13093 unitig_1476|quiver
-13089 unitig_2690|quiver
-13068 unitig_3566|quiver
-13064 unitig_3605|quiver
-13059 unitig_1114|quiver
-13056 unitig_866|quiver
-13025 unitig_3468|quiver
-13023 unitig_1957|quiver
-13010 unitig_3974|quiver
-12998 unitig_2492|quiver
-12997 unitig_1900|quiver
-12995 unitig_1010|quiver
-12991 unitig_365|quiver
-12989 unitig_43|quiver
-12988 unitig_2134|quiver
-12986 unitig_1751|quiver
-12985 unitig_3254|quiver
-12985 unitig_1946|quiver
-12970 unitig_2093|quiver
-12951 unitig_881|quiver
-12941 unitig_1065|quiver
-12938 unitig_3577|quiver
-12924 unitig_757|quiver
-12921 unitig_1363|quiver
-12905 unitig_3921|quiver
-12901 unitig_729|quiver
-12894 unitig_3409|quiver
-12893 unitig_2161|quiver
-12891 unitig_1175|quiver
-12886 unitig_1759|quiver
-12884 unitig_1661|quiver
-12874 unitig_834|quiver
-12867 unitig_948|quiver
-12856 unitig_606|quiver
-12852 unitig_598|quiver
-12843 unitig_3645|quiver
-12833 unitig_2221|quiver
-12813 unitig_2018|quiver
-12804 unitig_2332|quiver
-12803 unitig_1032|quiver
-12798 unitig_518|quiver
-12797 unitig_1736|quiver
-12788 unitig_88|quiver
-12785 unitig_121|quiver
-12775 unitig_2756|quiver
-12767 unitig_1335|quiver
-12749 unitig_726|quiver
-12742 unitig_792|quiver
-12742 unitig_1783|quiver
-12740 unitig_1591|quiver
-12731 unitig_1544|quiver
-12724 unitig_3310|quiver
-12719 unitig_1810|quiver
-12711 unitig_3539|quiver
-12699 unitig_1127|quiver
-12698 unitig_3304|quiver
-12697 unitig_1746|quiver
-12659 unitig_1103|quiver
-12655 unitig_942|quiver
-12648 unitig_1904|quiver
-12647 unitig_3425|quiver
-12642 unitig_195|quiver
-12632 unitig_1231|quiver
-12629 unitig_3564|quiver
-12621 unitig_3478|quiver
-12611 unitig_323|quiver
-12599 unitig_717|quiver
-12598 unitig_2308|quiver
-12597 unitig_2474|quiver
-12595 unitig_2487|quiver
-12585 unitig_322|quiver
-12577 unitig_2661|quiver
-12576 unitig_2347|quiver
-12565 unitig_2055|quiver
-12542 unitig_243|quiver
-12537 unitig_1700|quiver
-12521 unitig_2360|quiver
-12512 unitig_2484|quiver
-12504 unitig_1379|quiver
-12496 unitig_933|quiver
-12482 unitig_3358|quiver
-12482 unitig_1421|quiver
-12480 unitig_909|quiver
-12472 unitig_3760|quiver
-12471 unitig_1984|quiver
-12465 unitig_2687|quiver
-12465 unitig_2366|quiver
-12463 unitig_2534|quiver
-12461 unitig_2472|quiver
-12457 unitig_2155|quiver
-12454 unitig_1365|quiver
-12446 unitig_1567|quiver
-12444 unitig_1577|quiver
-12430 unitig_2384|quiver
-12425 unitig_2512|quiver
-12423 unitig_4104|quiver
-12421 unitig_715|quiver
-12394 unitig_1003|quiver
-12388 unitig_2475|quiver
-12380 unitig_3462|quiver
-12369 unitig_3068|quiver
-12359 unitig_2082|quiver
-12355 unitig_1942|quiver
-12352 unitig_1731|quiver
-12350 unitig_3839|quiver
-12339 unitig_3641|quiver
-12335 unitig_2439|quiver
-12315 unitig_1046|quiver
-12314 unitig_2231|quiver
-12311 unitig_3671|quiver
-12306 unitig_1809|quiver
-12293 unitig_3517|quiver
-12285 unitig_1075|quiver
-12280 unitig_87|quiver
-12271 unitig_1762|quiver
-12267 unitig_1956|quiver
-12265 unitig_1573|quiver
-12260 unitig_1306|quiver
-12259 unitig_2504|quiver
-12256 unitig_966|quiver
-12247 unitig_3431|quiver
-12245 unitig_117|quiver
-12240 unitig_2144|quiver
-12237 unitig_652|quiver
-12236 unitig_334|quiver
-12225 unitig_1726|quiver
-12218 unitig_1771|quiver
-12194 unitig_3537|quiver
-12193 unitig_2251|quiver
-12185 unitig_2136|quiver
-12178 unitig_787|quiver
-12174 unitig_1756|quiver
-12151 unitig_4005|quiver
-12145 unitig_2336|quiver
-12144 unitig_983|quiver
-12137 unitig_2614|quiver
-12126 unitig_3692|quiver
-12094 unitig_3773|quiver
-12080 unitig_3694|quiver
-12074 unitig_1825|quiver
-12072 unitig_2709|quiver
-12064 unitig_2862|quiver
-12052 unitig_2785|quiver
-12048 unitig_3395|quiver
-12035 unitig_1170|quiver
-12032 unitig_380|quiver
-12030 unitig_206|quiver
-12026 unitig_1978|quiver
-12024 unitig_1135|quiver
-12008 unitig_2157|quiver
-11983 unitig_1166|quiver
-11970 unitig_3445|quiver
-11966 unitig_3942|quiver
-11958 unitig_769|quiver
-11947 unitig_2467|quiver
-11940 unitig_2068|quiver
-11938 unitig_309|quiver
-11937 unitig_3389|quiver
-11928 unitig_530|quiver
-11924 unitig_347|quiver
-11922 unitig_695|quiver
-11918 unitig_2823|quiver
-11917 unitig_2316|quiver
-11915 unitig_248|quiver
-11908 unitig_1451|quiver
-11904 unitig_714|quiver
-11901 unitig_3383|quiver
-11900 unitig_2102|quiver
-11883 unitig_2682|quiver
-11871 unitig_1527|quiver
-11870 unitig_2077|quiver
-11858 unitig_2229|quiver
-11858 unitig_1633|quiver
-11854 unitig_1370|quiver
-11851 unitig_1479|quiver
-11848 unitig_409|quiver
-11847 unitig_1590|quiver
-11844 unitig_2174|quiver
-11840 unitig_443|quiver
-11820 unitig_1860|quiver
-11817 unitig_2600|quiver
-11809 unitig_2078|quiver
-11798 unitig_2321|quiver
-11789 unitig_2984|quiver
-11783 unitig_3401|quiver
-11770 unitig_926|quiver
-11755 unitig_3363|quiver
-11735 unitig_207|quiver
-11723 unitig_2349|quiver
-11720 unitig_2152|quiver
-11713 unitig_3385|quiver
-11682 unitig_1735|quiver
-11680 unitig_2126|quiver
-11677 unitig_1178|quiver
-11675 unitig_431|quiver
-11674 unitig_1681|quiver
-11672 unitig_1337|quiver
-11664 unitig_1140|quiver
-11663 unitig_1508|quiver
-11648 unitig_1961|quiver
-11639 unitig_1235|quiver
-11630 unitig_1561|quiver
-11622 unitig_3674|quiver
-11622 unitig_2065|quiver
-11616 unitig_1021|quiver
-11612 unitig_2005|quiver
-11611 unitig_1017|quiver
-11610 unitig_1364|quiver
-11609 unitig_1884|quiver
-11605 unitig_1029|quiver
-11602 unitig_2326|quiver
-11601 unitig_470|quiver
-11581 unitig_1921|quiver
-11574 unitig_1077|quiver
-11572 unitig_2465|quiver
-11563 unitig_788|quiver
-11563 unitig_1741|quiver
-11562 unitig_300|quiver
-11559 unitig_1568|quiver
-11546 unitig_3420|quiver
-11546 unitig_1341|quiver
-11533 unitig_1817|quiver
-11518 unitig_1279|quiver
-11503 unitig_373|quiver
-11492 unitig_2546|quiver
-11485 unitig_1407|quiver
-11483 unitig_1864|quiver
-11478 unitig_138|quiver
-11463 unitig_64|quiver
-11462 unitig_304|quiver
-11457 unitig_1283|quiver
-11448 unitig_2342|quiver
-11440 unitig_1569|quiver
-11439 unitig_2060|quiver
-11436 unitig_724|quiver
-11426 unitig_928|quiver
-11408 unitig_21|quiver
-11408 unitig_1779|quiver
-11405 unitig_3476|quiver
-11402 unitig_2561|quiver
-11383 unitig_2517|quiver
-11378 unitig_566|quiver
-11372 unitig_1522|quiver
-11366 unitig_1670|quiver
-11362 unitig_679|quiver
-11362 unitig_1717|quiver
-11361 unitig_1492|quiver
-11353 unitig_1413|quiver
-11342 unitig_363|quiver
-11329 unitig_833|quiver
-11323 unitig_1840|quiver
-11300 unitig_4102|quiver
-11300 unitig_1794|quiver
-11292 unitig_739|quiver
-11290 unitig_1934|quiver
-11270 unitig_1465|quiver
-11268 unitig_1019|quiver
-11247 unitig_124|quiver
-11246 unitig_3624|quiver
-11239 unitig_403|quiver
-11236 unitig_3306|quiver
-11231 unitig_2514|quiver
-11220 unitig_2459|quiver
-11208 unitig_3518|quiver
-11205 unitig_1452|quiver
-11200 unitig_2470|quiver
-11189 unitig_3303|quiver
-11186 unitig_970|quiver
-11184 unitig_1565|quiver
-11174 unitig_1098|quiver
-11173 unitig_520|quiver
-11146 unitig_389|quiver
-11145 unitig_697|quiver
-11124 unitig_1013|quiver
-11117 unitig_793|quiver
-11111 unitig_2219|quiver
-11105 unitig_2079|quiver
-11100 unitig_2630|quiver
-11100 unitig_1755|quiver
-11091 unitig_906|quiver
-11087 unitig_3828|quiver
-11061 unitig_2001|quiver
-11057 unitig_2604|quiver
-11055 unitig_310|quiver
-11053 unitig_1267|quiver
-11052 unitig_99|quiver
-11041 unitig_615|quiver
-11041 unitig_1191|quiver
-11037 unitig_1060|quiver
-11032 unitig_3356|quiver
-11028 unitig_2611|quiver
-11027 unitig_1263|quiver
-11021 unitig_1713|quiver
-11018 unitig_1935|quiver
-11015 unitig_1826|quiver
-11007 unitig_2415|quiver
-10996 unitig_2329|quiver
-10994 unitig_2606|quiver
-10986 unitig_3746|quiver
-10966 unitig_3500|quiver
-10957 unitig_2469|quiver
-10951 unitig_1893|quiver
-10945 unitig_1169|quiver
-10942 unitig_2593|quiver
-10923 unitig_3766|quiver
-10921 unitig_2757|quiver
-10920 unitig_991|quiver
-10910 unitig_102|quiver
-10907 unitig_246|quiver
-10903 unitig_2495|quiver
-10903 unitig_1059|quiver
-10891 unitig_2105|quiver
-10889 unitig_1872|quiver
-10888 unitig_1640|quiver
-10875 unitig_3487|quiver
-10873 unitig_2020|quiver
-10869 unitig_2571|quiver
-10862 unitig_420|quiver
-10857 unitig_3718|quiver
-10856 unitig_2189|quiver
-10849 unitig_2760|quiver
-10845 unitig_2118|quiver
-10842 unitig_1873|quiver
-10835 unitig_229|quiver
-10832 unitig_827|quiver
-10828 unitig_344|quiver
-10817 unitig_568|quiver
-10798 unitig_920|quiver
-10798 unitig_1768|quiver
-10794 unitig_2634|quiver
-10786 unitig_1949|quiver
-10773 unitig_1922|quiver
-10770 unitig_1076|quiver
-10756 unitig_3835|quiver
-10755 unitig_1890|quiver
-10753 unitig_368|quiver
-10732 unitig_293|quiver
-10728 unitig_459|quiver
-10719 unitig_3234|quiver
-10705 unitig_688|quiver
-10701 unitig_3372|quiver
-10692 unitig_659|quiver
-10689 unitig_934|quiver
-10687 unitig_126|quiver
-10674 unitig_1382|quiver
-10669 unitig_149|quiver
-10668 unitig_2190|quiver
-10665 unitig_1692|quiver
-10659 unitig_2361|quiver
-10654 unitig_1222|quiver
-10647 unitig_3843|quiver
-10638 unitig_2443|quiver
-10637 unitig_2394|quiver
-10627 unitig_2104|quiver
-10625 unitig_843|quiver
-10607 unitig_915|quiver
-10607 unitig_804|quiver
-10593 unitig_2480|quiver
-10590 unitig_2036|quiver
-10581 unitig_3965|quiver
-10580 unitig_1659|quiver
-10575 unitig_4090|quiver
-10569 unitig_4083|quiver
-10566 unitig_3863|quiver
-10547 unitig_1372|quiver
-10544 unitig_1255|quiver
-10543 unitig_2129|quiver
-10530 unitig_3387|quiver
-10527 unitig_2933|quiver
-10521 unitig_2266|quiver
-10518 unitig_1933|quiver
-10516 unitig_2250|quiver
-10515 unitig_3607|quiver
-10515 unitig_2376|quiver
-10510 unitig_1156|quiver
-10508 unitig_818|quiver
-10490 unitig_2627|quiver
-10488 unitig_1321|quiver
-10483 unitig_2426|quiver
-10481 unitig_557|quiver
-10478 unitig_3489|quiver
-10477 unitig_1056|quiver
-10467 unitig_1645|quiver
-10464 unitig_903|quiver
-10464 unitig_59|quiver
-10461 unitig_2584|quiver
-10460 unitig_2419|quiver
-10456 unitig_936|quiver
-10453 unitig_3429|quiver
-10443 unitig_2555|quiver
-10439 unitig_995|quiver
-10439 unitig_953|quiver
-10439 unitig_296|quiver
-10437 unitig_1847|quiver
-10436 unitig_3416|quiver
-10432 unitig_85|quiver
-10409 unitig_3625|quiver
-10407 unitig_2578|quiver
-10394 unitig_1258|quiver
-10393 unitig_3947|quiver
-10391 unitig_1494|quiver
-10386 unitig_1882|quiver
-10371 unitig_850|quiver
-10371 unitig_1814|quiver
-10355 unitig_342|quiver
-10349 unitig_1353|quiver
-10346 unitig_2581|quiver
-10345 unitig_523|quiver
-10330 unitig_1130|quiver
-10324 unitig_433|quiver
-10319 unitig_589|quiver
-10314 unitig_1693|quiver
-10310 unitig_1475|quiver
-10304 unitig_2476|quiver
-10297 unitig_2425|quiver
-10296 unitig_1599|quiver
-10295 unitig_1414|quiver
-10294 unitig_2633|quiver
-10284 unitig_706|quiver
-10279 unitig_1402|quiver
-10276 unitig_1487|quiver
-10271 unitig_2159|quiver
-10248 unitig_1183|quiver
-10245 unitig_1698|quiver
-10227 unitig_790|quiver
-10224 unitig_1625|quiver
-10218 unitig_1616|quiver
-10211 unitig_233|quiver
-10204 unitig_1404|quiver
-10196 unitig_1660|quiver
-10192 unitig_2572|quiver
-10186 unitig_2354|quiver
-10164 unitig_314|quiver
-10156 unitig_3415|quiver
-10156 unitig_2335|quiver
-10153 unitig_2158|quiver
-10150 unitig_2609|quiver
-10147 unitig_345|quiver
-10138 unitig_1836|quiver
-10137 unitig_1233|quiver
-10131 unitig_2565|quiver
-10130 unitig_81|quiver
-10123 unitig_592|quiver
-10115 unitig_1368|quiver
-10112 unitig_3908|quiver
-10112 unitig_1163|quiver
-10110 unitig_1093|quiver
-10110 unitig_1040|quiver
-10103 unitig_3551|quiver
-10103 unitig_1004|quiver
-10102 unitig_2498|quiver
-10097 unitig_919|quiver
-10097 unitig_756|quiver
-10078 unitig_3849|quiver
-10074 unitig_720|quiver
-10062 unitig_3491|quiver
-10053 unitig_3764|quiver
-10040 unitig_3413|quiver
-10037 unitig_1542|quiver
-10021 unitig_1538|quiver
-10016 unitig_762|quiver
-10013 unitig_199|quiver
-10003 unitig_3529|quiver
-9985 unitig_847|quiver
-9983 unitig_1333|quiver
-9977 unitig_2738|quiver
-9975 unitig_3501|quiver
-9960 unitig_897|quiver
-9959 unitig_3867|quiver
-9957 unitig_588|quiver
-9953 unitig_2012|quiver
-9944 unitig_3948|quiver
-9909 unitig_1025|quiver
-9893 unitig_3250|quiver
-9889 unitig_1278|quiver
-9884 unitig_947|quiver
-9880 unitig_842|quiver
-9876 unitig_2236|quiver
-9871 unitig_1087|quiver
-9868 unitig_1944|quiver
-9858 unitig_3636|quiver
-9849 unitig_1969|quiver
-9839 unitig_1260|quiver
-9838 unitig_106|quiver
-9834 unitig_404|quiver
-9830 unitig_513|quiver
-9828 unitig_3927|quiver
-9822 unitig_1349|quiver
-9812 unitig_957|quiver
-9812 unitig_2671|quiver
-9799 unitig_1302|quiver
-9792 unitig_3227|quiver
-9785 unitig_1613|quiver
-9773 unitig_1812|quiver
-9760 unitig_333|quiver
-9745 unitig_2073|quiver
-9744 unitig_579|quiver
-9744 unitig_19|quiver
-9736 unitig_2230|quiver
-9735 unitig_583|quiver
-9731 unitig_2456|quiver
-9726 unitig_989|quiver
-9725 unitig_2787|quiver
-9714 unitig_2260|quiver
-9711 unitig_479|quiver
-9702 unitig_584|quiver
-9700 unitig_1005|quiver
-9682 unitig_2832|quiver
-9672 unitig_2473|quiver
-9669 unitig_212|quiver
-9660 unitig_1803|quiver
-9648 unitig_1911|quiver
-9633 unitig_2317|quiver
-9629 unitig_634|quiver
-9618 unitig_2192|quiver
-9616 unitig_1834|quiver
-9612 unitig_1931|quiver
-9606 unitig_801|quiver
-9605 unitig_1833|quiver
-9605 unitig_1742|quiver
-9593 unitig_115|quiver
-9590 unitig_1905|quiver
-9589 unitig_1031|quiver
-9583 unitig_3404|quiver
-9579 unitig_1622|quiver
-9569 unitig_815|quiver
-9563 unitig_3700|quiver
-9561 unitig_1730|quiver
-9557 unitig_969|quiver
-9552 unitig_2295|quiver
-9539 unitig_2499|quiver
-9534 unitig_1623|quiver
-9505 unitig_3814|quiver
-9502 unitig_2245|quiver
-9501 unitig_3006|quiver
-9487 unitig_2030|quiver
-9486 unitig_2148|quiver
-9427 unitig_284|quiver
-9418 unitig_3580|quiver
-9415 unitig_3349|quiver
-9411 unitig_3322|quiver
-9409 unitig_841|quiver
-9408 unitig_2309|quiver
-9404 unitig_1182|quiver
-9394 unitig_765|quiver
-9394 unitig_1168|quiver
-9391 unitig_2340|quiver
-9390 unitig_1987|quiver
-9387 unitig_1381|quiver
-9382 unitig_1324|quiver
-9379 unitig_2113|quiver
-9375 unitig_2978|quiver
-9368 unitig_1982|quiver
-9367 unitig_1242|quiver
-9347 unitig_1754|quiver
-9346 unitig_2631|quiver
-9328 unitig_2544|quiver
-9310 unitig_2301|quiver
-9299 unitig_1458|quiver
-9297 unitig_3256|quiver
-9288 unitig_2025|quiver
-9282 unitig_396|quiver
-9271 unitig_3531|quiver
-9258 unitig_2819|quiver
-9258 unitig_2153|quiver
-9254 unitig_2674|quiver
-9249 unitig_2320|quiver
-9235 unitig_1827|quiver
-9215 unitig_1066|quiver
-9205 unitig_1723|quiver
-9202 unitig_1791|quiver
-9196 unitig_188|quiver
-9183 unitig_2570|quiver
-9176 unitig_2533|quiver
-9153 unitig_3876|quiver
-9148 unitig_3063|quiver
-9148 unitig_270|quiver
-9125 unitig_949|quiver
-9108 unitig_2641|quiver
-9088 unitig_845|quiver
-9078 unitig_230|quiver
-9062 unitig_2527|quiver
-9040 unitig_179|quiver
-9039 unitig_3417|quiver
-9004 unitig_2084|quiver
-8995 unitig_3481|quiver
-8988 unitig_3528|quiver
-8985 unitig_1425|quiver
-8970 unitig_3800|quiver
-8968 unitig_639|quiver
-8961 unitig_2324|quiver
-8936 unitig_2562|quiver
-8924 unitig_2311|quiver
-8896 unitig_563|quiver
-8890 unitig_458|quiver
-8881 unitig_2377|quiver
-8869 unitig_2420|quiver
-8866 unitig_2385|quiver
-8863 unitig_1449|quiver
-8858 unitig_2664|quiver
-8845 unitig_686|quiver
-8841 unitig_836|quiver
-8830 unitig_2540|quiver
-8824 unitig_3982|quiver
-8818 unitig_2733|quiver
-8813 unitig_1832|quiver
-8807 unitig_642|quiver
-8803 unitig_3902|quiver
-8796 unitig_3407|quiver
-8790 unitig_3981|quiver
-8789 unitig_205|quiver
-8763 unitig_110|quiver
-8761 unitig_2217|quiver
-8755 unitig_2106|quiver
-8750 unitig_560|quiver
-8709 unitig_3116|quiver
-8707 unitig_1925|quiver
-8696 unitig_1940|quiver
-8696 unitig_1047|quiver
-8692 unitig_2579|quiver
-8683 unitig_3483|quiver
-8679 unitig_2006|quiver
-8635 unitig_1428|quiver
-8627 unitig_2934|quiver
-8626 unitig_3928|quiver
-8605 unitig_2545|quiver
-8600 unitig_1464|quiver
-8599 unitig_2139|quiver
-8597 unitig_1603|quiver
-8560 unitig_1989|quiver
-8552 unitig_534|quiver
-8544 unitig_253|quiver
-8544 unitig_2328|quiver
-8533 unitig_1572|quiver
-8530 unitig_1384|quiver
-8524 unitig_1641|quiver
-8523 unitig_3472|quiver
-8483 unitig_1570|quiver
-8440 unitig_330|quiver
-8436 unitig_1704|quiver
-8431 unitig_3078|quiver
-8418 unitig_2778|quiver
-8415 unitig_735|quiver
-8414 unitig_3628|quiver
-8394 unitig_2116|quiver
-8385 unitig_1287|quiver
-8369 unitig_2596|quiver
-8356 unitig_2564|quiver
-8309 unitig_1149|quiver
-8266 unitig_4066|quiver
-8263 unitig_2334|quiver
-8254 unitig_1858|quiver
-8248 unitig_617|quiver
-8239 unitig_2729|quiver
-8238 unitig_1180|quiver
-8224 unitig_61|quiver
-8219 unitig_2737|quiver
-8209 unitig_2427|quiver
-8198 unitig_1960|quiver
-8197 unitig_2625|quiver
-8177 unitig_3540|quiver
-8174 unitig_3938|quiver
-8172 unitig_572|quiver
-8166 unitig_2414|quiver
-8164 unitig_1606|quiver
-8145 unitig_582|quiver
-8143 unitig_2506|quiver
-8141 unitig_3348|quiver
-8130 unitig_1264|quiver
-8094 unitig_1312|quiver
-8082 unitig_2107|quiver
-8081 unitig_951|quiver
-8081 unitig_1496|quiver
-8075 unitig_2615|quiver
-8066 unitig_3933|quiver
-8064 unitig_1678|quiver
-8043 unitig_2171|quiver
-8033 unitig_2447|quiver
-8030 unitig_2811|quiver
-8016 unitig_2977|quiver
-8011 unitig_4047|quiver
-7995 unitig_526|quiver
-7988 unitig_1880|quiver
-7971 unitig_3801|quiver
-7952 unitig_1776|quiver
-7938 unitig_1983|quiver
-7928 unitig_2244|quiver
-7924 unitig_3520|quiver
-7891 unitig_3865|quiver
-7853 unitig_2582|quiver
-7842 unitig_1026|quiver
-7837 unitig_1376|quiver
-7836 unitig_1069|quiver
-7835 unitig_553|quiver
-7829 unitig_784|quiver
-7829 unitig_3111|quiver
-7803 unitig_2199|quiver
-7789 unitig_3455|quiver
-7771 unitig_2822|quiver
-7760 unitig_2618|quiver
-7747 unitig_2234|quiver
-7732 unitig_2083|quiver
-7723 unitig_1416|quiver
-7711 unitig_1879|quiver
-7686 unitig_1214|quiver
-7683 unitig_1200|quiver
-7671 unitig_2285|quiver
-7656 unitig_384|quiver
-7643 unitig_3946|quiver
-7642 unitig_4076|quiver
-7628 unitig_3901|quiver
-7609 unitig_826|quiver
-7584 unitig_3879|quiver
-7580 unitig_1151|quiver
-7571 unitig_2509|quiver
-7568 unitig_3317|quiver
-7561 unitig_2095|quiver
-7560 unitig_1930|quiver
-7538 unitig_331|quiver
-7538 unitig_2658|quiver
-7528 unitig_937|quiver
-7527 unitig_2284|quiver
-7526 unitig_305|quiver
-7521 unitig_1088|quiver
-7496 unitig_302|quiver
-7490 unitig_2797|quiver
-7486 unitig_899|quiver
-7474 unitig_2421|quiver
-7469 unitig_1562|quiver
-7458 unitig_3519|quiver
-7455 unitig_317|quiver
-7455 unitig_294|quiver
-7445 unitig_2990|quiver
-7421 unitig_3375|quiver
-7419 unitig_719|quiver
-7402 unitig_164|quiver
-7394 unitig_2416|quiver
-7391 unitig_3604|quiver
-7383 unitig_2010|quiver
-7372 unitig_1210|quiver
-7366 unitig_840|quiver
-7343 unitig_1466|quiver
-7334 unitig_318|quiver
-7325 unitig_1883|quiver
-7308 unitig_455|quiver
-7303 unitig_2725|quiver
-7287 unitig_1697|quiver
-7280 unitig_1913|quiver
-7272 unitig_1369|quiver
-7251 unitig_3365|quiver
-7250 unitig_702|quiver
-7250 unitig_2142|quiver
-7243 unitig_3099|quiver
-7230 unitig_1819|quiver
-7212 unitig_2518|quiver
-7205 unitig_2203|quiver
-7201 unitig_1619|quiver
-7198 unitig_2434|quiver
-7196 unitig_2170|quiver
-7176 unitig_2445|quiver
-7173 unitig_1374|quiver
-7160 unitig_2519|quiver
-7150 unitig_960|quiver
-7127 unitig_156|quiver
-7111 unitig_3059|quiver
-7107 unitig_1420|quiver
-7104 unitig_2212|quiver
-7082 unitig_698|quiver
-7059 unitig_2736|quiver
-7038 unitig_1415|quiver
-7011 unitig_2810|quiver
-7000 unitig_3858|quiver
-6998 unitig_884|quiver
-6982 unitig_2510|quiver
-6978 unitig_2428|quiver
-6958 unitig_174|quiver
-6924 unitig_701|quiver
-6917 unitig_2601|quiver
-6914 unitig_669|quiver
-6907 unitig_1265|quiver
-6877 unitig_3813|quiver
-6875 unitig_4124|quiver
-6871 unitig_76|quiver
-6839 unitig_2344|quiver
-6835 unitig_1259|quiver
-6832 unitig_489|quiver
-6822 unitig_2605|quiver
-6806 unitig_3673|quiver
-6802 unitig_2074|quiver
-6782 unitig_1304|quiver
-6777 unitig_2727|quiver
-6773 unitig_2714|quiver
-6744 unitig_2272|quiver
-6723 unitig_2558|quiver
-6719 unitig_984|quiver
-6707 unitig_2755|quiver
-6700 unitig_535|quiver
-6698 unitig_2875|quiver
-6694 unitig_1888|quiver
-6690 unitig_2444|quiver
-6684 unitig_1323|quiver
-6676 unitig_3759|quiver
-6675 unitig_3047|quiver
-6655 unitig_2716|quiver
-6641 unitig_3748|quiver
-6613 unitig_2870|quiver
-6606 unitig_3821|quiver
-6602 unitig_838|quiver
-6575 unitig_2303|quiver
-6572 unitig_853|quiver
-6569 unitig_2763|quiver
-6564 unitig_2796|quiver
-6544 unitig_3895|quiver
-6502 unitig_3390|quiver
-6498 unitig_745|quiver
-6494 unitig_1473|quiver
-6493 unitig_1426|quiver
-6490 unitig_1801|quiver
-6474 unitig_2567|quiver
-6425 unitig_3899|quiver
-6425 unitig_1887|quiver
-6413 unitig_2831|quiver
-6398 unitig_2598|quiver
-6371 unitig_577|quiver
-6370 unitig_1648|quiver
-6344 unitig_1438|quiver
-6341 unitig_2464|quiver
-6337 unitig_3367|quiver
-6337 unitig_2314|quiver
-6329 unitig_1732|quiver
-6329 unitig_108|quiver
-6328 unitig_2597|quiver
-6325 unitig_2880|quiver
-6320 unitig_2768|quiver
-6310 unitig_2330|quiver
-6290 unitig_3474|quiver
-6276 unitig_1831|quiver
-6264 unitig_837|quiver
-6244 unitig_3894|quiver
-6237 unitig_4106|quiver
-6230 unitig_3703|quiver
-6229 unitig_2670|quiver
-6226 unitig_103|quiver
-6213 unitig_2296|quiver
-6184 unitig_2861|quiver
-6138 unitig_2378|quiver
-6113 unitig_2626|quiver
-6064 unitig_159|quiver
-6051 unitig_388|quiver
-6031 unitig_2408|quiver
-6019 unitig_249|quiver
-6016 unitig_1483|quiver
-5981 unitig_3842|quiver
-5934 unitig_16|quiver
-5931 unitig_285|quiver
-5926 unitig_273|quiver
-5916 unitig_2430|quiver
-5914 unitig_1796|quiver
-5909 unitig_2374|quiver
-5859 unitig_182|quiver
-5852 unitig_2915|quiver
-5836 unitig_1171|quiver
-5834 unitig_1491|quiver
-5831 unitig_2932|quiver
-5812 unitig_3807|quiver
-5810 unitig_3953|quiver
-5791 unitig_2511|quiver
-5786 unitig_1662|quiver
-5759 unitig_2744|quiver
-5756 unitig_3831|quiver
-5756 unitig_1153|quiver
-5737 unitig_2799|quiver
-5710 unitig_1938|quiver
-5704 unitig_2127|quiver
-5698 unitig_2008|quiver
-5695 unitig_2705|quiver
-5684 unitig_2801|quiver
-5672 unitig_910|quiver
-5670 unitig_1585|quiver
-5668 unitig_831|quiver
-5659 unitig_1270|quiver
-5651 unitig_2587|quiver
-5648 unitig_1366|quiver
-5640 unitig_3321|quiver
-5612 unitig_2412|quiver
-5601 unitig_2574|quiver
-5596 unitig_2800|quiver
-5586 unitig_1631|quiver
-5566 unitig_2481|quiver
-5545 unitig_2662|quiver
-5533 unitig_2668|quiver
-5518 unitig_2086|quiver
-5505 unitig_2830|quiver
-5488 unitig_3146|quiver
-5462 unitig_358|quiver
-5433 unitig_2636|quiver
-5411 unitig_3722|quiver
-5409 unitig_2387|quiver
-5370 unitig_687|quiver
-5359 unitig_3569|quiver
-5359 unitig_2559|quiver
-5353 unitig_2827|quiver
-5347 unitig_483|quiver
-5341 unitig_3064|quiver
-5305 unitig_3122|quiver
-5294 unitig_2397|quiver
-5279 unitig_1628|quiver
-5269 unitig_2681|quiver
-5225 unitig_269|quiver
-5216 unitig_2201|quiver
-5213 unitig_2728|quiver
-5208 unitig_2009|quiver
-5188 unitig_1920|quiver
-5178 unitig_1012|quiver
-5165 unitig_759|quiver
-5156 unitig_370|quiver
-5153 unitig_4039|quiver
-5147 unitig_1745|quiver
-5116 unitig_2623|quiver
-5114 unitig_1412|quiver
-5085 unitig_2982|quiver
-5051 unitig_1541|quiver
-5044 unitig_2315|quiver
-5028 unitig_4107|quiver
-5025 unitig_1986|quiver
-5011 unitig_1663|quiver
-5011 unitig_1134|quiver
-5010 unitig_3149|quiver
-5003 unitig_4117|quiver
-4996 unitig_805|quiver
-4977 unitig_109|quiver
-4970 unitig_283|quiver
-4969 unitig_320|quiver
-4962 unitig_3158|quiver
-4946 unitig_421|quiver
-4941 unitig_985|quiver
-4934 unitig_2363|quiver
-4932 unitig_2594|quiver
-4910 unitig_2313|quiver
-4903 unitig_2652|quiver
-4893 unitig_1058|quiver
-4869 unitig_120|quiver
-4862 unitig_2520|quiver
-4834 unitig_2878|quiver
-4818 unitig_2501|quiver
-4816 unitig_2928|quiver
-4810 unitig_2996|quiver
-4809 unitig_846|quiver
-4792 unitig_3307|quiver
-4790 unitig_3214|quiver
-4768 unitig_2640|quiver
-4764 unitig_8|quiver
-4763 unitig_2752|quiver
-4732 unitig_3083|quiver
-4719 unitig_1488|quiver
-4694 unitig_2281|quiver
-4643 unitig_1980|quiver
-4617 unitig_1268|quiver
-4616 unitig_2689|quiver
-4615 unitig_2722|quiver
-4610 unitig_1118|quiver
-4602 unitig_2980|quiver
-4589 unitig_1747|quiver
-4563 unitig_3012|quiver
-4562 unitig_2240|quiver
-4549 unitig_1744|quiver
-4522 unitig_3015|quiver
-4498 unitig_2468|quiver
-4487 unitig_1605|quiver
-4484 unitig_3600|quiver
-4472 unitig_2505|quiver
-4427 unitig_2845|quiver
-4423 unitig_2941|quiver
-4402 unitig_2695|quiver
-4386 unitig_2833|quiver
-4366 unitig_2666|quiver
-4365 unitig_3073|quiver
-4336 unitig_311|quiver
-4330 unitig_1822|quiver
-4329 unitig_1923|quiver
-4326 unitig_2140|quiver
-4315 unitig_2771|quiver
-4314 unitig_2622|quiver
-4310 unitig_2100|quiver
-4305 unitig_2745|quiver
-4266 unitig_2471|quiver
-4249 unitig_1743|quiver
-4247 unitig_3168|quiver
-4230 unitig_2607|quiver
-4203 unitig_2624|quiver
-4200 unitig_3255|quiver
-4173 unitig_2577|quiver
-4090 unitig_3252|quiver
-4087 unitig_2777|quiver
-4045 unitig_2608|quiver
-4043 unitig_2557|quiver
-4035 unitig_2404|quiver
-4013 unitig_1110|quiver
-4006 unitig_4123|quiver
-4005 unitig_2680|quiver
-3993 unitig_2150|quiver
-3971 unitig_2252|quiver
-3964 unitig_446|quiver
-3964 unitig_2761|quiver
-3960 unitig_1020|quiver
-3935 unitig_2963|quiver
-3925 unitig_1266|quiver
-3919 unitig_663|quiver
-3910 unitig_3439|quiver
-3910 unitig_1548|quiver
-3902 unitig_1881|quiver
-3893 unitig_1435|quiver
-3887 unitig_143|quiver
-3886 unitig_1500|quiver
-3883 unitig_3668|quiver
-3877 unitig_1679|quiver
-3845 unitig_2039|quiver
-3835 unitig_2749|quiver
-3799 unitig_2406|quiver
-3798 unitig_1269|quiver
-3786 unitig_2638|quiver
-3779 unitig_2355|quiver
-3775 unitig_3003|quiver
-3765 unitig_541|quiver
-3763 unitig_570|quiver
-3738 unitig_3169|quiver
-3730 unitig_2117|quiver
-3718 unitig_2556|quiver
-3717 unitig_1143|quiver
-3713 unitig_2346|quiver
-3707 unitig_2954|quiver
-3705 unitig_1317|quiver
-3699 unitig_1471|quiver
-3698 unitig_1683|quiver
-3694 unitig_1685|quiver
-3687 unitig_2373|quiver
-3654 unitig_1966|quiver
-3642 unitig_878|quiver
-3590 unitig_3864|quiver
-3576 unitig_1807|quiver
-3573 unitig_2846|quiver
-3569 unitig_3742|quiver
-3556 unitig_3494|quiver
-3547 unitig_1288|quiver
-3511 unitig_2742|quiver
-3507 unitig_2688|quiver
-3460 unitig_1715|quiver
-3459 unitig_2685|quiver
-3438 unitig_4078|quiver
-3434 unitig_4034|quiver
-3426 unitig_2706|quiver
-3418 unitig_2463|quiver
-3396 unitig_2588|quiver
-3375 unitig_2548|quiver
-3364 unitig_2815|quiver
-3357 unitig_1176|quiver
-3337 unitig_2651|quiver
-3333 unitig_904|quiver
-3330 unitig_1015|quiver
-3316 unitig_3030|quiver
-3310 unitig_410|quiver
-3297 unitig_2748|quiver
-3287 unitig_2573|quiver
-3279 unitig_2890|quiver
-3272 unitig_2575|quiver
-3259 unitig_3844|quiver
-3210 unitig_488|quiver
-3209 unitig_2829|quiver
-3207 unitig_927|quiver
-3203 unitig_2824|quiver
-3194 unitig_2031|quiver
-3189 unitig_2466|quiver
-3186 unitig_2798|quiver
-3169 unitig_2513|quiver
-3142 unitig_1250|quiver
-3135 unitig_3281|quiver
-3133 unitig_3512|quiver
-3131 unitig_2395|quiver
-3125 unitig_1209|quiver
-3093 unitig_2290|quiver
-3085 unitig_1611|quiver
-3075 unitig_2780|quiver
-3060 unitig_3193|quiver
-3030 unitig_2500|quiver
-3029 unitig_2120|quiver
-3001 unitig_3258|quiver
-2990 unitig_2595|quiver
-2977 unitig_2566|quiver
-2961 unitig_3020|quiver
-2929 unitig_3253|quiver
-2918 unitig_4115|quiver
-2914 unitig_2585|quiver
-2907 unitig_1338|quiver
-2895 unitig_210|quiver
-2859 unitig_2524|quiver
-2848 unitig_457|quiver
-2847 unitig_1917|quiver
-2829 unitig_3201|quiver
-2821 unitig_2889|quiver
-2815 unitig_2655|quiver
-2803 unitig_2903|quiver
-2794 unitig_3009|quiver
-2783 unitig_2812|quiver
-2781 unitig_2635|quiver
-2766 unitig_2410|quiver
-2766 unitig_1632|quiver
-2765 unitig_2726|quiver
-2758 unitig_1765|quiver
-2741 unitig_2306|quiver
-2714 unitig_97|quiver
-2697 unitig_4015|quiver
-2694 unitig_854|quiver
-2686 unitig_4068|quiver
-2680 unitig_1399|quiver
-2652 unitig_2209|quiver
-2642 unitig_1948|quiver
-2625 unitig_3004|quiver
-2613 unitig_2894|quiver
-2610 unitig_3152|quiver
-2606 unitig_2711|quiver
-2593 unitig_2616|quiver
-2579 unitig_2979|quiver
-2578 unitig_2327|quiver
-2576 unitig_2919|quiver
-2565 unitig_2151|quiver
-2565 unitig_1981|quiver
-2554 unitig_2774|quiver
-2545 unitig_2628|quiver
-2537 unitig_2767|quiver
-2535 unitig_2825|quiver
-2525 unitig_1063|quiver
-2520 unitig_2947|quiver
-2515 unitig_1515|quiver
-2498 unitig_2686|quiver
-2484 unitig_2591|quiver
-2475 unitig_3221|quiver
-2468 unitig_2367|quiver
-2450 unitig_2124|quiver
-2439 unitig_3081|quiver
-2436 unitig_2424|quiver
-2400 unitig_1410|quiver
-2395 unitig_2563|quiver
-2377 unitig_2062|quiver
-2369 unitig_4038|quiver
-2357 unitig_3210|quiver
-2354 unitig_802|quiver
-2334 unitig_2766|quiver
-2331 unitig_1293|quiver
-2305 unitig_2804|quiver
-2305 unitig_2232|quiver
-2301 unitig_3267|quiver
-2266 unitig_2656|quiver
-2256 unitig_2739|quiver
-2255 unitig_2843|quiver
-2244 unitig_2667|quiver
-2234 unitig_637|quiver
-2227 unitig_2964|quiver
-2227 unitig_1652|quiver
-2213 unitig_2958|quiver
-2209 unitig_1220|quiver
-2202 unitig_3055|quiver
-2184 unitig_2960|quiver
-2172 unitig_2694|quiver
-2133 unitig_2135|quiver
-2124 unitig_2438|quiver
-2121 unitig_436|quiver
-2120 unitig_2732|quiver
-2116 unitig_2637|quiver
-2107 unitig_2962|quiver
-2103 unitig_1835|quiver
-2096 unitig_1099|quiver
-2066 unitig_2648|quiver
-2065 unitig_797|quiver
-2040 unitig_2776|quiver
-2011 unitig_2669|quiver
-2006 unitig_382|quiver
-2004 unitig_352|quiver
-2004 unitig_2708|quiver
-1986 unitig_2759|quiver
-1978 unitig_3070|quiver
-1973 unitig_2826|quiver
-1973 unitig_2537|quiver
-1970 unitig_3182|quiver
-1955 unitig_2793|quiver
-1945 unitig_2341|quiver
-1939 unitig_2981|quiver
-1933 unitig_2957|quiver
-1926 unitig_2734|quiver
-1921 unitig_2959|quiver
-1919 unitig_3806|quiver
-1909 unitig_2809|quiver
-1898 unitig_2679|quiver
-1897 unitig_2949|quiver
-1893 unitig_580|quiver
-1881 unitig_3187|quiver
-1871 unitig_2930|quiver
-1864 unitig_2646|quiver
-1850 unitig_2715|quiver
-1826 unitig_3061|quiver
-1825 unitig_2901|quiver
-1819 unitig_2529|quiver
-1804 unitig_555|quiver
-1786 unitig_2789|quiver
-1771 unitig_2743|quiver
-1770 unitig_2507|quiver
-1767 unitig_533|quiver
-1760 unitig_3219|quiver
-1759 unitig_2995|quiver
-1754 unitig_2216|quiver
-1746 unitig_1443|quiver
-1742 unitig_1117|quiver
-1741 unitig_711|quiver
-1741 unitig_2619|quiver
-1735 unitig_643|quiver
-1723 unitig_3040|quiver
-1723 unitig_2450|quiver
-1698 unitig_1688|quiver
-1674 unitig_3920|quiver
-1663 unitig_4012|quiver
-1652 unitig_2786|quiver
-1637 unitig_3265|quiver
-1635 unitig_3166|quiver
-1591 unitig_2649|quiver
-1585 unitig_2580|quiver
-1570 unitig_2781|quiver
-1559 unitig_3054|quiver
-1557 unitig_2751|quiver
-1544 unitig_2762|quiver
-1514 unitig_3809|quiver
-1513 unitig_2590|quiver
-1490 unitig_2720|quiver
-1487 unitig_3204|quiver
-1484 unitig_3493|quiver
-1483 unitig_2531|quiver
-1477 unitig_3094|quiver
-1475 unitig_595|quiver
-1469 unitig_2764|quiver
-1450 unitig_4030|quiver
-1449 unitig_471|quiver
-1435 unitig_2702|quiver
-1431 unitig_2791|quiver
-1426 unitig_3035|quiver
-1406 unitig_2821|quiver
-1398 unitig_3426|quiver
-1395 unitig_3163|quiver
-1361 unitig_2887|quiver
-1317 unitig_2044|quiver
-1302 unitig_2007|quiver
-1296 unitig_3045|quiver
-1277 unitig_2731|quiver
-1257 unitig_2440|quiver
-1220 unitig_2684|quiver
-1217 unitig_3919|quiver
-1215 unitig_2969|quiver
-1194 unitig_869|quiver
-1128 unitig_2713|quiver
-1119 unitig_2156|quiver
-1117 unitig_3084|quiver
-1082 unitig_2806|quiver
-1068 unitig_2692|quiver
-1054 unitig_1248|quiver
-1046 unitig_2723|quiver
-1032 unitig_2836|quiver
-1032 unitig_1914|quiver
-1031 unitig_2967|quiver
-998 unitig_1581|quiver
-979 unitig_2805|quiver
-950 unitig_867|quiver
-937 unitig_2952|quiver
-925 unitig_2678|quiver
-919 unitig_3294|quiver
-889 unitig_2784|quiver
-879 unitig_3275|quiver
-848 unitig_3138|quiver
-839 unitig_2653|quiver
-829 unitig_2719|quiver
-825 unitig_2724|quiver
-810 unitig_2643|quiver
-758 unitig_292|quiver
-758 unitig_2560|quiver
-724 unitig_2998|quiver
-708 unitig_438|quiver
-694 unitig_2650|quiver
-689 unitig_3017|quiver
-674 unitig_3097|quiver
-536 unitig_3150|quiver
-503 unitig_3154|quiver
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+810089	unitig_3545|quiver
+539071	unitig_37|quiver
+521914	unitig_3752|quiver
+450842	unitig_46|quiver
+396607	unitig_3623|quiver
+388337	unitig_57|quiver
+387957	unitig_51|quiver
+353089	unitig_4002|quiver
+343317	unitig_4003|quiver
+330326	unitig_4010|quiver
+275852	unitig_3712|quiver
+247892	unitig_3632|quiver
+241337	unitig_44|quiver
+235985	unitig_3888|quiver
+232257	unitig_3930|quiver
+230861	unitig_3968|quiver
+229628	unitig_142|quiver
+229317	unitig_3984|quiver
+224964	unitig_3890|quiver
+219718	unitig_203|quiver
+213623	unitig_3477|quiver
+202184	unitig_3571|quiver
+200111	unitig_263|quiver
+198428	unitig_239|quiver
+197686	unitig_3656|quiver
+190901	unitig_369|quiver
+187069	unitig_169|quiver
+184364	unitig_3696|quiver
+183136	unitig_236|quiver
+176611	unitig_3817|quiver
+175754	unitig_3749|quiver
+173744	unitig_3382|quiver
+167631	unitig_3342|quiver
+163194	unitig_451|quiver
+161845	unitig_306|quiver
+160876	unitig_316|quiver
+159385	unitig_3852|quiver
+153502	unitig_3976|quiver
+151213	unitig_3918|quiver
+148537	unitig_49|quiver
+145151	unitig_456|quiver
+144545	unitig_3802|quiver
+142991	unitig_3829|quiver
+139327	unitig_63|quiver
+139130	unitig_35|quiver
+137587	unitig_646|quiver
+137309	unitig_3987|quiver
+136579	unitig_3672|quiver
+135962	unitig_329|quiver
+135668	unitig_3368|quiver
+135608	unitig_3978|quiver
+135373	unitig_3989|quiver
+135020	unitig_593|quiver
+134626	unitig_3877|quiver
+134334	unitig_3412|quiver
+133947	unitig_277|quiver
+133584	unitig_3983|quiver
+133351	unitig_84|quiver
+133311	unitig_376|quiver
+132516	unitig_3874|quiver
+131616	unitig_3328|quiver
+131261	unitig_3352|quiver
+130390	unitig_585|quiver
+130386	unitig_3567|quiver
+130197	unitig_432|quiver
+130044	unitig_3534|quiver
+129008	unitig_3979|quiver
+127759	unitig_90|quiver
+127431	unitig_855|quiver
+127378	unitig_741|quiver
+125751	unitig_3442|quiver
+125464	unitig_3993|quiver
+125427	unitig_374|quiver
+125170	unitig_3677|quiver
+124028	unitig_654|quiver
+123823	unitig_631|quiver
+123523	unitig_267|quiver
+123502	unitig_3727|quiver
+122645	unitig_3504|quiver
+120710	unitig_736|quiver
+120704	unitig_3853|quiver
+120417	unitig_650|quiver
+119450	unitig_3923|quiver
+119439	unitig_3805|quiver
+119105	unitig_712|quiver
+118696	unitig_3882|quiver
+118525	unitig_460|quiver
+118073	unitig_3676|quiver
+117444	unitig_3588|quiver
+115640	unitig_3556|quiver
+114706	unitig_3836|quiver
+113489	unitig_3523|quiver
+112585	unitig_677|quiver
+112294	unitig_3977|quiver
+110906	unitig_13|quiver
+110467	unitig_932|quiver
+108562	unitig_619|quiver
+107926	unitig_1221|quiver
+107796	unitig_160|quiver
+107780	unitig_3543|quiver
+106513	unitig_45|quiver
+106382	unitig_612|quiver
+106277	unitig_3419|quiver
+104727	unitig_112|quiver
+104521	unitig_264|quiver
+104295	unitig_351|quiver
+104153	unitig_651|quiver
+102996	unitig_3527|quiver
+102982	unitig_3924|quiver
+102978	unitig_3869|quiver
+102931	unitig_887|quiver
+102732	unitig_82|quiver
+102093	unitig_3619|quiver
+101330	unitig_411|quiver
+101299	unitig_466|quiver
+100936	unitig_1131|quiver
+100610	unitig_997|quiver
+100355	unitig_1082|quiver
+99954	unitig_132|quiver
+99349	unitig_475|quiver
+98590	unitig_950|quiver
+98585	unitig_3810|quiver
+98420	unitig_3898|quiver
+98329	unitig_1097|quiver
+98327	unitig_225|quiver
+98033	unitig_728|quiver
+98008	unitig_371|quiver
+97611	unitig_3889|quiver
+97491	unitig_491|quiver
+97328	unitig_3697|quiver
+97219	unitig_562|quiver
+96199	unitig_939|quiver
+95508	unitig_3959|quiver
+94365	unitig_817|quiver
+94134	unitig_852|quiver
+94085	unitig_414|quiver
+93903	unitig_234|quiver
+93523	unitig_705|quiver
+93317	unitig_3398|quiver
+93203	unitig_3444|quiver
+93141	unitig_3897|quiver
+92635	unitig_3706|quiver
+92482	unitig_3743|quiver
+91901	unitig_3785|quiver
+91587	unitig_307|quiver
+91507	unitig_3344|quiver
+91158	unitig_357|quiver
+91149	unitig_137|quiver
+90788	unitig_165|quiver
+90564	unitig_742|quiver
+90431	unitig_289|quiver
+90336	unitig_1086|quiver
+89617	unitig_186|quiver
+88657	unitig_925|quiver
+88309	unitig_4109|quiver
+88254	unitig_266|quiver
+88173	unitig_480|quiver
+87808	unitig_3634|quiver
+87678	unitig_3704|quiver
+87662	unitig_946|quiver
+87507	unitig_785|quiver
+87032	unitig_1128|quiver
+86533	unitig_1083|quiver
+86514	unitig_3798|quiver
+85647	unitig_204|quiver
+85566	unitig_3952|quiver
+85266	unitig_1218|quiver
+85177	unitig_3911|quiver
+84956	unitig_576|quiver
+84911	unitig_3848|quiver
+84518	unitig_935|quiver
+84311	unitig_170|quiver
+84212	unitig_3917|quiver
+84011	unitig_3324|quiver
+83391	unitig_3554|quiver
+83101	unitig_3850|quiver
+83064	unitig_196|quiver
+82845	unitig_544|quiver
+82824	unitig_645|quiver
+82592	unitig_1241|quiver
+82512	unitig_191|quiver
+82392	unitig_339|quiver
+81992	unitig_287|quiver
+81987	unitig_3660|quiver
+81556	unitig_499|quiver
+81324	unitig_1006|quiver
+80971	unitig_3868|quiver
+80848	unitig_3891|quiver
+80591	unitig_955|quiver
+80544	unitig_151|quiver
+80530	unitig_609|quiver
+80467	unitig_3738|quiver
+80352	unitig_3825|quiver
+80242	unitig_3353|quiver
+80180	unitig_297|quiver
+80078	unitig_3875|quiver
+79827	unitig_1084|quiver
+79649	unitig_605|quiver
+79647	unitig_3737|quiver
+79491	unitig_3699|quiver
+79242	unitig_975|quiver
+78833	unitig_66|quiver
+78676	unitig_3326|quiver
+78622	unitig_810|quiver
+78462	unitig_268|quiver
+78447	unitig_3638|quiver
+78301	unitig_131|quiver
+77459	unitig_3734|quiver
+77192	unitig_3618|quiver
+77084	unitig_1185|quiver
+77031	unitig_4006|quiver
+76977	unitig_1588|quiver
+76816	unitig_3553|quiver
+76742	unitig_3587|quiver
+76477	unitig_3871|quiver
+75922	unitig_442|quiver
+75746	unitig_1045|quiver
+75668	unitig_876|quiver
+75634	unitig_1275|quiver
+75494	unitig_916|quiver
+74896	unitig_439|quiver
+74883	unitig_1442|quiver
+73625	unitig_892|quiver
+73528	unitig_3334|quiver
+73233	unitig_622|quiver
+72999	unitig_3546|quiver
+72914	unitig_241|quiver
+72902	unitig_3750|quiver
+72785	unitig_549|quiver
+72736	unitig_1044|quiver
+72681	unitig_1064|quiver
+72156	unitig_3715|quiver
+72119	unitig_1361|quiver
+72061	unitig_554|quiver
+72050	unitig_782|quiver
+72008	unitig_3893|quiver
+71812	unitig_1079|quiver
+70780	unitig_614|quiver
+70770	unitig_3881|quiver
+70523	unitig_3615|quiver
+70451	unitig_3725|quiver
+70312	unitig_786|quiver
+70304	unitig_392|quiver
+70291	unitig_1638|quiver
+69784	unitig_3819|quiver
+69765	unitig_1037|quiver
+69488	unitig_594|quiver
+69466	unitig_262|quiver
+69116	unitig_1272|quiver
+68649	unitig_1|quiver
+68390	unitig_1507|quiver
+68285	unitig_140|quiver
+67993	unitig_1346|quiver
+67576	unitig_444|quiver
+67508	unitig_3721|quiver
+67493	unitig_647|quiver
+67406	unitig_3771|quiver
+67390	unitig_148|quiver
+67288	unitig_3585|quiver
+66827	unitig_1405|quiver
+66695	unitig_1528|quiver
+66591	unitig_221|quiver
+66259	unitig_3735|quiver
+66132	unitig_1786|quiver
+65929	unitig_478|quiver
+65736	unitig_3954|quiver
+64951	unitig_405|quiver
+64863	unitig_1243|quiver
+64404	unitig_1308|quiver
+64179	unitig_327|quiver
+64006	unitig_504|quiver
+63864	unitig_3670|quiver
+63856	unitig_465|quiver
+63837	unitig_464|quiver
+63791	unitig_338|quiver
+63695	unitig_3666|quiver
+63507	unitig_3452|quiver
+63332	unitig_830|quiver
+63259	unitig_3994|quiver
+63207	unitig_372|quiver
+63157	unitig_215|quiver
+63018	unitig_3614|quiver
+62889	unitig_3998|quiver
+62885	unitig_3609|quiver
+62790	unitig_1071|quiver
+62649	unitig_1360|quiver
+62600	unitig_1330|quiver
+62436	unitig_1658|quiver
+62365	unitig_1177|quiver
+62141	unitig_3779|quiver
+62128	unitig_3492|quiver
+61778	unitig_3873|quiver
+61778	unitig_1593|quiver
+61304	unitig_1188|quiver
+60986	unitig_3454|quiver
+60869	unitig_276|quiver
+60760	unitig_3744|quiver
+60575	unitig_1531|quiver
+60540	unitig_3555|quiver
+60300	unitig_1362|quiver
+60168	unitig_256|quiver
+60157	unitig_3943|quiver
+60117	unitig_1311|quiver
+59806	unitig_754|quiver
+59781	unitig_3459|quiver
+59384	unitig_4128|quiver
+59344	unitig_746|quiver
+59198	unitig_3583|quiver
+58988	unitig_789|quiver
+58949	unitig_1579|quiver
+58935	unitig_486|quiver
+58711	unitig_3603|quiver
+58527	unitig_640|quiver
+58431	unitig_1444|quiver
+58377	unitig_1673|quiver
+57817	unitig_766|quiver
+57744	unitig_3995|quiver
+57738	unitig_3649|quiver
+57641	unitig_1607|quiver
+57613	unitig_3584|quiver
+57565	unitig_514|quiver
+57514	unitig_3990|quiver
+57488	unitig_1351|quiver
+57269	unitig_1505|quiver
+57266	unitig_608|quiver
+57130	unitig_3937|quiver
+57093	unitig_1112|quiver
+56570	unitig_1122|quiver
+56339	unitig_3662|quiver
+56097	unitig_3688|quiver
+55885	unitig_424|quiver
+55770	unitig_1687|quiver
+55726	unitig_616|quiver
+55695	unitig_858|quiver
+55658	unitig_77|quiver
+55645	unitig_3521|quiver
+55624	unitig_3345|quiver
+55157	unitig_1104|quiver
+55069	unitig_750|quiver
+55012	unitig_3945|quiver
+54884	unitig_1251|quiver
+54762	unitig_3861|quiver
+54654	unitig_1748|quiver
+54627	unitig_3770|quiver
+54553	unitig_862|quiver
+54549	unitig_828|quiver
+54065	unitig_3594|quiver
+54005	unitig_848|quiver
+54000	unitig_3724|quiver
+53867	unitig_1132|quiver
+53582	unitig_1587|quiver
+53539	unitig_1510|quiver
+53418	unitig_1262|quiver
+53408	unitig_1061|quiver
+53400	unitig_3713|quiver
+53352	unitig_3591|quiver
+53242	unitig_1439|quiver
+53212	unitig_587|quiver
+53186	unitig_495|quiver
+52992	unitig_1592|quiver
+52861	unitig_552|quiver
+52858	unitig_737|quiver
+52703	unitig_3637|quiver
+52604	unitig_3745|quiver
+52499	unitig_1239|quiver
+52214	unitig_337|quiver
+52123	unitig_2043|quiver
+51992	unitig_1513|quiver
+51807	unitig_1555|quiver
+51792	unitig_1392|quiver
+51608	unitig_3606|quiver
+51162	unitig_3379|quiver
+51103	unitig_1227|quiver
+51063	unitig_1326|quiver
+50970	unitig_771|quiver
+50936	unitig_3437|quiver
+50475	unitig_175|quiver
+50475	unitig_1036|quiver
+50185	unitig_1769|quiver
+50101	unitig_96|quiver
+50023	unitig_3617|quiver
+49998	unitig_929|quiver
+49945	unitig_3934|quiver
+49903	unitig_3906|quiver
+49843	unitig_4007|quiver
+49658	unitig_691|quiver
+49652	unitig_201|quiver
+49467	unitig_819|quiver
+49415	unitig_901|quiver
+49365	unitig_571|quiver
+49165	unitig_153|quiver
+49145	unitig_3964|quiver
+49074	unitig_1521|quiver
+49036	unitig_1908|quiver
+49031	unitig_3350|quiver
+48956	unitig_529|quiver
+48869	unitig_290|quiver
+48844	unitig_3960|quiver
+48796	unitig_3944|quiver
+48708	unitig_1867|quiver
+48697	unitig_1440|quiver
+48595	unitig_1246|quiver
+48555	unitig_3405|quiver
+48439	unitig_3840|quiver
+48379	unitig_430|quiver
+48361	unitig_445|quiver
+48229	unitig_689|quiver
+48196	unitig_1499|quiver
+47899	unitig_1454|quiver
+47890	unitig_1504|quiver
+47880	unitig_278|quiver
+47823	unitig_1052|quiver
+47817	unitig_3630|quiver
+47786	unitig_3733|quiver
+47756	unitig_923|quiver
+47745	unitig_1511|quiver
+47721	unitig_1815|quiver
+47699	unitig_3391|quiver
+47606	unitig_114|quiver
+47534	unitig_3913|quiver
+47495	unitig_258|quiver
+47473	unitig_886|quiver
+47406	unitig_1773|quiver
+47352	unitig_176|quiver
+47323	unitig_2019|quiver
+47140	unitig_1342|quiver
+47036	unitig_2179|quiver
+46961	unitig_3410|quiver
+46857	unitig_1787|quiver
+46809	unitig_778|quiver
+46779	unitig_4127|quiver
+46771	unitig_1657|quiver
+46752	unitig_1190|quiver
+46581	unitig_1229|quiver
+46511	unitig_437|quiver
+46475	unitig_545|quiver
+46458	unitig_551|quiver
+46420	unitig_3653|quiver
+46383	unitig_1701|quiver
+46358	unitig_537|quiver
+46340	unitig_1963|quiver
+46332	unitig_1646|quiver
+46131	unitig_3783|quiver
+46096	unitig_1276|quiver
+46073	unitig_1854|quiver
+46052	unitig_921|quiver
+45870	unitig_1725|quiver
+45861	unitig_1201|quiver
+45827	unitig_3841|quiver
+45825	unitig_1274|quiver
+45720	unitig_3731|quiver
+45609	unitig_3359|quiver
+45602	unitig_1340|quiver
+45595	unitig_1654|quiver
+45531	unitig_1497|quiver
+45413	unitig_525|quiver
+45385	unitig_15|quiver
+45308	unitig_521|quiver
+45247	unitig_280|quiver
+45199	unitig_3475|quiver
+44914	unitig_3880|quiver
+44828	unitig_223|quiver
+44742	unitig_987|quiver
+44732	unitig_260|quiver
+44682	unitig_4101|quiver
+44550	unitig_999|quiver
+44530	unitig_1943|quiver
+44345	unitig_2066|quiver
+44067	unitig_3804|quiver
+44064	unitig_3639|quiver
+43961	unitig_4114|quiver
+43763	unitig_407|quiver
+43591	unitig_3486|quiver
+43554	unitig_1710|quiver
+43487	unitig_548|quiver
+43187	unitig_1861|quiver
+43165	unitig_1462|quiver
+43102	unitig_208|quiver
+42684	unitig_500|quiver
+42646	unitig_1081|quiver
+42612	unitig_180|quiver
+42361	unitig_1643|quiver
+42058	unitig_95|quiver
+41949	unitig_367|quiver
+41937	unitig_2257|quiver
+41798	unitig_1793|quiver
+41761	unitig_564|quiver
+41733	unitig_100|quiver
+41641	unitig_1578|quiver
+41480	unitig_340|quiver
+41470	unitig_1909|quiver
+41464	unitig_3757|quiver
+41446	unitig_2058|quiver
+41437	unitig_3774|quiver
+41434	unitig_271|quiver
+41421	unitig_1517|quiver
+41389	unitig_3838|quiver
+41389	unitig_3374|quiver
+41332	unitig_1519|quiver
+41154	unitig_1727|quiver
+41080	unitig_2057|quiver
+40997	unitig_1359|quiver
+40968	unitig_3980|quiver
+40952	unitig_91|quiver
+40886	unitig_3646|quiver
+40767	unitig_73|quiver
+40717	unitig_1394|quiver
+40703	unitig_387|quiver
+40588	unitig_3739|quiver
+40575	unitig_1524|quiver
+40556	unitig_1139|quiver
+40480	unitig_38|quiver
+40449	unitig_3302|quiver
+40414	unitig_3361|quiver
+40396	unitig_752|quiver
+40354	unitig_1387|quiver
+40192	unitig_3729|quiver
+40168	unitig_247|quiver
+40142	unitig_1482|quiver
+40109	unitig_898|quiver
+40079	unitig_743|quiver
+40052	unitig_173|quiver
+40048	unitig_3610|quiver
+39924	unitig_419|quiver
+39878	unitig_772|quiver
+39877	unitig_889|quiver
+39865	unitig_1395|quiver
+39832	unitig_2017|quiver
+39650	unitig_1389|quiver
+39631	unitig_3827|quiver
+39605	unitig_3422|quiver
+39605	unitig_2270|quiver
+39576	unitig_708|quiver
+39549	unitig_1009|quiver
+39510	unitig_3347|quiver
+39424	unitig_1702|quiver
+39211	unitig_678|quiver
+39158	unitig_1509|quiver
+39117	unitig_3449|quiver
+39105	unitig_1894|quiver
+39081	unitig_134|quiver
+38979	unitig_272|quiver
+38863	unitig_216|quiver
+38861	unitig_70|quiver
+38834	unitig_476|quiver
+38803	unitig_1391|quiver
+38721	unitig_141|quiver
+38691	unitig_1705|quiver
+38607	unitig_1325|quiver
+38517	unitig_930|quiver
+38491	unitig_825|quiver
+38449	unitig_178|quiver
+38374	unitig_1422|quiver
+38318	unitig_1848|quiver
+38261	unitig_1712|quiver
+38260	unitig_1596|quiver
+38201	unitig_1584|quiver
+38199	unitig_1390|quiver
+38179	unitig_671|quiver
+38116	unitig_1945|quiver
+38069	unitig_3552|quiver
+38057	unitig_3411|quiver
+38046	unitig_1481|quiver
+37956	unitig_607|quiver
+37950	unitig_281|quiver
+37949	unitig_111|quiver
+37949	unitig_1008|quiver
+37938	unitig_1724|quiver
+37917	unitig_1196|quiver
+37886	unitig_839|quiver
+37854	unitig_1192|quiver
+37826	unitig_860|quiver
+37802	unitig_3963|quiver
+37790	unitig_1820|quiver
+37783	unitig_1665|quiver
+37552	unitig_3654|quiver
+37505	unitig_1601|quiver
+37418	unitig_328|quiver
+37388	unitig_835|quiver
+37350	unitig_814|quiver
+37309	unitig_3922|quiver
+37266	unitig_319|quiver
+37201	unitig_245|quiver
+37147	unitig_2145|quiver
+37113	unitig_914|quiver
+36924	unitig_3466|quiver
+36896	unitig_1958|quiver
+36829	unitig_3369|quiver
+36821	unitig_3467|quiver
+36686	unitig_492|quiver
+36680	unitig_1970|quiver
+36658	unitig_313|quiver
+36653	unitig_1962|quiver
+36622	unitig_1558|quiver
+36602	unitig_956|quiver
+36598	unitig_961|quiver
+36561	unitig_1582|quiver
+36559	unitig_3925|quiver
+36493	unitig_213|quiver
+36486	unitig_1789|quiver
+36477	unitig_3686|quiver
+36471	unitig_1393|quiver
+36361	unitig_3707|quiver
+36288	unitig_3709|quiver
+36209	unitig_1199|quiver
+36053	unitig_1089|quiver
+36051	unitig_3956|quiver
+35991	unitig_1138|quiver
+35943	unitig_497|quiver
+35942	unitig_128|quiver
+35824	unitig_192|quiver
+35803	unitig_1813|quiver
+35742	unitig_3788|quiver
+35730	unitig_1718|quiver
+35658	unitig_1877|quiver
+35561	unitig_3396|quiver
+35494	unitig_2041|quiver
+35494	unitig_1181|quiver
+35251	unitig_931|quiver
+35250	unitig_3451|quiver
+35190	unitig_776|quiver
+35085	unitig_1669|quiver
+35067	unitig_1187|quiver
+34851	unitig_166|quiver
+34790	unitig_1575|quiver
+34758	unitig_675|quiver
+34614	unitig_1184|quiver
+34596	unitig_190|quiver
+34583	unitig_3402|quiver
+34582	unitig_62|quiver
+34554	unitig_325|quiver
+34549	unitig_3698|quiver
+34530	unitig_3900|quiver
+34528	unitig_707|quiver
+34518	unitig_3665|quiver
+34465	unitig_556|quiver
+34406	unitig_1296|quiver
+34394	unitig_3883|quiver
+34392	unitig_3323|quiver
+34279	unitig_597|quiver
+34276	unitig_751|quiver
+34265	unitig_238|quiver
+34196	unitig_1516|quiver
+34162	unitig_3949|quiver
+34149	unitig_3535|quiver
+34041	unitig_150|quiver
+33901	unitig_1951|quiver
+33898	unitig_161|quiver
+33683	unitig_1373|quiver
+33664	unitig_1863|quiver
+33651	unitig_3595|quiver
+33650	unitig_394|quiver
+33633	unitig_68|quiver
+33620	unitig_1234|quiver
+33502	unitig_144|quiver
+33462	unitig_3941|quiver
+33459	unitig_1253|quiver
+33426	unitig_1885|quiver
+33408	unitig_888|quiver
+33376	unitig_390|quiver
+33356	unitig_162|quiver
+33309	unitig_907|quiver
+33204	unitig_3687|quiver
+33171	unitig_3318|quiver
+33156	unitig_661|quiver
+33067	unitig_630|quiver
+33024	unitig_406|quiver
+32997	unitig_575|quiver
+32919	unitig_1878|quiver
+32870	unitig_1211|quiver
+32860	unitig_224|quiver
+32789	unitig_1950|quiver
+32784	unitig_890|quiver
+32735	unitig_3787|quiver
+32720	unitig_1281|quiver
+32676	unitig_1228|quiver
+32598	unitig_1535|quiver
+32564	unitig_1617|quiver
+32546	unitig_474|quiver
+32439	unitig_472|quiver
+32378	unitig_1212|quiver
+32349	unitig_3915|quiver
+32262	unitig_3620|quiver
+32256	unitig_1126|quiver
+32250	unitig_546|quiver
+32246	unitig_3408|quiver
+32229	unitig_1708|quiver
+32227	unitig_3456|quiver
+32204	unitig_1240|quiver
+32191	unitig_3701|quiver
+32164	unitig_2196|quiver
+32160	unitig_699|quiver
+32071	unitig_1189|quiver
+32043	unitig_1671|quiver
+31997	unitig_1286|quiver
+31991	unitig_356|quiver
+31907	unitig_3541|quiver
+31896	unitig_1345|quiver
+31878	unitig_1054|quiver
+31860	unitig_3339|quiver
+31758	unitig_1043|quiver
+31737	unitig_1041|quiver
+31622	unitig_1838|quiver
+31566	unitig_1129|quiver
+31537	unitig_632|quiver
+31519	unitig_3392|quiver
+31468	unitig_335|quiver
+31462	unitig_1493|quiver
+31417	unitig_74|quiver
+31405	unitig_332|quiver
+31398	unitig_1038|quiver
+31384	unitig_2033|quiver
+31375	unitig_1896|quiver
+31335	unitig_2122|quiver
+31276	unitig_3837|quiver
+31245	unitig_1136|quiver
+31165	unitig_2220|quiver
+31119	unitig_3935|quiver
+31111	unitig_23|quiver
+31111	unitig_1144|quiver
+31079	unitig_1936|quiver
+31021	unitig_1865|quiver
+30986	unitig_3845|quiver
+30951	unitig_1750|quiver
+30949	unitig_104|quiver
+30870	unitig_1525|quiver
+30775	unitig_3708|quiver
+30742	unitig_383|quiver
+30739	unitig_350|quiver
+30738	unitig_1411|quiver
+30679	unitig_649|quiver
+30644	unitig_3331|quiver
+30611	unitig_3633|quiver
+30505	unitig_3903|quiver
+30404	unitig_764|quiver
+30353	unitig_1804|quiver
+30321	unitig_1774|quiver
+30294	unitig_2053|quiver
+30277	unitig_1975|quiver
+30273	unitig_47|quiver
+30224	unitig_231|quiver
+30153	unitig_1485|quiver
+30127	unitig_1120|quiver
+30109	unitig_1310|quiver
+30019	unitig_2178|quiver
+30014	unitig_1955|quiver
+29882	unitig_3833|quiver
+29870	unitig_1703|quiver
+29819	unitig_1534|quiver
+29769	unitig_92|quiver
+29721	unitig_3305|quiver
+29710	unitig_3427|quiver
+29708	unitig_1150|quiver
+29617	unitig_795|quiver
+29613	unitig_672|quiver
+29603	unitig_2160|quiver
+29578	unitig_1947|quiver
+29577	unitig_1952|quiver
+29573	unitig_3598|quiver
+29522	unitig_883|quiver
+29489	unitig_1780|quiver
+29444	unitig_3907|quiver
+29319	unitig_1610|quiver
+29317	unitig_413|quiver
+29307	unitig_1965|quiver
+29255	unitig_39|quiver
+29179	unitig_2023|quiver
+29146	unitig_1600|quiver
+29134	unitig_1318|quiver
+29125	unitig_1853|quiver
+29064	unitig_813|quiver
+29058	unitig_945|quiver
+29042	unitig_3360|quiver
+29036	unitig_1594|quiver
+29015	unitig_1749|quiver
+28955	unitig_200|quiver
+28954	unitig_2287|quiver
+28907	unitig_1977|quiver
+28896	unitig_1141|quiver
+28885	unitig_1155|quiver
+28877	unitig_244|quiver
+28865	unitig_473|quiver
+28859	unitig_1939|quiver
+28777	unitig_477|quiver
+28740	unitig_461|quiver
+28732	unitig_1252|quiver
+28695	unitig_653|quiver
+28651	unitig_3436|quiver
+28631	unitig_3301|quiver
+28571	unitig_3327|quiver
+28522	unitig_415|quiver
+28521	unitig_3792|quiver
+28498	unitig_1070|quiver
+28490	unitig_2037|quiver
+28427	unitig_753|quiver
+28405	unitig_346|quiver
+28403	unitig_1651|quiver
+28368	unitig_3887|quiver
+28316	unitig_3736|quiver
+28255	unitig_1230|quiver
+28245	unitig_2289|quiver
+28242	unitig_3340|quiver
+28196	unitig_1506|quiver
+28183	unitig_3667|quiver
+28174	unitig_2259|quiver
+28163	unitig_3642|quiver
+28149	unitig_2246|quiver
+28025	unitig_1123|quiver
+28022	unitig_1450|quiver
+28014	unitig_3969|quiver
+28006	unitig_3940|quiver
+27990	unitig_3428|quiver
+27927	unitig_3530|quiver
+27923	unitig_1612|quiver
+27870	unitig_324|quiver
+27844	unitig_429|quiver
+27802	unitig_490|quiver
+27800	unitig_1862|quiver
+27796	unitig_1797|quiver
+27766	unitig_3661|quiver
+27719	unitig_157|quiver
+27667	unitig_1145|quiver
+27638	unitig_3616|quiver
+27614	unitig_3717|quiver
+27589	unitig_591|quiver
+27586	unitig_2409|quiver
+27584	unitig_1635|quiver
+27580	unitig_666|quiver
+27579	unitig_3870|quiver
+27561	unitig_998|quiver
+27555	unitig_1091|quiver
+27539	unitig_738|quiver
+27528	unitig_418|quiver
+27517	unitig_748|quiver
+27489	unitig_1988|quiver
+27478	unitig_820|quiver
+27433	unitig_1842|quiver
+27428	unitig_1072|quiver
+27396	unitig_343|quiver
+27395	unitig_3776|quiver
+27395	unitig_1090|quiver
+27362	unitig_315|quiver
+27349	unitig_3561|quiver
+27260	unitig_1583|quiver
+27252	unitig_1503|quiver
+27202	unitig_2149|quiver
+27199	unitig_1886|quiver
+27193	unitig_408|quiver
+27165	unitig_2064|quiver
+27131	unitig_2045|quiver
+27128	unitig_1979|quiver
+27074	unitig_123|quiver
+27069	unitig_1357|quiver
+27067	unitig_2071|quiver
+27021	unitig_2218|quiver
+26931	unitig_2108|quiver
+26914	unitig_1536|quiver
+26891	unitig_2263|quiver
+26859	unitig_3846|quiver
+26856	unitig_1174|quiver
+26836	unitig_447|quiver
+26811	unitig_882|quiver
+26727	unitig_1331|quiver
+26697	unitig_1928|quiver
+26652	unitig_493|quiver
+26643	unitig_1133|quiver
+26637	unitig_36|quiver
+26629	unitig_1328|quiver
+26610	unitig_3559|quiver
+26577	unitig_2195|quiver
+26536	unitig_3782|quiver
+26511	unitig_1301|quiver
+26503	unitig_2027|quiver
+26451	unitig_1788|quiver
+26412	unitig_1675|quiver
+26408	unitig_2128|quiver
+26397	unitig_341|quiver
+26391	unitig_3999|quiver
+26390	unitig_2049|quiver
+26382	unitig_440|quiver
+26369	unitig_40|quiver
+26323	unitig_3538|quiver
+26316	unitig_676|quiver
+26315	unitig_189|quiver
+26311	unitig_1307|quiver
+26294	unitig_2015|quiver
+26252	unitig_60|quiver
+26237	unitig_288|quiver
+26211	unitig_780|quiver
+26202	unitig_427|quiver
+26193	unitig_1447|quiver
+26190	unitig_202|quiver
+26184	unitig_3578|quiver
+26131	unitig_2173|quiver
+26087	unitig_452|quiver
+26029	unitig_758|quiver
+26000	unitig_3370|quiver
+25945	unitig_624|quiver
+25941	unitig_709|quiver
+25937	unitig_3772|quiver
+25915	unitig_1526|quiver
+25846	unitig_29|quiver
+25843	unitig_3622|quiver
+25831	unitig_1514|quiver
+25782	unitig_2299|quiver
+25775	unitig_900|quiver
+25751	unitig_1035|quiver
+25747	unitig_3684|quiver
+25733	unitig_1798|quiver
+25728	unitig_1691|quiver
+25719	unitig_3803|quiver
+25702	unitig_1852|quiver
+25672	unitig_1433|quiver
+25669	unitig_2121|quiver
+25656	unitig_2067|quiver
+25641	unitig_2496|quiver
+25615	unitig_3495|quiver
+25614	unitig_25|quiver
+25609	unitig_976|quiver
+25604	unitig_101|quiver
+25584	unitig_2119|quiver
+25581	unitig_2183|quiver
+25553	unitig_536|quiver
+25459	unitig_58|quiver
+25451	unitig_1232|quiver
+25427	unitig_857|quiver
+25408	unitig_1707|quiver
+25400	unitig_197|quiver
+25398	unitig_856|quiver
+25369	unitig_496|quiver
+25368	unitig_1453|quiver
+25363	unitig_3791|quiver
+25327	unitig_2356|quiver
+25315	unitig_286|quiver
+25308	unitig_635|quiver
+25297	unitig_1172|quiver
+25280	unitig_628|quiver
+25260	unitig_167|quiver
+25258	unitig_41|quiver
+25238	unitig_1101|quiver
+25228	unitig_816|quiver
+25227	unitig_2141|quiver
+25218	unitig_3558|quiver
+25176	unitig_1595|quiver
+25152	unitig_1469|quiver
+25135	unitig_1530|quiver
+25114	unitig_154|quiver
+25110	unitig_2184|quiver
+25094	unitig_17|quiver
+25092	unitig_1859|quiver
+25089	unitig_3815|quiver
+25085	unitig_3335|quiver
+25060	unitig_1764|quiver
+24985	unitig_963|quiver
+24985	unitig_4026|quiver
+24985	unitig_3702|quiver
+24982	unitig_1164|quiver
+24976	unitig_943|quiver
+24970	unitig_3695|quiver
+24969	unitig_611|quiver
+24965	unitig_181|quiver
+24928	unitig_1033|quiver
+24918	unitig_2268|quiver
+24878	unitig_1566|quiver
+24874	unitig_2029|quiver
+24873	unitig_3761|quiver
+24833	unitig_366|quiver
+24814	unitig_1775|quiver
+24805	unitig_2235|quiver
+24802	unitig_2115|quiver
+24717	unitig_484|quiver
+24704	unitig_3568|quiver
+24684	unitig_177|quiver
+24682	unitig_665|quiver
+24680	unitig_1154|quiver
+24675	unitig_1398|quiver
+24673	unitig_2188|quiver
+24667	unitig_3985|quiver
+24623	unitig_279|quiver
+24602	unitig_428|quiver
+24582	unitig_2024|quiver
+24575	unitig_2372|quiver
+24570	unitig_2238|quiver
+24569	unitig_133|quiver
+24568	unitig_198|quiver
+24562	unitig_255|quiver
+24512	unitig_1792|quiver
+24486	unitig_590|quiver
+24481	unitig_704|quiver
+24448	unitig_727|quiver
+24445	unitig_1620|quiver
+24444	unitig_539|quiver
+24444	unitig_2261|quiver
+24435	unitig_3775|quiver
+24411	unitig_1383|quiver
+24408	unitig_3884|quiver
+24331	unitig_625|quiver
+24330	unitig_798|quiver
+24323	unitig_3315|quiver
+24318	unitig_3424|quiver
+24310	unitig_2293|quiver
+24287	unitig_130|quiver
+24276	unitig_505|quiver
+24275	unitig_1261|quiver
+24274	unitig_954|quiver
+24244	unitig_2075|quiver
+24233	unitig_3590|quiver
+24205	unitig_2202|quiver
+24197	unitig_681|quiver
+24188	unitig_972|quiver
+24179	unitig_1106|quiver
+24177	unitig_993|quiver
+24149	unitig_67|quiver
+24141	unitig_1142|quiver
+24131	unitig_1193|quiver
+24125	unitig_561|quiver
+24125	unitig_1456|quiver
+24080	unitig_1205|quiver
+24073	unitig_3651|quiver
+24072	unitig_2262|quiver
+24027	unitig_3319|quiver
+24014	unitig_362|quiver
+24010	unitig_1856|quiver
+23993	unitig_2070|quiver
+23945	unitig_1158|quiver
+23937	unitig_2016|quiver
+23924	unitig_1080|quiver
+23893	unitig_3777|quiver
+23864	unitig_3655|quiver
+23853	unitig_740|quiver
+23845	unitig_54|quiver
+23834	unitig_3741|quiver
+23829	unitig_1722|quiver
+23825	unitig_3498|quiver
+23800	unitig_2550|quiver
+23765	unitig_2022|quiver
+23760	unitig_3450|quiver
+23743	unitig_2224|quiver
+23742	unitig_3550|quiver
+23711	unitig_3332|quiver
+23708	unitig_3926|quiver
+23705	unitig_3497|quiver
+23698	unitig_1849|quiver
+23660	unitig_3818|quiver
+23633	unitig_2279|quiver
+23628	unitig_2198|quiver
+23603	unitig_3533|quiver
+23596	unitig_3414|quiver
+23545	unitig_685|quiver
+23535	unitig_683|quiver
+23515	unitig_1711|quiver
+23513	unitig_1597|quiver
+23507	unitig_1666|quiver
+23461	unitig_2322|quiver
+23439	unitig_519|quiver
+23438	unitig_1247|quiver
+23432	unitig_1203|quiver
+23419	unitig_377|quiver
+23398	unitig_3346|quiver
+23382	unitig_55|quiver
+23370	unitig_747|quiver
+23356	unitig_3790|quiver
+23258	unitig_958|quiver
+23247	unitig_2097|quiver
+23243	unitig_3799|quiver
+23237	unitig_506|quiver
+23235	unitig_2542|quiver
+23233	unitig_2182|quiver
+23103	unitig_2368|quiver
+23098	unitig_2370|quiver
+23075	unitig_1615|quiver
+23075	unitig_145|quiver
+23069	unitig_2265|quiver
+23013	unitig_2042|quiver
+23008	unitig_235|quiver
+22985	unitig_261|quiver
+22961	unitig_2109|quiver
+22912	unitig_1186|quiver
+22888	unitig_527|quiver
+22886	unitig_1795|quiver
+22873	unitig_3508|quiver
+22872	unitig_1846|quiver
+22856	unitig_2185|quiver
+22852	unitig_1672|quiver
+22810	unitig_1898|quiver
+22787	unitig_232|quiver
+22759	unitig_3689|quiver
+22746	unitig_3592|quiver
+22746	unitig_1777|quiver
+22746	unitig_1431|quiver
+22745	unitig_2227|quiver
+22729	unitig_1068|quiver
+22711	unitig_3524|quiver
+22695	unitig_1028|quiver
+22649	unitig_941|quiver
+22643	unitig_274|quiver
+22639	unitig_450|quiver
+22636	unitig_3648|quiver
+22630	unitig_1932|quiver
+22595	unitig_3997|quiver
+22574	unitig_891|quiver
+22543	unitig_1124|quiver
+22532	unitig_2391|quiver
+22489	unitig_1108|quiver
+22458	unitig_1336|quiver
+22419	unitig_3542|quiver
+22388	unitig_185|quiver
+22371	unitig_2462|quiver
+22360	unitig_3755|quiver
+22334	unitig_1022|quiver
+22333	unitig_980|quiver
+22317	unitig_2382|quiver
+22293	unitig_767|quiver
+22263	unitig_2350|quiver
+22249	unitig_2112|quiver
+22205	unitig_2051|quiver
+22204	unitig_1770|quiver
+22185	unitig_1217|quiver
+22183	unitig_874|quiver
+22176	unitig_3338|quiver
+22174	unitig_3675|quiver
+22165	unitig_2271|quiver
+22159	unitig_1236|quiver
+22147	unitig_2489|quiver
+22146	unitig_3822|quiver
+22130	unitig_3313|quiver
+22122	unitig_56|quiver
+22071	unitig_0|quiver
+22070	unitig_1976|quiver
+22067	unitig_716|quiver
+22037	unitig_219|quiver
+22029	unitig_1737|quiver
+22020	unitig_1096|quiver
+22015	unitig_3635|quiver
+22003	unitig_118|quiver
+21984	unitig_1460|quiver
+21977	unitig_3808|quiver
+21967	unitig_693|quiver
+21950	unitig_34|quiver
+21922	unitig_50|quiver
+21919	unitig_1434|quiver
+21913	unitig_982|quiver
+21905	unitig_3929|quiver
+21896	unitig_3381|quiver
+21876	unitig_1642|quiver
+21828	unitig_1869|quiver
+21820	unitig_86|quiver
+21803	unitig_768|quiver
+21790	unitig_355|quiver
+21761	unitig_1329|quiver
+21716	unitig_749|quiver
+21704	unitig_2400|quiver
+21652	unitig_2180|quiver
+21648	unitig_3996|quiver
+21647	unitig_1294|quiver
+21622	unitig_3812|quiver
+21621	unitig_620|quiver
+21619	unitig_1198|quiver
+21601	unitig_2407|quiver
+21599	unitig_567|quiver
+21598	unitig_1808|quiver
+21580	unitig_11|quiver
+21566	unitig_1146|quiver
+21557	unitig_902|quiver
+21538	unitig_2021|quiver
+21532	unitig_3309|quiver
+21530	unitig_211|quiver
+21484	unitig_1237|quiver
+21455	unitig_811|quiver
+21436	unitig_2101|quiver
+21415	unitig_893|quiver
+21389	unitig_364|quiver
+21366	unitig_2089|quiver
+21362	unitig_1016|quiver
+21350	unitig_1094|quiver
+21324	unitig_851|quiver
+21301	unitig_1843|quiver
+21299	unitig_658|quiver
+21288	unitig_3939|quiver
+21267	unitig_3506|quiver
+21254	unitig_3300|quiver
+21234	unitig_3680|quiver
+21229	unitig_528|quiver
+21216	unitig_2274|quiver
+21200	unitig_194|quiver
+21198	unitig_532|quiver
+21161	unitig_1589|quiver
+21157	unitig_393|quiver
+21155	unitig_3308|quiver
+21139	unitig_1354|quiver
+21112	unitig_3663|quiver
+21101	unitig_481|quiver
+21093	unitig_1446|quiver
+21089	unitig_3311|quiver
+21089	unitig_2452|quiver
+21084	unitig_1226|quiver
+21078	unitig_517|quiver
+21074	unitig_2223|quiver
+21063	unitig_3|quiver
+21052	unitig_763|quiver
+21032	unitig_656|quiver
+21015	unitig_3329|quiver
+20991	unitig_435|quiver
+20966	unitig_3659|quiver
+20955	unitig_823|quiver
+20925	unitig_978|quiver
+20895	unitig_237|quiver
+20854	unitig_3470|quiver
+20846	unitig_1800|quiver
+20837	unitig_3502|quiver
+20829	unitig_2013|quiver
+20829	unitig_1102|quiver
+20811	unitig_1297|quiver
+20794	unitig_1680|quiver
+20790	unitig_824|quiver
+20783	unitig_1396|quiver
+20773	unitig_912|quiver
+20760	unitig_171|quiver
+20751	unitig_3457|quiver
+20749	unitig_3371|quiver
+20729	unitig_2214|quiver
+20723	unitig_2381|quiver
+20719	unitig_254|quiver
+20702	unitig_2294|quiver
+20694	unitig_1162|quiver
+20693	unitig_1463|quiver
+20692	unitig_1051|quiver
+20689	unitig_1305|quiver
+20649	unitig_1057|quiver
+20638	unitig_1067|quiver
+20636	unitig_463|quiver
+20629	unitig_1653|quiver
+20609	unitig_3515|quiver
+20607	unitig_3851|quiver
+20607	unitig_2402|quiver
+20564	unitig_1107|quiver
+20548	unitig_3581|quiver
+20531	unitig_1350|quiver
+20524	unitig_1716|quiver
+20519	unitig_1906|quiver
+20517	unitig_1818|quiver
+20509	unitig_14|quiver
+20501	unitig_1315|quiver
+20499	unitig_2451|quiver
+20484	unitig_2125|quiver
+20483	unitig_2396|quiver
+20470	unitig_1676|quiver
+20468	unitig_79|quiver
+20464	unitig_1470|quiver
+20463	unitig_399|quiver
+20453	unitig_193|quiver
+20434	unitig_2292|quiver
+20433	unitig_1327|quiver
+20433	unitig_1152|quiver
+20419	unitig_1545|quiver
+20417	unitig_1419|quiver
+20415	unitig_629|quiver
+20415	unitig_3916|quiver
+20415	unitig_1841|quiver
+20346	unitig_1299|quiver
+20342	unitig_3510|quiver
+20321	unitig_1782|quiver
+20308	unitig_4008|quiver
+20306	unitig_257|quiver
+20294	unitig_2081|quiver
+20294	unitig_1915|quiver
+20281	unitig_2405|quiver
+20272	unitig_1719|quiver
+20266	unitig_1095|quiver
+20262	unitig_2210|quiver
+20237	unitig_550|quiver
+20225	unitig_808|quiver
+20189	unitig_859|quiver
+20187	unitig_917|quiver
+20186	unitig_2454|quiver
+20160	unitig_1194|quiver
+20140	unitig_2302|quiver
+20125	unitig_6|quiver
+20106	unitig_482|quiver
+20103	unitig_1352|quiver
+20042	unitig_623|quiver
+20042	unitig_1461|quiver
+20017	unitig_3526|quiver
+20005	unitig_3754|quiver
+19992	unitig_3767|quiver
+19989	unitig_1486|quiver
+19987	unitig_1320|quiver
+19930	unitig_1990|quiver
+19923	unitig_125|quiver
+19903	unitig_449|quiver
+19902	unitig_3728|quiver
+19886	unitig_2357|quiver
+19881	unitig_1926|quiver
+19848	unitig_863|quiver
+19843	unitig_610|quiver
+19834	unitig_1664|quiver
+19818	unitig_664|quiver
+19767	unitig_3440|quiver
+19766	unitig_3574|quiver
+19755	unitig_354|quiver
+19749	unitig_744|quiver
+19739	unitig_209|quiver
+19736	unitig_641|quiver
+19718	unitig_3950|quiver
+19717	unitig_454|quiver
+19687	unitig_1375|quiver
+19649	unitig_968|quiver
+19640	unitig_3560|quiver
+19619	unitig_2176|quiver
+19607	unitig_781|quiver
+19606	unitig_1971|quiver
+19591	unitig_1314|quiver
+19561	unitig_2639|quiver
+19554	unitig_516|quiver
+19553	unitig_574|quiver
+19533	unitig_1001|quiver
+19519	unitig_2300|quiver
+19518	unitig_3958|quiver
+19498	unitig_1637|quiver
+19493	unitig_1125|quiver
+19489	unitig_1121|quiver
+19468	unitig_1457|quiver
+19448	unitig_3726|quiver
+19437	unitig_2038|quiver
+19430	unitig_1048|quiver
+19425	unitig_1225|quiver
+19419	unitig_498|quiver
+19400	unitig_773|quiver
+19390	unitig_1781|quiver
+19371	unitig_2080|quiver
+19354	unitig_2237|quiver
+19351	unitig_1523|quiver
+19348	unitig_812|quiver
+19321	unitig_434|quiver
+19314	unitig_2654|quiver
+19312	unitig_1964|quiver
+19305	unitig_3460|quiver
+19300	unitig_1472|quiver
+19287	unitig_2054|quiver
+19287	unitig_122|quiver
+19285	unitig_1100|quiver
+19270	unitig_1554|quiver
+19266	unitig_1073|quiver
+19264	unitig_3664|quiver
+19247	unitig_806|quiver
+19238	unitig_2267|quiver
+19229	unitig_48|quiver
+19224	unitig_1550|quiver
+19213	unitig_2482|quiver
+19209	unitig_28|quiver
+19203	unitig_2091|quiver
+19191	unitig_2094|quiver
+19165	unitig_3652|quiver
+19161	unitig_152|quiver
+19156	unitig_2034|quiver
+19152	unitig_1634|quiver
+19139	unitig_1618|quiver
+19137	unitig_1875|quiver
+19132	unitig_2362|quiver
+19127	unitig_168|quiver
+19112	unitig_1489|quiver
+19107	unitig_1148|quiver
+19085	unitig_1085|quiver
+19063	unitig_3599|quiver
+19061	unitig_3613|quiver
+19058	unitig_508|quiver
+19044	unitig_119|quiver
+19039	unitig_89|quiver
+19012	unitig_1388|quiver
+19008	unitig_2399|quiver
+18996	unitig_1219|quiver
+18993	unitig_361|quiver
+18992	unitig_1941|quiver
+18979	unitig_12|quiver
+18976	unitig_1714|quiver
+18976	unitig_1644|quiver
+18968	unitig_3499|quiver
+18942	unitig_3856|quiver
+18940	unitig_227|quiver
+18924	unitig_1474|quiver
+18913	unitig_1215|quiver
+18901	unitig_2110|quiver
+18895	unitig_4055|quiver
+18893	unitig_1289|quiver
+18892	unitig_2072|quiver
+18874	unitig_395|quiver
+18870	unitig_1973|quiver
+18862	unitig_1972|quiver
+18832	unitig_601|quiver
+18827	unitig_3682|quiver
+18819	unitig_1204|quiver
+18814	unitig_3547|quiver
+18798	unitig_2222|quiver
+18786	unitig_1244|quiver
+18770	unitig_872|quiver
+18766	unitig_3435|quiver
+18754	unitig_913|quiver
+18740	unitig_1778|quiver
+18737	unitig_3557|quiver
+18731	unitig_218|quiver
+18730	unitig_586|quiver
+18726	unitig_135|quiver
+18700	unitig_485|quiver
+18699	unitig_453|quiver
+18687	unitig_3378|quiver
+18685	unitig_3421|quiver
+18667	unitig_1677|quiver
+18654	unitig_503|quiver
+18654	unitig_1974|quiver
+18647	unitig_2599|quiver
+18645	unitig_3612|quiver
+18638	unitig_2783|quiver
+18597	unitig_1430|quiver
+18560	unitig_3826|quiver
+18548	unitig_1871|quiver
+18536	unitig_877|quiver
+18530	unitig_3423|quiver
+18516	unitig_648|quiver
+18515	unitig_3678|quiver
+18511	unitig_172|quiver
+18483	unitig_3909|quiver
+18446	unitig_924|quiver
+18426	unitig_2485|quiver
+18425	unitig_599|quiver
+18416	unitig_69|quiver
+18392	unitig_2483|quiver
+18385	unitig_979|quiver
+18376	unitig_3758|quiver
+18364	unitig_3647|quiver
+18362	unitig_700|quiver
+18343	unitig_1313|quiver
+18336	unitig_425|quiver
+18328	unitig_3364|quiver
+18323	unitig_2479|quiver
+18301	unitig_2817|quiver
+18289	unitig_163|quiver
+18277	unitig_3388|quiver
+18258	unitig_1502|quiver
+18241	unitig_1002|quiver
+18217	unitig_26|quiver
+18200	unitig_774|quiver
+18187	unitig_1954|quiver
+18155	unitig_2014|quiver
+18119	unitig_511|quiver
+18113	unitig_1347|quiver
+18098	unitig_417|quiver
+18094	unitig_581|quiver
+18032	unitig_2491|quiver
+18016	unitig_2069|quiver
+18008	unitig_2552|quiver
+18001	unitig_240|quiver
+17999	unitig_760|quiver
+17994	unitig_65|quiver
+17979	unitig_2583|quiver
+17977	unitig_3377|quiver
+17962	unitig_1728|quiver
+17934	unitig_2191|quiver
+17926	unitig_2269|quiver
+17925	unitig_1334|quiver
+17919	unitig_3461|quiver
+17896	unitig_1137|quiver
+17888	unitig_694|quiver
+17878	unitig_2304|quiver
+17869	unitig_2056|quiver
+17842	unitig_2096|quiver
+17823	unitig_2283|quiver
+17816	unitig_2207|quiver
+17809	unitig_1477|quiver
+17796	unitig_2441|quiver
+17786	unitig_326|quiver
+17772	unitig_981|quiver
+17743	unitig_578|quiver
+17730	unitig_275|quiver
+17728	unitig_3469|quiver
+17723	unitig_1355|quiver
+17716	unitig_1249|quiver
+17702	unitig_613|quiver
+17693	unitig_468|quiver
+17690	unitig_512|quiver
+17685	unitig_1053|quiver
+17675	unitig_2339|quiver
+17660	unitig_1467|quiver
+17631	unitig_116|quiver
+17615	unitig_3644|quiver
+17583	unitig_298|quiver
+17583	unitig_2258|quiver
+17556	unitig_1571|quiver
+17553	unitig_2458|quiver
+17546	unitig_303|quiver
+17540	unitig_2098|quiver
+17532	unitig_775|quiver
+17532	unitig_4087|quiver
+17529	unitig_1892|quiver
+17520	unitig_1668|quiver
+17518	unitig_2154|quiver
+17517	unitig_2193|quiver
+17516	unitig_1406|quiver
+17515	unitig_2348|quiver
+17510	unitig_3430|quiver
+17503	unitig_1899|quiver
+17500	unitig_1074|quiver
+17479	unitig_1621|quiver
+17470	unitig_1903|quiver
+17458	unitig_1018|quiver
+17456	unitig_1256|quiver
+17449	unitig_1614|quiver
+17410	unitig_3511|quiver
+17405	unitig_4|quiver
+17401	unitig_2040|quiver
+17394	unitig_3514|quiver
+17391	unitig_2111|quiver
+17383	unitig_1418|quiver
+17380	unitig_2488|quiver
+17365	unitig_1733|quiver
+17359	unitig_885|quiver
+17357	unitig_668|quiver
+17354	unitig_809|quiver
+17349	unitig_3384|quiver
+17348	unitig_3866|quiver
+17347	unitig_3565|quiver
+17346	unitig_959|quiver
+17330	unitig_1855|quiver
+17328	unitig_2233|quiver
+17300	unitig_944|quiver
+17291	unitig_1490|quiver
+17290	unitig_3441|quiver
+17288	unitig_1119|quiver
+17278	unitig_20|quiver
+17274	unitig_1868|quiver
+17269	unitig_733|quiver
+17264	unitig_2280|quiver
+17262	unitig_1543|quiver
+17261	unitig_657|quiver
+17259	unitig_938|quiver
+17249	unitig_3549|quiver
+17241	unitig_3139|quiver
+17237	unitig_2436|quiver
+17233	unitig_731|quiver
+17232	unitig_796|quiver
+17220	unitig_2276|quiver
+17219	unitig_1423|quiver
+17208	unitig_1529|quiver
+17205	unitig_2371|quiver
+17185	unitig_2200|quiver
+17164	unitig_871|quiver
+17157	unitig_2204|quiver
+17149	unitig_627|quiver
+17146	unitig_1371|quiver
+17120	unitig_565|quiver
+17119	unitig_2358|quiver
+17115	unitig_2061|quiver
+17099	unitig_1397|quiver
+17092	unitig_299|quiver
+17090	unitig_3525|quiver
+17087	unitig_1959|quiver
+17084	unitig_7|quiver
+17062	unitig_2048|quiver
+17055	unitig_1206|quiver
+17031	unitig_2278|quiver
+17008	unitig_2099|quiver
+16987	unitig_1115|quiver
+16974	unitig_573|quiver
+16974	unitig_522|quiver
+16971	unitig_3872|quiver
+16971	unitig_3320|quiver
+16951	unitig_3732|quiver
+16945	unitig_990|quiver
+16942	unitig_1830|quiver
+16938	unitig_799|quiver
+16930	unitig_1626|quiver
+16925	unitig_1273|quiver
+16920	unitig_3316|quiver
+16913	unitig_1993|quiver
+16902	unitig_3690|quiver
+16889	unitig_1285|quiver
+16888	unitig_291|quiver
+16881	unitig_1533|quiver
+16851	unitig_2971|quiver
+16849	unitig_1580|quiver
+16823	unitig_2063|quiver
+16821	unitig_1478|quiver
+16820	unitig_2698|quiver
+16819	unitig_2255|quiver
+16814	unitig_2448|quiver
+16813	unitig_3716|quiver
+16809	unitig_1380|quiver
+16800	unitig_3446|quiver
+16797	unitig_710|quiver
+16794	unitig_1844|quiver
+16793	unitig_1857|quiver
+16779	unitig_1078|quiver
+16776	unitig_3832|quiver
+16766	unitig_2478|quiver
+16754	unitig_4000|quiver
+16753	unitig_777|quiver
+16752	unitig_2390|quiver
+16752	unitig_1609|quiver
+16739	unitig_3658|quiver
+16733	unitig_398|quiver
+16728	unitig_3366|quiver
+16702	unitig_596|quiver
+16689	unitig_3811|quiver
+16681	unitig_422|quiver
+16678	unitig_821|quiver
+16672	unitig_1356|quiver
+16672	unitig_1109|quiver
+16669	unitig_800|quiver
+16667	unitig_2172|quiver
+16645	unitig_3967|quiver
+16637	unitig_1539|quiver
+16621	unitig_30|quiver
+16606	unitig_2503|quiver
+16601	unitig_1874|quiver
+16585	unitig_3892|quiver
+16584	unitig_1540|quiver
+16557	unitig_3573|quiver
+16545	unitig_3480|quiver
+16501	unitig_2477|quiver
+16489	unitig_761|quiver
+16488	unitig_2177|quiver
+16487	unitig_2026|quiver
+16481	unitig_1238|quiver
+16474	unitig_922|quiver
+16465	unitig_217|quiver
+16435	unitig_3747|quiver
+16429	unitig_2050|quiver
+16418	unitig_3357|quiver
+16413	unitig_1897|quiver
+16396	unitig_1403|quiver
+16387	unitig_2393|quiver
+16383	unitig_2352|quiver
+16373	unitig_1292|quiver
+16372	unitig_3393|quiver
+16340	unitig_783|quiver
+16319	unitig_1937|quiver
+16313	unitig_965|quiver
+16299	unitig_5|quiver
+16246	unitig_540|quiver
+16243	unitig_3962|quiver
+16229	unitig_31|quiver
+16225	unitig_2423|quiver
+16224	unitig_2333|quiver
+16217	unitig_3784|quiver
+16216	unitig_2035|quiver
+16207	unitig_992|quiver
+16195	unitig_2291|quiver
+16191	unitig_1996|quiver
+16190	unitig_3548|quiver
+16181	unitig_1784|quiver
+16173	unitig_2522|quiver
+16171	unitig_1484|quiver
+16162	unitig_2239|quiver
+16148	unitig_2273|quiver
+16137	unitig_3862|quiver
+16134	unitig_1111|quiver
+16117	unitig_1602|quiver
+16096	unitig_265|quiver
+16093	unitig_2535|quiver
+16074	unitig_660|quiver
+16065	unitig_2345|quiver
+16062	unitig_1763|quiver
+15980	unitig_1167|quiver
+15978	unitig_107|quiver
+15977	unitig_670|quiver
+15974	unitig_1729|quiver
+15973	unitig_2369|quiver
+15957	unitig_2256|quiver
+15957	unitig_1401|quiver
+15955	unitig_868|quiver
+15954	unitig_3601|quiver
+15949	unitig_259|quiver
+15944	unitig_1799|quiver
+15923	unitig_962|quiver
+15911	unitig_873|quiver
+15904	unitig_3719|quiver
+15901	unitig_713|quiver
+15899	unitig_78|quiver
+15896	unitig_2383|quiver
+15884	unitig_2003|quiver
+15882	unitig_1344|quiver
+15873	unitig_3380|quiver
+15872	unitig_2351|quiver
+15866	unitig_72|quiver
+15859	unitig_1992|quiver
+15845	unitig_462|quiver
+15843	unitig_3886|quiver
+15843	unitig_1113|quiver
+15838	unitig_2699|quiver
+15832	unitig_1709|quiver
+15831	unitig_1400|quiver
+15830	unitig_2576|quiver
+15830	unitig_1295|quiver
+15820	unitig_80|quiver
+15816	unitig_1876|quiver
+15815	unitig_2539|quiver
+15811	unitig_2166|quiver
+15801	unitig_538|quiver
+15793	unitig_3910|quiver
+15790	unitig_667|quiver
+15784	unitig_2359|quiver
+15774	unitig_10|quiver
+15758	unitig_32|quiver
+15751	unitig_3602|quiver
+15731	unitig_2553|quiver
+15728	unitig_402|quiver
+15725	unitig_1424|quiver
+15704	unitig_1559|quiver
+15689	unitig_2610|quiver
+15687	unitig_2453|quiver
+15685	unitig_18|quiver
+15683	unitig_1165|quiver
+15674	unitig_543|quiver
+15660	unitig_1291|quiver
+15655	unitig_1501|quiver
+15653	unitig_2194|quiver
+15647	unitig_3794|quiver
+15643	unitig_1348|quiver
+15637	unitig_682|quiver
+15628	unitig_3859|quiver
+15617	unitig_973|quiver
+15616	unitig_2288|quiver
+15609	unitig_2493|quiver
+15598	unitig_155|quiver
+15568	unitig_2138|quiver
+15556	unitig_1448|quiver
+15529	unitig_448|quiver
+15510	unitig_2310|quiver
+15506	unitig_3544|quiver
+15500	unitig_2187|quiver
+15495	unitig_2364|quiver
+15476	unitig_251|quiver
+15472	unitig_3627|quiver
+15469	unitig_1277|quiver
+15457	unitig_3386|quiver
+15456	unitig_1766|quiver
+15455	unitig_469|quiver
+15449	unitig_3823|quiver
+15445	unitig_3507|quiver
+15445	unitig_282|quiver
+15438	unitig_1197|quiver
+15418	unitig_2554|quiver
+15406	unitig_725|quiver
+15394	unitig_2114|quiver
+15393	unitig_3471|quiver
+15390	unitig_1105|quiver
+15364	unitig_2213|quiver
+15362	unitig_2277|quiver
+15352	unitig_971|quiver
+15350	unitig_1823|quiver
+15348	unitig_3479|quiver
+15343	unitig_507|quiver
+15340	unitig_2103|quiver
+15339	unitig_4095|quiver
+15335	unitig_3834|quiver
+15335	unitig_3464|quiver
+15310	unitig_502|quiver
+15299	unitig_2286|quiver
+15293	unitig_360|quiver
+15285	unitig_1721|quiver
+15276	unitig_1720|quiver
+15267	unitig_974|quiver
+15258	unitig_1042|quiver
+15255	unitig_3536|quiver
+15254	unitig_1437|quiver
+15253	unitig_2411|quiver
+15245	unitig_636|quiver
+15244	unitig_569|quiver
+15219	unitig_2052|quiver
+15216	unitig_2461|quiver
+15206	unitig_2820|quiver
+15205	unitig_1667|quiver
+15190	unitig_2254|quiver
+15189	unitig_861|quiver
+15181	unitig_93|quiver
+15166	unitig_2162|quiver
+15159	unitig_674|quiver
+15131	unitig_1767|quiver
+15123	unitig_98|quiver
+15091	unitig_865|quiver
+15088	unitig_1224|quiver
+15078	unitig_2543|quiver
+15074	unitig_3914|quiver
+15072	unitig_423|quiver
+15071	unitig_2568|quiver
+15052	unitig_3714|quiver
+15040	unitig_1910|quiver
+15030	unitig_1298|quiver
+15012	unitig_3575|quiver
+15005	unitig_1655|quiver
+15002	unitig_501|quiver
+14968	unitig_1441|quiver
+14951	unitig_2002|quiver
+14924	unitig_2059|quiver
+14899	unitig_1760|quiver
+14892	unitig_2282|quiver
+14880	unitig_1576|quiver
+14870	unitig_3503|quiver
+14867	unitig_22|quiver
+14867	unitig_1650|quiver
+14861	unitig_600|quiver
+14844	unitig_1377|quiver
+14843	unitig_401|quiver
+14843	unitig_1994|quiver
+14831	unitig_662|quiver
+14817	unitig_3966|quiver
+14815	unitig_3433|quiver
+14805	unitig_1316|quiver
+14788	unitig_3793|quiver
+14788	unitig_2123|quiver
+14777	unitig_2675|quiver
+14772	unitig_42|quiver
+14768	unitig_3768|quiver
+14765	unitig_308|quiver
+14765	unitig_1805|quiver
+14751	unitig_1889|quiver
+14744	unitig_2532|quiver
+14742	unitig_1752|quiver
+14737	unitig_1512|quiver
+14732	unitig_621|quiver
+14728	unitig_1173|quiver
+14725	unitig_1007|quiver
+14723	unitig_3830|quiver
+14715	unitig_400|quiver
+14710	unitig_2457|quiver
+14704	unitig_703|quiver
+14697	unitig_977|quiver
+14697	unitig_2433|quiver
+14694	unitig_996|quiver
+14693	unitig_721|quiver
+14684	unitig_1866|quiver
+14684	unitig_1322|quiver
+14683	unitig_3797|quiver
+14679	unitig_1495|quiver
+14676	unitig_3769|quiver
+14672	unitig_822|quiver
+14667	unitig_895|quiver
+14652	unitig_3434|quiver
+14650	unitig_3608|quiver
+14643	unitig_53|quiver
+14642	unitig_2765|quiver
+14639	unitig_1339|quiver
+14638	unitig_2243|quiver
+14633	unitig_3394|quiver
+14622	unitig_1639|quiver
+14606	unitig_222|quiver
+14600	unitig_2318|quiver
+14598	unitig_1216|quiver
+14592	unitig_2389|quiver
+14590	unitig_3337|quiver
+14584	unitig_1927|quiver
+14578	unitig_2215|quiver
+14566	unitig_894|quiver
+14535	unitig_1358|quiver
+14527	unitig_3795|quiver
+14522	unitig_1557|quiver
+14508	unitig_1953|quiver
+14499	unitig_2186|quiver
+14497	unitig_3484|quiver
+14478	unitig_3572|quiver
+14467	unitig_33|quiver
+14467	unitig_183|quiver
+14465	unitig_673|quiver
+14464	unitig_52|quiver
+14408	unitig_2515|quiver
+14405	unitig_2132|quiver
+14402	unitig_3596|quiver
+14399	unitig_2380|quiver
+14382	unitig_2375|quiver
+14378	unitig_375|quiver
+14376	unitig_547|quiver
+14372	unitig_2087|quiver
+14368	unitig_1417|quiver
+14365	unitig_791|quiver
+14361	unitig_779|quiver
+14355	unitig_1039|quiver
+14344	unitig_2644|quiver
+14335	unitig_2175|quiver
+14330	unitig_1436|quiver
+14314	unitig_558|quiver
+14306	unitig_416|quiver
+14300	unitig_2130|quiver
+14298	unitig_870|quiver
+14293	unitig_3597|quiver
+14267	unitig_2536|quiver
+14261	unitig_1997|quiver
+14252	unitig_994|quiver
+14252	unitig_755|quiver
+14247	unitig_1790|quiver
+14219	unitig_3325|quiver
+14219	unitig_2398|quiver
+14212	unitig_1409|quiver
+14210	unitig_1408|quiver
+14199	unitig_426|quiver
+14199	unitig_3847|quiver
+14190	unitig_1649|quiver
+14188	unitig_1850|quiver
+14182	unitig_295|quiver
+14182	unitig_2225|quiver
+14152	unitig_3691|quiver
+14149	unitig_1845|quiver
+14145	unitig_391|quiver
+14143	unitig_986|quiver
+14136	unitig_680|quiver
+14111	unitig_692|quiver
+14106	unitig_4041|quiver
+14103	unitig_604|quiver
+14087	unitig_4009|quiver
+14085	unitig_1985|quiver
+14083	unitig_379|quiver
+14049	unitig_3516|quiver
+14022	unitig_1011|quiver
+14019	unitig_83|quiver
+14019	unitig_1284|quiver
+14011	unitig_3905|quiver
+14008	unitig_1378|quiver
+13996	unitig_602|quiver
+13992	unitig_618|quiver
+13980	unitig_2455|quiver
+13975	unitig_2206|quiver
+13971	unitig_1160|quiver
+13960	unitig_1924|quiver
+13956	unitig_3473|quiver
+13955	unitig_2032|quiver
+13950	unitig_2208|quiver
+13949	unitig_1202|quiver
+13945	unitig_2249|quiver
+13944	unitig_1208|quiver
+13938	unitig_94|quiver
+13928	unitig_3629|quiver
+13923	unitig_2700|quiver
+13921	unitig_952|quiver
+13913	unitig_3972|quiver
+13912	unitig_794|quiver
+13906	unitig_509|quiver
+13881	unitig_2133|quiver
+13875	unitig_510|quiver
+13863	unitig_1332|quiver
+13857	unitig_226|quiver
+13856	unitig_918|quiver
+13856	unitig_1870|quiver
+13849	unitig_3509|quiver
+13848	unitig_1159|quiver
+13841	unitig_1806|quiver
+13839	unitig_1551|quiver
+13834	unitig_1459|quiver
+13827	unitig_2446|quiver
+13822	unitig_9|quiver
+13820	unitig_1245|quiver
+13819	unitig_1968|quiver
+13789	unitig_696|quiver
+13775	unitig_2181|quiver
+13733	unitig_139|quiver
+13731	unitig_2264|quiver
+13724	unitig_385|quiver
+13712	unitig_1829|quiver
+13707	unitig_3778|quiver
+13678	unitig_158|quiver
+13660	unitig_2046|quiver
+13656	unitig_2758|quiver
+13655	unitig_2521|quiver
+13650	unitig_1929|quiver
+13647	unitig_494|quiver
+13637	unitig_734|quiver
+13625	unitig_1179|quiver
+13614	unitig_638|quiver
+13599	unitig_2538|quiver
+13598	unitig_3488|quiver
+13589	unitig_2379|quiver
+13589	unitig_1520|quiver
+13584	unitig_2592|quiver
+13577	unitig_1055|quiver
+13568	unitig_3376|quiver
+13560	unitig_1999|quiver
+13559	unitig_113|quiver
+13551	unitig_2494|quiver
+13531	unitig_2331|quiver
+13511	unitig_2431|quiver
+13499	unitig_1537|quiver
+13488	unitig_1689|quiver
+13486	unitig_1468|quiver
+13473	unitig_1034|quiver
+13469	unitig_441|quiver
+13468	unitig_348|quiver
+13463	unitig_2353|quiver
+13461	unitig_3522|quiver
+13461	unitig_2435|quiver
+13457	unitig_3763|quiver
+13455	unitig_336|quiver
+13444	unitig_542|quiver
+13443	unitig_1624|quiver
+13433	unitig_1647|quiver
+13432	unitig_3711|quiver
+13416	unitig_2028|quiver
+13411	unitig_1157|quiver
+13384	unitig_2541|quiver
+13374	unitig_1161|quiver
+13372	unitig_603|quiver
+13365	unitig_312|quiver
+13361	unitig_2305|quiver
+13361	unitig_105|quiver
+13360	unitig_1851|quiver
+13359	unitig_2432|quiver
+13354	unitig_2|quiver
+13351	unitig_1586|quiver
+13343	unitig_3693|quiver
+13335	unitig_146|quiver
+13316	unitig_2549|quiver
+13312	unitig_1257|quiver
+13311	unitig_718|quiver
+13310	unitig_1546|quiver
+13295	unitig_3447|quiver
+13288	unitig_3679|quiver
+13279	unitig_1608|quiver
+13271	unitig_24|quiver
+13263	unitig_359|quiver
+13261	unitig_1998|quiver
+13234	unitig_905|quiver
+13231	unitig_1050|quiver
+13230	unitig_4080|quiver
+13229	unitig_1280|quiver
+13228	unitig_1740|quiver
+13226	unitig_849|quiver
+13223	unitig_2343|quiver
+13222	unitig_3640|quiver
+13221	unitig_2707|quiver
+13221	unitig_1343|quiver
+13211	unitig_214|quiver
+13205	unitig_1674|quiver
+13203	unitig_1802|quiver
+13197	unitig_2602|quiver
+13194	unitig_832|quiver
+13193	unitig_2088|quiver
+13191	unitig_4001|quiver
+13183	unitig_1049|quiver
+13181	unitig_2589|quiver
+13175	unitig_147|quiver
+13171	unitig_2307|quiver
+13154	unitig_1828|quiver
+13149	unitig_1195|quiver
+13120	unitig_1811|quiver
+13118	unitig_2403|quiver
+13116	unitig_2248|quiver
+13103	unitig_1480|quiver
+13095	unitig_3992|quiver
+13093	unitig_1476|quiver
+13089	unitig_2690|quiver
+13068	unitig_3566|quiver
+13064	unitig_3605|quiver
+13059	unitig_1114|quiver
+13056	unitig_866|quiver
+13025	unitig_3468|quiver
+13023	unitig_1957|quiver
+13010	unitig_3974|quiver
+12998	unitig_2492|quiver
+12997	unitig_1900|quiver
+12995	unitig_1010|quiver
+12991	unitig_365|quiver
+12989	unitig_43|quiver
+12988	unitig_2134|quiver
+12986	unitig_1751|quiver
+12985	unitig_3254|quiver
+12985	unitig_1946|quiver
+12970	unitig_2093|quiver
+12951	unitig_881|quiver
+12941	unitig_1065|quiver
+12938	unitig_3577|quiver
+12924	unitig_757|quiver
+12921	unitig_1363|quiver
+12905	unitig_3921|quiver
+12901	unitig_729|quiver
+12894	unitig_3409|quiver
+12893	unitig_2161|quiver
+12891	unitig_1175|quiver
+12886	unitig_1759|quiver
+12884	unitig_1661|quiver
+12874	unitig_834|quiver
+12867	unitig_948|quiver
+12856	unitig_606|quiver
+12852	unitig_598|quiver
+12843	unitig_3645|quiver
+12833	unitig_2221|quiver
+12813	unitig_2018|quiver
+12804	unitig_2332|quiver
+12803	unitig_1032|quiver
+12798	unitig_518|quiver
+12797	unitig_1736|quiver
+12788	unitig_88|quiver
+12785	unitig_121|quiver
+12775	unitig_2756|quiver
+12767	unitig_1335|quiver
+12749	unitig_726|quiver
+12742	unitig_792|quiver
+12742	unitig_1783|quiver
+12740	unitig_1591|quiver
+12731	unitig_1544|quiver
+12724	unitig_3310|quiver
+12719	unitig_1810|quiver
+12711	unitig_3539|quiver
+12699	unitig_1127|quiver
+12698	unitig_3304|quiver
+12697	unitig_1746|quiver
+12659	unitig_1103|quiver
+12655	unitig_942|quiver
+12648	unitig_1904|quiver
+12647	unitig_3425|quiver
+12642	unitig_195|quiver
+12632	unitig_1231|quiver
+12629	unitig_3564|quiver
+12621	unitig_3478|quiver
+12611	unitig_323|quiver
+12599	unitig_717|quiver
+12598	unitig_2308|quiver
+12597	unitig_2474|quiver
+12595	unitig_2487|quiver
+12585	unitig_322|quiver
+12577	unitig_2661|quiver
+12576	unitig_2347|quiver
+12565	unitig_2055|quiver
+12542	unitig_243|quiver
+12537	unitig_1700|quiver
+12521	unitig_2360|quiver
+12512	unitig_2484|quiver
+12504	unitig_1379|quiver
+12496	unitig_933|quiver
+12482	unitig_3358|quiver
+12482	unitig_1421|quiver
+12480	unitig_909|quiver
+12472	unitig_3760|quiver
+12471	unitig_1984|quiver
+12465	unitig_2687|quiver
+12465	unitig_2366|quiver
+12463	unitig_2534|quiver
+12461	unitig_2472|quiver
+12457	unitig_2155|quiver
+12454	unitig_1365|quiver
+12446	unitig_1567|quiver
+12444	unitig_1577|quiver
+12430	unitig_2384|quiver
+12425	unitig_2512|quiver
+12423	unitig_4104|quiver
+12421	unitig_715|quiver
+12394	unitig_1003|quiver
+12388	unitig_2475|quiver
+12380	unitig_3462|quiver
+12369	unitig_3068|quiver
+12359	unitig_2082|quiver
+12355	unitig_1942|quiver
+12352	unitig_1731|quiver
+12350	unitig_3839|quiver
+12339	unitig_3641|quiver
+12335	unitig_2439|quiver
+12315	unitig_1046|quiver
+12314	unitig_2231|quiver
+12311	unitig_3671|quiver
+12306	unitig_1809|quiver
+12293	unitig_3517|quiver
+12285	unitig_1075|quiver
+12280	unitig_87|quiver
+12271	unitig_1762|quiver
+12267	unitig_1956|quiver
+12265	unitig_1573|quiver
+12260	unitig_1306|quiver
+12259	unitig_2504|quiver
+12256	unitig_966|quiver
+12247	unitig_3431|quiver
+12245	unitig_117|quiver
+12240	unitig_2144|quiver
+12237	unitig_652|quiver
+12236	unitig_334|quiver
+12225	unitig_1726|quiver
+12218	unitig_1771|quiver
+12194	unitig_3537|quiver
+12193	unitig_2251|quiver
+12185	unitig_2136|quiver
+12178	unitig_787|quiver
+12174	unitig_1756|quiver
+12151	unitig_4005|quiver
+12145	unitig_2336|quiver
+12144	unitig_983|quiver
+12137	unitig_2614|quiver
+12126	unitig_3692|quiver
+12094	unitig_3773|quiver
+12080	unitig_3694|quiver
+12074	unitig_1825|quiver
+12072	unitig_2709|quiver
+12064	unitig_2862|quiver
+12052	unitig_2785|quiver
+12048	unitig_3395|quiver
+12035	unitig_1170|quiver
+12032	unitig_380|quiver
+12030	unitig_206|quiver
+12026	unitig_1978|quiver
+12024	unitig_1135|quiver
+12008	unitig_2157|quiver
+11983	unitig_1166|quiver
+11970	unitig_3445|quiver
+11966	unitig_3942|quiver
+11958	unitig_769|quiver
+11947	unitig_2467|quiver
+11940	unitig_2068|quiver
+11938	unitig_309|quiver
+11937	unitig_3389|quiver
+11928	unitig_530|quiver
+11924	unitig_347|quiver
+11922	unitig_695|quiver
+11918	unitig_2823|quiver
+11917	unitig_2316|quiver
+11915	unitig_248|quiver
+11908	unitig_1451|quiver
+11904	unitig_714|quiver
+11901	unitig_3383|quiver
+11900	unitig_2102|quiver
+11883	unitig_2682|quiver
+11871	unitig_1527|quiver
+11870	unitig_2077|quiver
+11858	unitig_2229|quiver
+11858	unitig_1633|quiver
+11854	unitig_1370|quiver
+11851	unitig_1479|quiver
+11848	unitig_409|quiver
+11847	unitig_1590|quiver
+11844	unitig_2174|quiver
+11840	unitig_443|quiver
+11820	unitig_1860|quiver
+11817	unitig_2600|quiver
+11809	unitig_2078|quiver
+11798	unitig_2321|quiver
+11789	unitig_2984|quiver
+11783	unitig_3401|quiver
+11770	unitig_926|quiver
+11755	unitig_3363|quiver
+11735	unitig_207|quiver
+11723	unitig_2349|quiver
+11720	unitig_2152|quiver
+11713	unitig_3385|quiver
+11682	unitig_1735|quiver
+11680	unitig_2126|quiver
+11677	unitig_1178|quiver
+11675	unitig_431|quiver
+11674	unitig_1681|quiver
+11672	unitig_1337|quiver
+11664	unitig_1140|quiver
+11663	unitig_1508|quiver
+11648	unitig_1961|quiver
+11639	unitig_1235|quiver
+11630	unitig_1561|quiver
+11622	unitig_3674|quiver
+11622	unitig_2065|quiver
+11616	unitig_1021|quiver
+11612	unitig_2005|quiver
+11611	unitig_1017|quiver
+11610	unitig_1364|quiver
+11609	unitig_1884|quiver
+11605	unitig_1029|quiver
+11602	unitig_2326|quiver
+11601	unitig_470|quiver
+11581	unitig_1921|quiver
+11574	unitig_1077|quiver
+11572	unitig_2465|quiver
+11563	unitig_788|quiver
+11563	unitig_1741|quiver
+11562	unitig_300|quiver
+11559	unitig_1568|quiver
+11546	unitig_3420|quiver
+11546	unitig_1341|quiver
+11533	unitig_1817|quiver
+11518	unitig_1279|quiver
+11503	unitig_373|quiver
+11492	unitig_2546|quiver
+11485	unitig_1407|quiver
+11483	unitig_1864|quiver
+11478	unitig_138|quiver
+11463	unitig_64|quiver
+11462	unitig_304|quiver
+11457	unitig_1283|quiver
+11448	unitig_2342|quiver
+11440	unitig_1569|quiver
+11439	unitig_2060|quiver
+11436	unitig_724|quiver
+11426	unitig_928|quiver
+11408	unitig_21|quiver
+11408	unitig_1779|quiver
+11405	unitig_3476|quiver
+11402	unitig_2561|quiver
+11383	unitig_2517|quiver
+11378	unitig_566|quiver
+11372	unitig_1522|quiver
+11366	unitig_1670|quiver
+11362	unitig_679|quiver
+11362	unitig_1717|quiver
+11361	unitig_1492|quiver
+11353	unitig_1413|quiver
+11342	unitig_363|quiver
+11329	unitig_833|quiver
+11323	unitig_1840|quiver
+11300	unitig_4102|quiver
+11300	unitig_1794|quiver
+11292	unitig_739|quiver
+11290	unitig_1934|quiver
+11270	unitig_1465|quiver
+11268	unitig_1019|quiver
+11247	unitig_124|quiver
+11246	unitig_3624|quiver
+11239	unitig_403|quiver
+11236	unitig_3306|quiver
+11231	unitig_2514|quiver
+11220	unitig_2459|quiver
+11208	unitig_3518|quiver
+11205	unitig_1452|quiver
+11200	unitig_2470|quiver
+11189	unitig_3303|quiver
+11186	unitig_970|quiver
+11184	unitig_1565|quiver
+11174	unitig_1098|quiver
+11173	unitig_520|quiver
+11146	unitig_389|quiver
+11145	unitig_697|quiver
+11124	unitig_1013|quiver
+11117	unitig_793|quiver
+11111	unitig_2219|quiver
+11105	unitig_2079|quiver
+11100	unitig_2630|quiver
+11100	unitig_1755|quiver
+11091	unitig_906|quiver
+11087	unitig_3828|quiver
+11061	unitig_2001|quiver
+11057	unitig_2604|quiver
+11055	unitig_310|quiver
+11053	unitig_1267|quiver
+11052	unitig_99|quiver
+11041	unitig_615|quiver
+11041	unitig_1191|quiver
+11037	unitig_1060|quiver
+11032	unitig_3356|quiver
+11028	unitig_2611|quiver
+11027	unitig_1263|quiver
+11021	unitig_1713|quiver
+11018	unitig_1935|quiver
+11015	unitig_1826|quiver
+11007	unitig_2415|quiver
+10996	unitig_2329|quiver
+10994	unitig_2606|quiver
+10986	unitig_3746|quiver
+10966	unitig_3500|quiver
+10957	unitig_2469|quiver
+10951	unitig_1893|quiver
+10945	unitig_1169|quiver
+10942	unitig_2593|quiver
+10923	unitig_3766|quiver
+10921	unitig_2757|quiver
+10920	unitig_991|quiver
+10910	unitig_102|quiver
+10907	unitig_246|quiver
+10903	unitig_2495|quiver
+10903	unitig_1059|quiver
+10891	unitig_2105|quiver
+10889	unitig_1872|quiver
+10888	unitig_1640|quiver
+10875	unitig_3487|quiver
+10873	unitig_2020|quiver
+10869	unitig_2571|quiver
+10862	unitig_420|quiver
+10857	unitig_3718|quiver
+10856	unitig_2189|quiver
+10849	unitig_2760|quiver
+10845	unitig_2118|quiver
+10842	unitig_1873|quiver
+10835	unitig_229|quiver
+10832	unitig_827|quiver
+10828	unitig_344|quiver
+10817	unitig_568|quiver
+10798	unitig_920|quiver
+10798	unitig_1768|quiver
+10794	unitig_2634|quiver
+10786	unitig_1949|quiver
+10773	unitig_1922|quiver
+10770	unitig_1076|quiver
+10756	unitig_3835|quiver
+10755	unitig_1890|quiver
+10753	unitig_368|quiver
+10732	unitig_293|quiver
+10728	unitig_459|quiver
+10719	unitig_3234|quiver
+10705	unitig_688|quiver
+10701	unitig_3372|quiver
+10692	unitig_659|quiver
+10689	unitig_934|quiver
+10687	unitig_126|quiver
+10674	unitig_1382|quiver
+10669	unitig_149|quiver
+10668	unitig_2190|quiver
+10665	unitig_1692|quiver
+10659	unitig_2361|quiver
+10654	unitig_1222|quiver
+10647	unitig_3843|quiver
+10638	unitig_2443|quiver
+10637	unitig_2394|quiver
+10627	unitig_2104|quiver
+10625	unitig_843|quiver
+10607	unitig_915|quiver
+10607	unitig_804|quiver
+10593	unitig_2480|quiver
+10590	unitig_2036|quiver
+10581	unitig_3965|quiver
+10580	unitig_1659|quiver
+10575	unitig_4090|quiver
+10569	unitig_4083|quiver
+10566	unitig_3863|quiver
+10547	unitig_1372|quiver
+10544	unitig_1255|quiver
+10543	unitig_2129|quiver
+10530	unitig_3387|quiver
+10527	unitig_2933|quiver
+10521	unitig_2266|quiver
+10518	unitig_1933|quiver
+10516	unitig_2250|quiver
+10515	unitig_3607|quiver
+10515	unitig_2376|quiver
+10510	unitig_1156|quiver
+10508	unitig_818|quiver
+10490	unitig_2627|quiver
+10488	unitig_1321|quiver
+10483	unitig_2426|quiver
+10481	unitig_557|quiver
+10478	unitig_3489|quiver
+10477	unitig_1056|quiver
+10467	unitig_1645|quiver
+10464	unitig_903|quiver
+10464	unitig_59|quiver
+10461	unitig_2584|quiver
+10460	unitig_2419|quiver
+10456	unitig_936|quiver
+10453	unitig_3429|quiver
+10443	unitig_2555|quiver
+10439	unitig_995|quiver
+10439	unitig_953|quiver
+10439	unitig_296|quiver
+10437	unitig_1847|quiver
+10436	unitig_3416|quiver
+10432	unitig_85|quiver
+10409	unitig_3625|quiver
+10407	unitig_2578|quiver
+10394	unitig_1258|quiver
+10393	unitig_3947|quiver
+10391	unitig_1494|quiver
+10386	unitig_1882|quiver
+10371	unitig_850|quiver
+10371	unitig_1814|quiver
+10355	unitig_342|quiver
+10349	unitig_1353|quiver
+10346	unitig_2581|quiver
+10345	unitig_523|quiver
+10330	unitig_1130|quiver
+10324	unitig_433|quiver
+10319	unitig_589|quiver
+10314	unitig_1693|quiver
+10310	unitig_1475|quiver
+10304	unitig_2476|quiver
+10297	unitig_2425|quiver
+10296	unitig_1599|quiver
+10295	unitig_1414|quiver
+10294	unitig_2633|quiver
+10284	unitig_706|quiver
+10279	unitig_1402|quiver
+10276	unitig_1487|quiver
+10271	unitig_2159|quiver
+10248	unitig_1183|quiver
+10245	unitig_1698|quiver
+10227	unitig_790|quiver
+10224	unitig_1625|quiver
+10218	unitig_1616|quiver
+10211	unitig_233|quiver
+10204	unitig_1404|quiver
+10196	unitig_1660|quiver
+10192	unitig_2572|quiver
+10186	unitig_2354|quiver
+10164	unitig_314|quiver
+10156	unitig_3415|quiver
+10156	unitig_2335|quiver
+10153	unitig_2158|quiver
+10150	unitig_2609|quiver
+10147	unitig_345|quiver
+10138	unitig_1836|quiver
+10137	unitig_1233|quiver
+10131	unitig_2565|quiver
+10130	unitig_81|quiver
+10123	unitig_592|quiver
+10115	unitig_1368|quiver
+10112	unitig_3908|quiver
+10112	unitig_1163|quiver
+10110	unitig_1093|quiver
+10110	unitig_1040|quiver
+10103	unitig_3551|quiver
+10103	unitig_1004|quiver
+10102	unitig_2498|quiver
+10097	unitig_919|quiver
+10097	unitig_756|quiver
+10078	unitig_3849|quiver
+10074	unitig_720|quiver
+10062	unitig_3491|quiver
+10053	unitig_3764|quiver
+10040	unitig_3413|quiver
+10037	unitig_1542|quiver
+10021	unitig_1538|quiver
+10016	unitig_762|quiver
+10013	unitig_199|quiver
+10003	unitig_3529|quiver
+9985	unitig_847|quiver
+9983	unitig_1333|quiver
+9977	unitig_2738|quiver
+9975	unitig_3501|quiver
+9960	unitig_897|quiver
+9959	unitig_3867|quiver
+9957	unitig_588|quiver
+9953	unitig_2012|quiver
+9944	unitig_3948|quiver
+9909	unitig_1025|quiver
+9893	unitig_3250|quiver
+9889	unitig_1278|quiver
+9884	unitig_947|quiver
+9880	unitig_842|quiver
+9876	unitig_2236|quiver
+9871	unitig_1087|quiver
+9868	unitig_1944|quiver
+9858	unitig_3636|quiver
+9849	unitig_1969|quiver
+9839	unitig_1260|quiver
+9838	unitig_106|quiver
+9834	unitig_404|quiver
+9830	unitig_513|quiver
+9828	unitig_3927|quiver
+9822	unitig_1349|quiver
+9812	unitig_957|quiver
+9812	unitig_2671|quiver
+9799	unitig_1302|quiver
+9792	unitig_3227|quiver
+9785	unitig_1613|quiver
+9773	unitig_1812|quiver
+9760	unitig_333|quiver
+9745	unitig_2073|quiver
+9744	unitig_579|quiver
+9744	unitig_19|quiver
+9736	unitig_2230|quiver
+9735	unitig_583|quiver
+9731	unitig_2456|quiver
+9726	unitig_989|quiver
+9725	unitig_2787|quiver
+9714	unitig_2260|quiver
+9711	unitig_479|quiver
+9702	unitig_584|quiver
+9700	unitig_1005|quiver
+9682	unitig_2832|quiver
+9672	unitig_2473|quiver
+9669	unitig_212|quiver
+9660	unitig_1803|quiver
+9648	unitig_1911|quiver
+9633	unitig_2317|quiver
+9629	unitig_634|quiver
+9618	unitig_2192|quiver
+9616	unitig_1834|quiver
+9612	unitig_1931|quiver
+9606	unitig_801|quiver
+9605	unitig_1833|quiver
+9605	unitig_1742|quiver
+9593	unitig_115|quiver
+9590	unitig_1905|quiver
+9589	unitig_1031|quiver
+9583	unitig_3404|quiver
+9579	unitig_1622|quiver
+9569	unitig_815|quiver
+9563	unitig_3700|quiver
+9561	unitig_1730|quiver
+9557	unitig_969|quiver
+9552	unitig_2295|quiver
+9539	unitig_2499|quiver
+9534	unitig_1623|quiver
+9505	unitig_3814|quiver
+9502	unitig_2245|quiver
+9501	unitig_3006|quiver
+9487	unitig_2030|quiver
+9486	unitig_2148|quiver
+9427	unitig_284|quiver
+9418	unitig_3580|quiver
+9415	unitig_3349|quiver
+9411	unitig_3322|quiver
+9409	unitig_841|quiver
+9408	unitig_2309|quiver
+9404	unitig_1182|quiver
+9394	unitig_765|quiver
+9394	unitig_1168|quiver
+9391	unitig_2340|quiver
+9390	unitig_1987|quiver
+9387	unitig_1381|quiver
+9382	unitig_1324|quiver
+9379	unitig_2113|quiver
+9375	unitig_2978|quiver
+9368	unitig_1982|quiver
+9367	unitig_1242|quiver
+9347	unitig_1754|quiver
+9346	unitig_2631|quiver
+9328	unitig_2544|quiver
+9310	unitig_2301|quiver
+9299	unitig_1458|quiver
+9297	unitig_3256|quiver
+9288	unitig_2025|quiver
+9282	unitig_396|quiver
+9271	unitig_3531|quiver
+9258	unitig_2819|quiver
+9258	unitig_2153|quiver
+9254	unitig_2674|quiver
+9249	unitig_2320|quiver
+9235	unitig_1827|quiver
+9215	unitig_1066|quiver
+9205	unitig_1723|quiver
+9202	unitig_1791|quiver
+9196	unitig_188|quiver
+9183	unitig_2570|quiver
+9176	unitig_2533|quiver
+9153	unitig_3876|quiver
+9148	unitig_3063|quiver
+9148	unitig_270|quiver
+9125	unitig_949|quiver
+9108	unitig_2641|quiver
+9088	unitig_845|quiver
+9078	unitig_230|quiver
+9062	unitig_2527|quiver
+9040	unitig_179|quiver
+9039	unitig_3417|quiver
+9004	unitig_2084|quiver
+8995	unitig_3481|quiver
+8988	unitig_3528|quiver
+8985	unitig_1425|quiver
+8970	unitig_3800|quiver
+8968	unitig_639|quiver
+8961	unitig_2324|quiver
+8936	unitig_2562|quiver
+8924	unitig_2311|quiver
+8896	unitig_563|quiver
+8890	unitig_458|quiver
+8881	unitig_2377|quiver
+8869	unitig_2420|quiver
+8866	unitig_2385|quiver
+8863	unitig_1449|quiver
+8858	unitig_2664|quiver
+8845	unitig_686|quiver
+8841	unitig_836|quiver
+8830	unitig_2540|quiver
+8824	unitig_3982|quiver
+8818	unitig_2733|quiver
+8813	unitig_1832|quiver
+8807	unitig_642|quiver
+8803	unitig_3902|quiver
+8796	unitig_3407|quiver
+8790	unitig_3981|quiver
+8789	unitig_205|quiver
+8763	unitig_110|quiver
+8761	unitig_2217|quiver
+8755	unitig_2106|quiver
+8750	unitig_560|quiver
+8709	unitig_3116|quiver
+8707	unitig_1925|quiver
+8696	unitig_1940|quiver
+8696	unitig_1047|quiver
+8692	unitig_2579|quiver
+8683	unitig_3483|quiver
+8679	unitig_2006|quiver
+8635	unitig_1428|quiver
+8627	unitig_2934|quiver
+8626	unitig_3928|quiver
+8605	unitig_2545|quiver
+8600	unitig_1464|quiver
+8599	unitig_2139|quiver
+8597	unitig_1603|quiver
+8560	unitig_1989|quiver
+8552	unitig_534|quiver
+8544	unitig_253|quiver
+8544	unitig_2328|quiver
+8533	unitig_1572|quiver
+8530	unitig_1384|quiver
+8524	unitig_1641|quiver
+8523	unitig_3472|quiver
+8483	unitig_1570|quiver
+8440	unitig_330|quiver
+8436	unitig_1704|quiver
+8431	unitig_3078|quiver
+8418	unitig_2778|quiver
+8415	unitig_735|quiver
+8414	unitig_3628|quiver
+8394	unitig_2116|quiver
+8385	unitig_1287|quiver
+8369	unitig_2596|quiver
+8356	unitig_2564|quiver
+8309	unitig_1149|quiver
+8266	unitig_4066|quiver
+8263	unitig_2334|quiver
+8254	unitig_1858|quiver
+8248	unitig_617|quiver
+8239	unitig_2729|quiver
+8238	unitig_1180|quiver
+8224	unitig_61|quiver
+8219	unitig_2737|quiver
+8209	unitig_2427|quiver
+8198	unitig_1960|quiver
+8197	unitig_2625|quiver
+8177	unitig_3540|quiver
+8174	unitig_3938|quiver
+8172	unitig_572|quiver
+8166	unitig_2414|quiver
+8164	unitig_1606|quiver
+8145	unitig_582|quiver
+8143	unitig_2506|quiver
+8141	unitig_3348|quiver
+8130	unitig_1264|quiver
+8094	unitig_1312|quiver
+8082	unitig_2107|quiver
+8081	unitig_951|quiver
+8081	unitig_1496|quiver
+8075	unitig_2615|quiver
+8066	unitig_3933|quiver
+8064	unitig_1678|quiver
+8043	unitig_2171|quiver
+8033	unitig_2447|quiver
+8030	unitig_2811|quiver
+8016	unitig_2977|quiver
+8011	unitig_4047|quiver
+7995	unitig_526|quiver
+7988	unitig_1880|quiver
+7971	unitig_3801|quiver
+7952	unitig_1776|quiver
+7938	unitig_1983|quiver
+7928	unitig_2244|quiver
+7924	unitig_3520|quiver
+7891	unitig_3865|quiver
+7853	unitig_2582|quiver
+7842	unitig_1026|quiver
+7837	unitig_1376|quiver
+7836	unitig_1069|quiver
+7835	unitig_553|quiver
+7829	unitig_784|quiver
+7829	unitig_3111|quiver
+7803	unitig_2199|quiver
+7789	unitig_3455|quiver
+7771	unitig_2822|quiver
+7760	unitig_2618|quiver
+7747	unitig_2234|quiver
+7732	unitig_2083|quiver
+7723	unitig_1416|quiver
+7711	unitig_1879|quiver
+7686	unitig_1214|quiver
+7683	unitig_1200|quiver
+7671	unitig_2285|quiver
+7656	unitig_384|quiver
+7643	unitig_3946|quiver
+7642	unitig_4076|quiver
+7628	unitig_3901|quiver
+7609	unitig_826|quiver
+7584	unitig_3879|quiver
+7580	unitig_1151|quiver
+7571	unitig_2509|quiver
+7568	unitig_3317|quiver
+7561	unitig_2095|quiver
+7560	unitig_1930|quiver
+7538	unitig_331|quiver
+7538	unitig_2658|quiver
+7528	unitig_937|quiver
+7527	unitig_2284|quiver
+7526	unitig_305|quiver
+7521	unitig_1088|quiver
+7496	unitig_302|quiver
+7490	unitig_2797|quiver
+7486	unitig_899|quiver
+7474	unitig_2421|quiver
+7469	unitig_1562|quiver
+7458	unitig_3519|quiver
+7455	unitig_317|quiver
+7455	unitig_294|quiver
+7445	unitig_2990|quiver
+7421	unitig_3375|quiver
+7419	unitig_719|quiver
+7402	unitig_164|quiver
+7394	unitig_2416|quiver
+7391	unitig_3604|quiver
+7383	unitig_2010|quiver
+7372	unitig_1210|quiver
+7366	unitig_840|quiver
+7343	unitig_1466|quiver
+7334	unitig_318|quiver
+7325	unitig_1883|quiver
+7308	unitig_455|quiver
+7303	unitig_2725|quiver
+7287	unitig_1697|quiver
+7280	unitig_1913|quiver
+7272	unitig_1369|quiver
+7251	unitig_3365|quiver
+7250	unitig_702|quiver
+7250	unitig_2142|quiver
+7243	unitig_3099|quiver
+7230	unitig_1819|quiver
+7212	unitig_2518|quiver
+7205	unitig_2203|quiver
+7201	unitig_1619|quiver
+7198	unitig_2434|quiver
+7196	unitig_2170|quiver
+7176	unitig_2445|quiver
+7173	unitig_1374|quiver
+7160	unitig_2519|quiver
+7150	unitig_960|quiver
+7127	unitig_156|quiver
+7111	unitig_3059|quiver
+7107	unitig_1420|quiver
+7104	unitig_2212|quiver
+7082	unitig_698|quiver
+7059	unitig_2736|quiver
+7038	unitig_1415|quiver
+7011	unitig_2810|quiver
+7000	unitig_3858|quiver
+6998	unitig_884|quiver
+6982	unitig_2510|quiver
+6978	unitig_2428|quiver
+6958	unitig_174|quiver
+6924	unitig_701|quiver
+6917	unitig_2601|quiver
+6914	unitig_669|quiver
+6907	unitig_1265|quiver
+6877	unitig_3813|quiver
+6875	unitig_4124|quiver
+6871	unitig_76|quiver
+6839	unitig_2344|quiver
+6835	unitig_1259|quiver
+6832	unitig_489|quiver
+6822	unitig_2605|quiver
+6806	unitig_3673|quiver
+6802	unitig_2074|quiver
+6782	unitig_1304|quiver
+6777	unitig_2727|quiver
+6773	unitig_2714|quiver
+6744	unitig_2272|quiver
+6723	unitig_2558|quiver
+6719	unitig_984|quiver
+6707	unitig_2755|quiver
+6700	unitig_535|quiver
+6698	unitig_2875|quiver
+6694	unitig_1888|quiver
+6690	unitig_2444|quiver
+6684	unitig_1323|quiver
+6676	unitig_3759|quiver
+6675	unitig_3047|quiver
+6655	unitig_2716|quiver
+6641	unitig_3748|quiver
+6613	unitig_2870|quiver
+6606	unitig_3821|quiver
+6602	unitig_838|quiver
+6575	unitig_2303|quiver
+6572	unitig_853|quiver
+6569	unitig_2763|quiver
+6564	unitig_2796|quiver
+6544	unitig_3895|quiver
+6502	unitig_3390|quiver
+6498	unitig_745|quiver
+6494	unitig_1473|quiver
+6493	unitig_1426|quiver
+6490	unitig_1801|quiver
+6474	unitig_2567|quiver
+6425	unitig_3899|quiver
+6425	unitig_1887|quiver
+6413	unitig_2831|quiver
+6398	unitig_2598|quiver
+6371	unitig_577|quiver
+6370	unitig_1648|quiver
+6344	unitig_1438|quiver
+6341	unitig_2464|quiver
+6337	unitig_3367|quiver
+6337	unitig_2314|quiver
+6329	unitig_1732|quiver
+6329	unitig_108|quiver
+6328	unitig_2597|quiver
+6325	unitig_2880|quiver
+6320	unitig_2768|quiver
+6310	unitig_2330|quiver
+6290	unitig_3474|quiver
+6276	unitig_1831|quiver
+6264	unitig_837|quiver
+6244	unitig_3894|quiver
+6237	unitig_4106|quiver
+6230	unitig_3703|quiver
+6229	unitig_2670|quiver
+6226	unitig_103|quiver
+6213	unitig_2296|quiver
+6184	unitig_2861|quiver
+6138	unitig_2378|quiver
+6113	unitig_2626|quiver
+6064	unitig_159|quiver
+6051	unitig_388|quiver
+6031	unitig_2408|quiver
+6019	unitig_249|quiver
+6016	unitig_1483|quiver
+5981	unitig_3842|quiver
+5934	unitig_16|quiver
+5931	unitig_285|quiver
+5926	unitig_273|quiver
+5916	unitig_2430|quiver
+5914	unitig_1796|quiver
+5909	unitig_2374|quiver
+5859	unitig_182|quiver
+5852	unitig_2915|quiver
+5836	unitig_1171|quiver
+5834	unitig_1491|quiver
+5831	unitig_2932|quiver
+5812	unitig_3807|quiver
+5810	unitig_3953|quiver
+5791	unitig_2511|quiver
+5786	unitig_1662|quiver
+5759	unitig_2744|quiver
+5756	unitig_3831|quiver
+5756	unitig_1153|quiver
+5737	unitig_2799|quiver
+5710	unitig_1938|quiver
+5704	unitig_2127|quiver
+5698	unitig_2008|quiver
+5695	unitig_2705|quiver
+5684	unitig_2801|quiver
+5672	unitig_910|quiver
+5670	unitig_1585|quiver
+5668	unitig_831|quiver
+5659	unitig_1270|quiver
+5651	unitig_2587|quiver
+5648	unitig_1366|quiver
+5640	unitig_3321|quiver
+5612	unitig_2412|quiver
+5601	unitig_2574|quiver
+5596	unitig_2800|quiver
+5586	unitig_1631|quiver
+5566	unitig_2481|quiver
+5545	unitig_2662|quiver
+5533	unitig_2668|quiver
+5518	unitig_2086|quiver
+5505	unitig_2830|quiver
+5488	unitig_3146|quiver
+5462	unitig_358|quiver
+5433	unitig_2636|quiver
+5411	unitig_3722|quiver
+5409	unitig_2387|quiver
+5370	unitig_687|quiver
+5359	unitig_3569|quiver
+5359	unitig_2559|quiver
+5353	unitig_2827|quiver
+5347	unitig_483|quiver
+5341	unitig_3064|quiver
+5305	unitig_3122|quiver
+5294	unitig_2397|quiver
+5279	unitig_1628|quiver
+5269	unitig_2681|quiver
+5225	unitig_269|quiver
+5216	unitig_2201|quiver
+5213	unitig_2728|quiver
+5208	unitig_2009|quiver
+5188	unitig_1920|quiver
+5178	unitig_1012|quiver
+5165	unitig_759|quiver
+5156	unitig_370|quiver
+5153	unitig_4039|quiver
+5147	unitig_1745|quiver
+5116	unitig_2623|quiver
+5114	unitig_1412|quiver
+5085	unitig_2982|quiver
+5051	unitig_1541|quiver
+5044	unitig_2315|quiver
+5028	unitig_4107|quiver
+5025	unitig_1986|quiver
+5011	unitig_1663|quiver
+5011	unitig_1134|quiver
+5010	unitig_3149|quiver
+5003	unitig_4117|quiver
+4996	unitig_805|quiver
+4977	unitig_109|quiver
+4970	unitig_283|quiver
+4969	unitig_320|quiver
+4962	unitig_3158|quiver
+4946	unitig_421|quiver
+4941	unitig_985|quiver
+4934	unitig_2363|quiver
+4932	unitig_2594|quiver
+4910	unitig_2313|quiver
+4903	unitig_2652|quiver
+4893	unitig_1058|quiver
+4869	unitig_120|quiver
+4862	unitig_2520|quiver
+4834	unitig_2878|quiver
+4818	unitig_2501|quiver
+4816	unitig_2928|quiver
+4810	unitig_2996|quiver
+4809	unitig_846|quiver
+4792	unitig_3307|quiver
+4790	unitig_3214|quiver
+4768	unitig_2640|quiver
+4764	unitig_8|quiver
+4763	unitig_2752|quiver
+4732	unitig_3083|quiver
+4719	unitig_1488|quiver
+4694	unitig_2281|quiver
+4643	unitig_1980|quiver
+4617	unitig_1268|quiver
+4616	unitig_2689|quiver
+4615	unitig_2722|quiver
+4610	unitig_1118|quiver
+4602	unitig_2980|quiver
+4589	unitig_1747|quiver
+4563	unitig_3012|quiver
+4562	unitig_2240|quiver
+4549	unitig_1744|quiver
+4522	unitig_3015|quiver
+4498	unitig_2468|quiver
+4487	unitig_1605|quiver
+4484	unitig_3600|quiver
+4472	unitig_2505|quiver
+4427	unitig_2845|quiver
+4423	unitig_2941|quiver
+4402	unitig_2695|quiver
+4386	unitig_2833|quiver
+4366	unitig_2666|quiver
+4365	unitig_3073|quiver
+4336	unitig_311|quiver
+4330	unitig_1822|quiver
+4329	unitig_1923|quiver
+4326	unitig_2140|quiver
+4315	unitig_2771|quiver
+4314	unitig_2622|quiver
+4310	unitig_2100|quiver
+4305	unitig_2745|quiver
+4266	unitig_2471|quiver
+4249	unitig_1743|quiver
+4247	unitig_3168|quiver
+4230	unitig_2607|quiver
+4203	unitig_2624|quiver
+4200	unitig_3255|quiver
+4173	unitig_2577|quiver
+4090	unitig_3252|quiver
+4087	unitig_2777|quiver
+4045	unitig_2608|quiver
+4043	unitig_2557|quiver
+4035	unitig_2404|quiver
+4013	unitig_1110|quiver
+4006	unitig_4123|quiver
+4005	unitig_2680|quiver
+3993	unitig_2150|quiver
+3971	unitig_2252|quiver
+3964	unitig_446|quiver
+3964	unitig_2761|quiver
+3960	unitig_1020|quiver
+3935	unitig_2963|quiver
+3925	unitig_1266|quiver
+3919	unitig_663|quiver
+3910	unitig_3439|quiver
+3910	unitig_1548|quiver
+3902	unitig_1881|quiver
+3893	unitig_1435|quiver
+3887	unitig_143|quiver
+3886	unitig_1500|quiver
+3883	unitig_3668|quiver
+3877	unitig_1679|quiver
+3845	unitig_2039|quiver
+3835	unitig_2749|quiver
+3799	unitig_2406|quiver
+3798	unitig_1269|quiver
+3786	unitig_2638|quiver
+3779	unitig_2355|quiver
+3775	unitig_3003|quiver
+3765	unitig_541|quiver
+3763	unitig_570|quiver
+3738	unitig_3169|quiver
+3730	unitig_2117|quiver
+3718	unitig_2556|quiver
+3717	unitig_1143|quiver
+3713	unitig_2346|quiver
+3707	unitig_2954|quiver
+3705	unitig_1317|quiver
+3699	unitig_1471|quiver
+3698	unitig_1683|quiver
+3694	unitig_1685|quiver
+3687	unitig_2373|quiver
+3654	unitig_1966|quiver
+3642	unitig_878|quiver
+3590	unitig_3864|quiver
+3576	unitig_1807|quiver
+3573	unitig_2846|quiver
+3569	unitig_3742|quiver
+3556	unitig_3494|quiver
+3547	unitig_1288|quiver
+3511	unitig_2742|quiver
+3507	unitig_2688|quiver
+3460	unitig_1715|quiver
+3459	unitig_2685|quiver
+3438	unitig_4078|quiver
+3434	unitig_4034|quiver
+3426	unitig_2706|quiver
+3418	unitig_2463|quiver
+3396	unitig_2588|quiver
+3375	unitig_2548|quiver
+3364	unitig_2815|quiver
+3357	unitig_1176|quiver
+3337	unitig_2651|quiver
+3333	unitig_904|quiver
+3330	unitig_1015|quiver
+3316	unitig_3030|quiver
+3310	unitig_410|quiver
+3297	unitig_2748|quiver
+3287	unitig_2573|quiver
+3279	unitig_2890|quiver
+3272	unitig_2575|quiver
+3259	unitig_3844|quiver
+3210	unitig_488|quiver
+3209	unitig_2829|quiver
+3207	unitig_927|quiver
+3203	unitig_2824|quiver
+3194	unitig_2031|quiver
+3189	unitig_2466|quiver
+3186	unitig_2798|quiver
+3169	unitig_2513|quiver
+3142	unitig_1250|quiver
+3135	unitig_3281|quiver
+3133	unitig_3512|quiver
+3131	unitig_2395|quiver
+3125	unitig_1209|quiver
+3093	unitig_2290|quiver
+3085	unitig_1611|quiver
+3075	unitig_2780|quiver
+3060	unitig_3193|quiver
+3030	unitig_2500|quiver
+3029	unitig_2120|quiver
+3001	unitig_3258|quiver
+2990	unitig_2595|quiver
+2977	unitig_2566|quiver
+2961	unitig_3020|quiver
+2929	unitig_3253|quiver
+2918	unitig_4115|quiver
+2914	unitig_2585|quiver
+2907	unitig_1338|quiver
+2895	unitig_210|quiver
+2859	unitig_2524|quiver
+2848	unitig_457|quiver
+2847	unitig_1917|quiver
+2829	unitig_3201|quiver
+2821	unitig_2889|quiver
+2815	unitig_2655|quiver
+2803	unitig_2903|quiver
+2794	unitig_3009|quiver
+2783	unitig_2812|quiver
+2781	unitig_2635|quiver
+2766	unitig_2410|quiver
+2766	unitig_1632|quiver
+2765	unitig_2726|quiver
+2758	unitig_1765|quiver
+2741	unitig_2306|quiver
+2714	unitig_97|quiver
+2697	unitig_4015|quiver
+2694	unitig_854|quiver
+2686	unitig_4068|quiver
+2680	unitig_1399|quiver
+2652	unitig_2209|quiver
+2642	unitig_1948|quiver
+2625	unitig_3004|quiver
+2613	unitig_2894|quiver
+2610	unitig_3152|quiver
+2606	unitig_2711|quiver
+2593	unitig_2616|quiver
+2579	unitig_2979|quiver
+2578	unitig_2327|quiver
+2576	unitig_2919|quiver
+2565	unitig_2151|quiver
+2565	unitig_1981|quiver
+2554	unitig_2774|quiver
+2545	unitig_2628|quiver
+2537	unitig_2767|quiver
+2535	unitig_2825|quiver
+2525	unitig_1063|quiver
+2520	unitig_2947|quiver
+2515	unitig_1515|quiver
+2498	unitig_2686|quiver
+2484	unitig_2591|quiver
+2475	unitig_3221|quiver
+2468	unitig_2367|quiver
+2450	unitig_2124|quiver
+2439	unitig_3081|quiver
+2436	unitig_2424|quiver
+2400	unitig_1410|quiver
+2395	unitig_2563|quiver
+2377	unitig_2062|quiver
+2369	unitig_4038|quiver
+2357	unitig_3210|quiver
+2354	unitig_802|quiver
+2334	unitig_2766|quiver
+2331	unitig_1293|quiver
+2305	unitig_2804|quiver
+2305	unitig_2232|quiver
+2301	unitig_3267|quiver
+2266	unitig_2656|quiver
+2256	unitig_2739|quiver
+2255	unitig_2843|quiver
+2244	unitig_2667|quiver
+2234	unitig_637|quiver
+2227	unitig_2964|quiver
+2227	unitig_1652|quiver
+2213	unitig_2958|quiver
+2209	unitig_1220|quiver
+2202	unitig_3055|quiver
+2184	unitig_2960|quiver
+2172	unitig_2694|quiver
+2133	unitig_2135|quiver
+2124	unitig_2438|quiver
+2121	unitig_436|quiver
+2120	unitig_2732|quiver
+2116	unitig_2637|quiver
+2107	unitig_2962|quiver
+2103	unitig_1835|quiver
+2096	unitig_1099|quiver
+2066	unitig_2648|quiver
+2065	unitig_797|quiver
+2040	unitig_2776|quiver
+2011	unitig_2669|quiver
+2006	unitig_382|quiver
+2004	unitig_352|quiver
+2004	unitig_2708|quiver
+1986	unitig_2759|quiver
+1978	unitig_3070|quiver
+1973	unitig_2826|quiver
+1973	unitig_2537|quiver
+1970	unitig_3182|quiver
+1955	unitig_2793|quiver
+1945	unitig_2341|quiver
+1939	unitig_2981|quiver
+1933	unitig_2957|quiver
+1926	unitig_2734|quiver
+1921	unitig_2959|quiver
+1919	unitig_3806|quiver
+1909	unitig_2809|quiver
+1898	unitig_2679|quiver
+1897	unitig_2949|quiver
+1893	unitig_580|quiver
+1881	unitig_3187|quiver
+1871	unitig_2930|quiver
+1864	unitig_2646|quiver
+1850	unitig_2715|quiver
+1826	unitig_3061|quiver
+1825	unitig_2901|quiver
+1819	unitig_2529|quiver
+1804	unitig_555|quiver
+1786	unitig_2789|quiver
+1771	unitig_2743|quiver
+1770	unitig_2507|quiver
+1767	unitig_533|quiver
+1760	unitig_3219|quiver
+1759	unitig_2995|quiver
+1754	unitig_2216|quiver
+1746	unitig_1443|quiver
+1742	unitig_1117|quiver
+1741	unitig_711|quiver
+1741	unitig_2619|quiver
+1735	unitig_643|quiver
+1723	unitig_3040|quiver
+1723	unitig_2450|quiver
+1698	unitig_1688|quiver
+1674	unitig_3920|quiver
+1663	unitig_4012|quiver
+1652	unitig_2786|quiver
+1637	unitig_3265|quiver
+1635	unitig_3166|quiver
+1591	unitig_2649|quiver
+1585	unitig_2580|quiver
+1570	unitig_2781|quiver
+1559	unitig_3054|quiver
+1557	unitig_2751|quiver
+1544	unitig_2762|quiver
+1514	unitig_3809|quiver
+1513	unitig_2590|quiver
+1490	unitig_2720|quiver
+1487	unitig_3204|quiver
+1484	unitig_3493|quiver
+1483	unitig_2531|quiver
+1477	unitig_3094|quiver
+1475	unitig_595|quiver
+1469	unitig_2764|quiver
+1450	unitig_4030|quiver
+1449	unitig_471|quiver
+1435	unitig_2702|quiver
+1431	unitig_2791|quiver
+1426	unitig_3035|quiver
+1406	unitig_2821|quiver
+1398	unitig_3426|quiver
+1395	unitig_3163|quiver
+1361	unitig_2887|quiver
+1317	unitig_2044|quiver
+1302	unitig_2007|quiver
+1296	unitig_3045|quiver
+1277	unitig_2731|quiver
+1257	unitig_2440|quiver
+1220	unitig_2684|quiver
+1217	unitig_3919|quiver
+1215	unitig_2969|quiver
+1194	unitig_869|quiver
+1128	unitig_2713|quiver
+1119	unitig_2156|quiver
+1117	unitig_3084|quiver
+1082	unitig_2806|quiver
+1068	unitig_2692|quiver
+1054	unitig_1248|quiver
+1046	unitig_2723|quiver
+1032	unitig_2836|quiver
+1032	unitig_1914|quiver
+1031	unitig_2967|quiver
+998	unitig_1581|quiver
+979	unitig_2805|quiver
+950	unitig_867|quiver
+937	unitig_2952|quiver
+925	unitig_2678|quiver
+919	unitig_3294|quiver
+889	unitig_2784|quiver
+879	unitig_3275|quiver
+848	unitig_3138|quiver
+839	unitig_2653|quiver
+829	unitig_2719|quiver
+825	unitig_2724|quiver
+810	unitig_2643|quiver
+758	unitig_292|quiver
+758	unitig_2560|quiver
+724	unitig_2998|quiver
+708	unitig_438|quiver
+694	unitig_2650|quiver
+689	unitig_3017|quiver
+674	unitig_3097|quiver
+536	unitig_3150|quiver
+503	unitig_3154|quiver
