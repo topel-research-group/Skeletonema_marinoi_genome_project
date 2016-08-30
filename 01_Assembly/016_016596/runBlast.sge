@@ -1,0 +1,11 @@
+#$ -q Annotation-1
+#$ -cwd
+#$ -S /bin/bash
+#$ -pe mpich 40
+
+DB=/db/nr
+
+QUERY=016_016596_data_polished_assembly_SORTED.fasta
+OUT=016_016596_data_polished_assembly_SORTED_to_nr.BLASTx.txt
+
+blastx -query $QUERY -db $DB -num_alignments 10 -query_loc 1-5000 -num_threads $NSLOTS -out $OUT
