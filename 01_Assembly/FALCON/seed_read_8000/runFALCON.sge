@@ -1,0 +1,26 @@
+#$ -q Annotation-1
+#$ -cwd
+#$ -S /bin/bash
+#$ -pe mpich 38
+
+#module load FALCON/v1.7.5
+
+#export FALCON_WORKSPACE=/usr/local/packages/FALCON/FALCON-integrate
+#export PYTHONUSERBASE=/usr/local/packages/FALCON/FALCON-integrate/fc_env
+#export FALCON_PREFIX=/usr/local/packages/FALCON/FALCON-integrate/fc_env
+#export PATH=${PYTHONUSERBASE}/bin:${FALCON_PREFIX}/bin:${PATH}
+#export PYTHONPATH=/usr/local/packages/FALCON/FALCON-integrate/fc_env/lib:$PYTHONPATH
+
+export FALCON_WORKSPACE=/nobackup/data5/FALCON/FALCON-integrate_v1.7.5
+export PYTHONUSERBASE=/nobackup/data5/FALCON/FALCON-integrate_v1.7.5/fc_env
+export FALCON_PREFIX=/nobackup/data5/FALCON/FALCON-integrate_v1.7.5/fc_env
+export PATH=${PYTHONUSERBASE}/bin:${FALCON_PREFIX}/bin:${PATH}
+export PYTHONPATH=/nobackup/data5/FALCON/FALCON-integrate_v1.7.5/fc_env/lib:$PYTHONPATH
+
+source activate Python_2.7.9
+
+#/usr/local/packages/FALCON/fc_env/bin/python /usr/local/packages/FALCON/fc_env/bin/fc_run.py fc_run.cfg
+fc_run.py fc_run.cfg
+
+
+
