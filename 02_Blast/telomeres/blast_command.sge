@@ -1,0 +1,9 @@
+#$ -q Annotation-4
+#$ -cwd
+#$ -pe mpich 40
+#$ -S /bin/bash
+
+QUERY=TTAGGG.fst
+DB=../../01_Assembly/FALCON/seed_read_10000/2-asm-falcon/p_ctg.fa
+
+blastn -task blastn-short -query $QUERY -db $DB -num_threads $NSLOTS -outfmt 5 -out telomere_repeats_to_FALCON_seed_read-10000.BLASTn_short.txt
