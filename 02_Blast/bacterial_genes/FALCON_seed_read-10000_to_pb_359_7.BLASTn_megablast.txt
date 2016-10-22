@@ -1,0 +1,9275 @@
+BLASTN 2.3.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: pb_359_7.ffn
+           5,147 sequences; 4,764,324 total letters
+
+
+
+Query= 000000F 000335958:E~000004064:B~000097455:E~000116060:B ctg_linear
+3160905 15919563
+
+Length=3119374
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14347787850040
+
+
+Query= 000001F 000079336:B~000034488:B~000323044:E~000043267:B ctg_linear
+1848965 8495896
+
+Length=1735893
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7993240054154
+
+
+Query= 000002F 000206453:E~000337912:B~000247994:E~000109713:E ctg_linear
+1787727 7886657
+
+Length=1752711
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8070683025560
+
+
+Query= 000003F 000107436:B~000049413:B~000094339:E~000027178:B ctg_linear
+1750661 8953976
+
+Length=1779044
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8191940354971
+
+
+Query= 000004F 000132961:E~000132961:E~000196103:B~000049288:B ctg_linear
+1592260 7827538
+
+Length=1547743
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7126853143104
+
+
+Query= 000005F 000311048:E~000066322:E~000170212:E~000233378:B ctg_linear
+1562423 7477122
+
+Length=1597219
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7354678595196
+
+
+Query= 000006F 000109861:B~000123881:E~000287785:B~000132961:B ctg_linear
+1466808 6842130
+
+Length=1476426
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6798454974965
+
+
+Query= 000007F 000043267:E~000318143:B~000120200:B~000208575:B ctg_linear
+1440752 7457481
+
+Length=1469854
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  DILMCCMG_02619 Glucose-6-phosphate isomerase                        82.4    1e-12
+
+
+> DILMCCMG_02619 Glucose-6-phosphate isomerase
+Length=1584
+
+ Score = 82.4 bits (44),  Expect = 1e-12
+ Identities = 52/56 (93%), Gaps = 0/56 (0%)
+ Strand=Plus/Minus
+
+Query  960290  CCCTGATGGATCAACTGGTAAAAGGCATGTTGCCCATTGGTTCCAGGCTCTCCCCA  960345
+               |||||||||||||||||||||||||||||||| || ||||| || |||||||||||
+Sbjct  1115    CCCTGATGGATCAACTGGTAAAAGGCATGTTGACCGTTGGTGCCCGGCTCTCCCCA  1060
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6768192446241
+
+
+Query= 000008F 000312729:E~000067167:B~000079632:B~000088242:B ctg_linear
+1428850 6428106
+
+Length=1402957
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6460147348242
+
+
+Query= 000009F 000311771:B~000071407:B~000250152:B~000221269:B ctg_linear
+1369784 6332178
+
+Length=1348588
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6209790771219
+
+
+Query= 000010F 000027178:B~000284557:E~000274749:B~000045609:B ctg_linear
+1358269 6499254
+
+Length=1388114
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6391798791661
+
+
+Query= 000011F 000029780:E~000221229:B~000184049:B~000072996:E ctg_linear
+1352783 6343025
+
+Length=1353973
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6234587441514
+
+
+Query= 000012F 000087735:E~000226157:B~000173109:B~000107568:B ctg_linear
+1347442 6427464
+
+Length=1319401
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6075391436790
+
+
+Query= 000013F 000052613:B~000235322:E~000019984:B~000210839:E ctg_linear
+1320461 6273221
+
+Length=1373796
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6325867737755
+
+
+Query= 000014F 000263006:E~NA~000010618:B~000210839:B ctg_linear 4907 38609
+
+Length=7104
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 32815759271
+
+
+Query= 000015F 000321971:E~000001688:B~000119072:E~000336924:B ctg_linear
+1226672 5883724
+
+Length=1203963
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5543826343844
+
+
+Query= 000016F 000248445:B~000151374:B~000269289:B~000267688:E ctg_linear
+1118587 5511761
+
+Length=1065562
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4906521986277
+
+
+Query= 000017F 000278961:E~000074867:E~000193982:E~000049081:B ctg_linear
+1103183 5229108
+
+Length=1080273
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4974262713614
+
+
+Query= 000018F 000100916:B~000288895:E~000232846:B~000116318:B ctg_linear
+1079075 5243609
+
+Length=1073310
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4942199720993
+
+
+Query= 000019F 000054940:B~000018736:E~000194118:E~000132051:E ctg_linear
+1059425 5271230
+
+Length=1044941
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4811567085970
+
+
+Query= 000020F 000281785:B~000108931:E~000118572:E~000249471:E ctg_linear
+1046628 4675337
+
+Length=1030260
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4743964501643
+
+
+Query= 000021F 000296041:B~000296041:B~000099847:B~000023298:B ctg_linear
+1045811 4817765
+
+Length=1036662
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4773444219977
+
+
+Query= 000022F 000011714:B~000269116:E~000148669:E~000249471:B ctg_linear
+14919 33837
+
+Length=14919
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 68962066286
+
+
+Query= 000023F 000306005:E~000160087:E~000158333:B~000027072:E ctg_linear
+939917 4472759
+
+Length=940428
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4330309072499
+
+
+Query= 000024F 000075720:E~000339902:E~000027072:B~000027072:B ctg_linear
+489 26158
+
+Length=489
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2172059030
+
+
+Query= 000025F 000006741:E~NA~000111292:B~000103090:E ctg_linear 907944
+4237260
+
+Length=917034
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4222585153301
+
+
+Query= 000026F 000041968:E~000104077:B~000131675:E~000153507:B ctg_linear
+884327 4158246
+
+Length=871543
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4013109697704
+
+
+Query= 000027F 000331684:E~000211585:E~000056076:B~000274777:E ctg_linear
+876203 3830908
+
+Length=870703
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4009241693424
+
+
+Query= 000028F 000093643:B~000194204:E~000223366:E~000012721:E ctg_linear
+834819 4057531
+
+Length=829731
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3820575179900
+
+
+Query= 000029F 000029760:E~000210552:B~000298741:E~000225296:B ctg_linear
+812040 3900524
+
+Length=808703
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3723746139424
+
+
+Query= 000030F 000337362:B~000337362:B~000209726:B~000147427:B ctg_linear
+806453 3813038
+
+Length=817067
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3762260410612
+
+
+Query= 000031F 000319483:E~000264606:E~000012721:B~000012721:B ctg_linear
+71044 377547
+
+Length=71044
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 328108691328
+
+
+Query= 000032F 000062548:B~000295648:B~000206162:B~000208575:E ctg_linear
+126353 573389
+
+Length=126353
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 583647775600
+
+
+Query= 000033F 000205586:E~NA~000319149:E~000110497:B ctg_linear 719396
+3418094
+
+Length=713771
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3290284628274
+
+
+Query= 000034F 000118699:B~000018179:B~000298484:B~000070503:B ctg_linear
+712119 3724674
+
+Length=712261
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3283323658134
+
+
+Query= 000035F 000038619:E~000121705:E~000082373:E~000089278:E ctg_linear
+653688 3111985
+
+Length=654060
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3015022053420
+
+
+Query= 000036F 000177875:E~000291584:E~000323557:B~000043267:B ctg_linear
+638266 3191102
+
+Length=638416
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2942904558804
+
+
+Query= 000037F 000308368:B~000279765:E~000107459:E~000260060:E ctg_linear
+635094 2837749
+
+Length=627566
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2892886991904
+
+
+Query= 000038F 000062401:B~000013281:E~000238689:B~000075275:E ctg_linear
+602940 2944554
+
+Length=585258
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2697850750392
+
+
+Query= 000039F 000167429:B~000166252:B~000265930:E~000128060:B ctg_linear
+585406 2619227
+
+Length=570006
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2627540342064
+
+
+Query= 000040F 000322742:E~000244629:E~000158898:B~000303293:B ctg_linear
+560519 2652177
+
+Length=548053
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2526338900022
+
+
+Query= 000041F 000003004:E~000073714:B~000071816:B~000176186:E ctg_linear
+554196 2737945
+
+Length=591555
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2726879378850
+
+
+Query= 000042F 000337362:E~NA~000013365:B~000335958:B ctg_linear 546339
+2540324
+
+Length=545164
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2513020858476
+
+
+Query= 000043F 000259905:E~000322003:E~000286107:B~000331853:B ctg_linear
+539073 2883357
+
+Length=539125
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2485181587830
+
+
+Query= 000044F 000221269:E~000114536:E~000023298:E~000023298:E ctg_linear
+15990 60494
+
+Length=15990
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 73921333928
+
+
+Query= 000045F 000128933:E~000217228:E~000185332:B~000277154:B ctg_linear
+527078 2748830
+
+Length=525919
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2424303063546
+
+
+Query= 000046F 000019881:B~000097524:E~000254284:E~000195492:B ctg_linear
+513292 2257983
+
+Length=494463
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2279293608762
+
+
+Query= 000047F 000138750:E~000052239:E~000040783:E~000093759:B ctg_linear
+508940 2321027
+
+Length=509031
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2346450835914
+
+
+Query= 000048F 000229753:B~000057026:E~000057026:E~000315895:E ctg_linear
+481136 2385436
+
+Length=479278
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2209292064672
+
+
+Query= 000049F 000101752:B~000148067:B~000140580:B~000015882:E ctg_linear
+473419 2132925
+
+Length=467240
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2153797919940
+
+
+Query= 000050F 000154012:E~000160332:B~000020812:E~000012721:B ctg_linear
+471632 2513625
+
+Length=471635
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2174058491970
+
+
+Query= 000051F 000041766:B~000019240:B~000319105:E~000040062:B ctg_linear
+457510 2172024
+
+Length=464541
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2141355762054
+
+
+Query= 000052F 000030728:E~000062643:E~000077240:B~000093643:B ctg_linear
+457250 2138667
+
+Length=461001
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2125036666494
+
+
+Query= 000053F 000244959:E~000031792:B~000101733:E~000246863:B ctg_linear
+456679 2170506
+
+Length=455495
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2099654480010
+
+
+Query= 000054F 000135089:E~000013401:B~000241504:B~000051323:E ctg_linear
+456035 2014626
+
+Length=446776
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2059460639844
+
+
+Query= 000055F 000223607:B~000208029:B~000173921:E~000338385:B ctg_linear
+445791 2475743
+
+Length=438582
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2021687004528
+
+
+Query= 000056F 000246745:B~000076930:B~000059191:E~000242628:E ctg_linear
+435111 2074744
+
+Length=435111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2005685993034
+
+
+Query= 000057F 000143849:B~000230365:B~000338085:B~000082840:B ctg_linear
+431408 2053026
+
+Length=431408
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1988615481492
+
+
+Query= 000058F 000228924:B~000114363:E~000240566:E~000023115:E ctg_linear
+407419 2036931
+
+Length=407085
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1876488543270
+
+
+Query= 000059F 000150438:E~000041090:B~000166745:E~000087606:B ctg_linear
+403709 2011735
+
+Length=403709
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1860925473606
+
+
+Query= 000060F 000205586:E~000205586:E~000107649:B~000283882:E ctg_linear
+400902 2015708
+
+Length=408308
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1882126468092
+
+
+Query= 000061F 000050889:B~000214373:B~000299098:E~000142730:E ctg_linear
+397908 1852650
+
+Length=395334
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1822317443856
+
+
+Query= 000062F 000323497:B~000340794:E~000030742:E~000078428:B ctg_linear
+395082 1824529
+
+Length=392287
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1808271035898
+
+
+Query= 000063F 000064369:E~000285119:B~000318525:B~000082659:E ctg_linear
+393972 1886918
+
+Length=379519
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1749411653946
+
+
+Query= 000064F 000113890:E~000025086:E~000019907:B~000235693:B ctg_linear
+392650 1915315
+
+Length=375292
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1729925547468
+
+
+Query= 000065F 000017925:E~000220376:E~000302120:B~000315343:B ctg_linear
+391129 1641812
+
+Length=397495
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1832279468010
+
+
+Query= 000066F 000037627:B~000176714:B~000229263:B~000066245:B ctg_linear
+389331 1794489
+
+Length=389331
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1794644130114
+
+
+Query= 000067F 000139959:E~000316506:E~000025560:E~000043267:E ctg_linear
+387523 1747864
+
+Length=412232
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1900215770628
+
+
+Query= 000068F 000010227:B~000285922:E~000224725:E~000137615:E ctg_linear
+387374 2130110
+
+Length=386184
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1780136730756
+
+
+Query= 000069F 000151304:E~000190264:E~000345148:E~000138909:B ctg_linear
+377483 2027801
+
+Length=377483
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1740025869042
+
+
+Query= 000070F 000026178:B~000062780:E~000150438:B~000079336:E ctg_linear
+377362 1758446
+
+Length=371020
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1710231994860
+
+
+Query= 000071F 000049067:E~000024963:E~000000133:B~000109573:E ctg_linear
+366840 1880967
+
+Length=377242
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1738914879768
+
+
+Query= 000072F 000284775:E~000194376:E~000308075:B~000330063:E ctg_linear
+364157 1839590
+
+Length=364157
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1678594155078
+
+
+Query= 000073F 000152490:E~000339436:B~000218707:E~000266540:E ctg_linear
+354366 1818543
+
+Length=354366
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1633458487104
+
+
+Query= 000074F 000050623:E~000050623:E~000046511:B~000250995:E ctg_linear
+354106 1851547
+
+Length=372108
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1715247581292
+
+
+Query= 000075F 000155218:E~000043534:B~000066619:E~000093432:B ctg_linear
+351583 1665730
+
+Length=351583
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1620629096442
+
+
+Query= 000076F 000009008:B~000107919:B~000070325:B~000296041:B ctg_linear
+350347 1908804
+
+Length=353860
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1631125870620
+
+
+Query= 000077F 000219383:E~NA~000306910:E~000055823:E ctg_linear 344936
+2266643
+
+Length=349890
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1612824512040
+
+
+Query= 000078F 000325608:B~000134564:E~000155102:E~000277593:E ctg_linear
+334874 1517587
+
+Length=334439
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1543322549010
+
+
+Query= 000079F 000027178:E~000236085:E~000056176:E~000333203:E ctg_linear
+332780 1303968
+
+Length=332780
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1535666162811
+
+
+Query= 000080F 000030102:B~000224829:B~000053617:B~000173858:B ctg_linear
+329618 1686369
+
+Length=332632
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1534983133783
+
+
+Query= 000081F 000087272:E~000287106:E~000066245:B~000083895:E ctg_linear
+324875 1662134
+
+Length=324875
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1499184105606
+
+
+Query= 000082F 000150183:B~000027996:E~000082543:E~000109573:B ctg_linear
+76952 274896
+
+Length=72088
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 332932188480
+
+
+Query= 000083F 000292050:B~000110446:B~000031425:E~000016261:E ctg_linear
+310083 1702386
+
+Length=308245
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1422435641176
+
+
+Query= 000084F 000071153:B~000171085:B~000082640:B~000327992:B ctg_linear
+305111 1224394
+
+Length=266727
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1230827538578
+
+
+Query= 000085F 000312729:E~000312729:E~000183582:E~000042148:B ctg_linear
+304829 1438369
+
+Length=304829
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1406670592800
+
+
+Query= 000086F 000283441:E~000187982:E~000277593:E~000271572:B ctg_linear
+290995 1285580
+
+Length=295956
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1365721156547
+
+
+Query= 000087F 000052380:B~000006234:E~000182150:B~000261173:B ctg_linear
+287476 1383788
+
+Length=287476
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1326585439267
+
+
+Query= 000088F 000205586:E~000243408:B~000335082:B~000041892:B ctg_linear
+284378 1318470
+
+Length=284378
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1312287980289
+
+
+Query= 000089F 000197311:B~000019217:B~000248877:B~000288719:E ctg_linear
+270510 1321699
+
+Length=270510
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1248286314341
+
+
+Query= 000090F 000231796:B~000186524:B~000063919:E~000243922:B ctg_linear
+267653 1510666
+
+Length=267653
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1235101085064
+
+
+Query= 000091F 000079336:B~000103722:E~000258293:B~000076560:B ctg_linear
+264705 1217879
+
+Length=264705
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1221495885236
+
+
+Query= 000092F 000053715:B~000342777:B~000254849:B~000193791:B ctg_linear
+262402 1324099
+
+Length=262402
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1210867399753
+
+
+Query= 000093F 000111039:B~000111039:B~000189307:B~000107649:B ctg_linear
+254738 1236935
+
+Length=254738
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1175497572249
+
+
+Query= 000094F 000049874:B~000093023:E~000336929:E~000309558:E ctg_linear
+253310 1100017
+
+Length=253310
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1168907265141
+
+
+Query= 000095F 000258919:B~000317043:B~000058175:E~000279387:E ctg_linear
+251401 1132230
+
+Length=251401
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1160097113692
+
+
+Query= 000096F 000116280:B~000148787:E~000339187:E~000175998:E ctg_linear
+251286 972630
+
+Length=240572
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1110120618123
+
+
+Query= 000097F 000036335:E~000187547:B~000348659:E~000054439:E ctg_linear
+248135 1129367
+
+Length=243960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1125756444791
+
+
+Query= 000098F 000284664:B~000184403:E~000248445:E~000315147:E ctg_linear
+228478 1003686
+
+Length=229770
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1060268729201
+
+
+Query= 000099F 000249665:B~000074543:B~000115335:B~000191534:E ctg_linear
+224942 973022
+
+Length=225364
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1039934770435
+
+
+Query= 000100F 000087735:B~000225241:E~000074995:E~000078875:E ctg_linear
+224078 1145782
+
+Length=224078
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1033999801989
+
+
+Query= 000101F 000063218:E~000269022:B~000292050:E~000072996:B ctg_linear
+223389 1052409
+
+Length=223389
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1030820024960
+
+
+Query= 000102F 000343686:B~000022723:E~000003413:E~000083129:B ctg_linear
+223128 702045
+
+Length=214123
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 988056869734
+
+
+Query= 000103F 000101204:E~000149965:B~000146787:B~000291548:B ctg_linear
+211110 1097471
+
+Length=200092
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 923302948843
+
+
+Query= 000104F 000338385:E~NA~000009800:B~000195492:E ctg_linear 209667
+1045453
+
+Length=200048
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 923099886159
+
+
+Query= 000105F 000282879:B~000229371:B~000321971:B~000186374:B ctg_linear
+208049 1087431
+
+Length=217848
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1005247971959
+
+
+Query= 000106F 000037452:B~000169226:B~000169226:B~000142730:B ctg_linear
+206954 903298
+
+Length=206487
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 952816263938
+
+
+Query= 000107F 000031319:E~000341324:B~000043267:B~000043267:B ctg_linear
+23616 46646
+
+Length=23616
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 109233542180
+
+
+Query= 000108F 000062548:E~NA~000017963:B~000338385:B ctg_linear 200008
+919235
+
+Length=198054
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 913897454525
+
+
+Query= 000109F 000308826:E~000257861:E~000130185:E~000076560:B ctg_linear
+199020 862204
+
+Length=200079
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 923242953050
+
+
+Query= 000110F 000238689:E~000326889:E~000021349:E~000071816:B ctg_linear
+194444 879276
+
+Length=189139
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 872754185710
+
+
+Query= 000111F 000331933:B~000168476:B~000059783:E~000261036:E ctg_linear
+193697 1166190
+
+Length=193697
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 893789633748
+
+
+Query= 000112F 000332423:E~000341545:E~000117716:B~000291425:B ctg_linear
+192302 889425
+
+Length=186425
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 860228910156
+
+
+Query= 000113F 000018741:E~000198052:E~000153610:E~000252818:E ctg_linear
+188126 993317
+
+Length=184015
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 849106613146
+
+
+Query= 000114F 000230300:B~000142787:B~000292762:B~000273778:E ctg_linear
+187185 1355828
+
+Length=187185
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 863736356516
+
+
+Query= 000115F 000055689:E~000166612:B~000090279:B~000162125:B ctg_linear
+181519 1139736
+
+Length=181519
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 837587420890
+
+
+Query= 000116F 000251102:B~000339060:B~000116318:E~000116318:E ctg_linear
+11935 44154
+
+Length=11935
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 55144648318
+
+
+Query= 000117F 000267688:B~000248982:B~000010150:E~000190088:E ctg_linear
+178851 968177
+
+Length=184135
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 849660420466
+
+
+Query= 000118F 000108209:E~000072169:E~000044600:E~000150128:B ctg_linear
+174844 819290
+
+Length=174844
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 806781888715
+
+
+Query= 000119F 000318642:E~000089666:B~000024693:E~000014717:B ctg_linear
+174660 898418
+
+Length=174660
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 805932717491
+
+
+Query= 000120F 000202210:E~000212213:B~000013287:E~000013287:E ctg_linear
+173059 699377
+
+Length=173059
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 798544004830
+
+
+Query= 000121F 000089598:B~000051310:E~000291643:E~000144201:E ctg_linear
+171853 962101
+
+Length=171853
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 792978241264
+
+
+Query= 000122F 000252405:B~000122731:E~000156964:E~000156964:E ctg_linear
+169319 775580
+
+Length=169319
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 781283676690
+
+
+Query= 000123F 000310401:E~000080976:E~000191043:E~000159715:E ctg_linear
+169176 827188
+
+Length=169176
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 780623722967
+
+
+Query= 000124F 000028807:B~000124875:E~000124875:E~000334548:E ctg_linear
+168318 861935
+
+Length=168318
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 776664000629
+
+
+Query= 000125F 000145410:E~000085902:B~000037113:E~000078702:B ctg_linear
+158904 836692
+
+Length=159130
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 734260820161
+
+
+Query= 000126F 000335958:B~000047495:B~000346951:E~000339848:B ctg_linear
+158626 701957
+
+Length=149441
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 689545494132
+
+
+Query= 000127F 000328097:E~000160259:B~000006132:E~000025325:E ctg_linear
+156056 669110
+
+Length=156056
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 720074122647
+
+
+Query= 000128F 000263006:B~000130151:B~000320042:B~000095529:B ctg_linear
+155718 900506
+
+Length=155718
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 718514232029
+
+
+Query= 000129F 000078875:B~000100352:B~000103851:E~000249471:B ctg_linear
+151500 692495
+
+Length=151500
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 699047904731
+
+
+Query= 000130F 000288563:E~000146824:E~000027955:B~000027955:B ctg_linear
+150170 438925
+
+Length=150170
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 692909873601
+
+
+Query= 000131F 000296220:E~000050920:E~000226613:B~000329844:E ctg_linear
+147863 759068
+
+Length=148525
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 685318098256
+
+
+Query= 000132F 000296484:E~000213163:E~000165148:E~000229549:B ctg_linear
+145539 723993
+
+Length=147786
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 681907568177
+
+
+Query= 000133F 000120285:E~000202516:E~000291892:E~000071675:E ctg_linear
+144984 547827
+
+Length=144984
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 669726870848
+
+
+Query= 000134F 000135776:B~NA~000030587:B~000263111:B ctg_linear 141667
+686531
+
+Length=138765
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 640993797296
+
+
+Query= 000135F 000278062:B~000275561:B~000053794:B~000325015:B ctg_linear
+139628 616908
+
+Length=139379
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 643830605008
+
+
+Query= 000136F 000296978:B~000039191:E~000111768:B~000051740:B ctg_linear
+139380 601899
+
+Length=139380
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 643835225216
+
+
+Query= 000137F 000103851:B~000106957:E~000203806:B~000338760:B ctg_linear
+137153 804704
+
+Length=137153
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 633546022000
+
+
+Query= 000138F 000115668:B~000224862:E~000101630:B~000179079:B ctg_linear
+136384 519901
+
+Length=136384
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 629993082048
+
+
+Query= 000139F 000044349:E~000071137:B~000061847:B~000098352:E ctg_linear
+134121 562379
+
+Length=136558
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 630796998240
+
+
+Query= 000140F 000062548:B~000230951:B~000123636:E~000208575:E ctg_linear
+133971 727630
+
+Length=133971
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 618844520144
+
+
+Query= 000141F 000095791:B~000160024:E~000316743:E~000265524:E ctg_linear
+130490 587368
+
+Length=122557
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 566109466032
+
+
+Query= 000142F 000015254:B~000287859:B~000175062:B~000290846:E ctg_linear
+124075 494523
+
+Length=124075
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 573122941776
+
+
+Query= 000143F 000348304:B~000346235:E~000025803:E~000216230:B ctg_linear
+123866 483526
+
+Length=124831
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 576615819024
+
+
+Query= 000144F 000292004:B~000338199:E~000342497:B~000156054:E ctg_linear
+123742 631156
+
+Length=118188
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 545923777280
+
+
+Query= 000145F 000046511:E~000101129:E~000101129:E~000115181:B ctg_linear
+121319 593240
+
+Length=121319
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 560389648528
+
+
+Query= 000146F 000266070:E~000032075:E~000318718:E~000318718:E ctg_linear
+120269 652499
+
+Length=120269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 555538430128
+
+
+Query= 000147F 000295838:B~000113457:B~000089364:B~000160026:E ctg_linear
+119841 520051
+
+Length=119841
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 553560981104
+
+
+Query= 000148F 000316535:E~000018235:E~000334548:E~000061668:E ctg_linear
+116479 626828
+
+Length=116479
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 538027841808
+
+
+Query= 000149F 000107222:B~000341721:E~000071675:E~000031739:E ctg_linear
+116337 629436
+
+Length=116337
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 537371772272
+
+
+Query= 000150F 000279802:E~000279802:E~000290846:E~000263288:B ctg_linear
+115340 644906
+
+Length=115340
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 532765424896
+
+
+Query= 000151F 000045334:B~000158603:E~000033051:B~000078702:E ctg_linear
+114678 491159
+
+Length=122620
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 566400539136
+
+
+Query= 000152F 000138191:B~000302412:E~000325015:E~000325015:E ctg_linear
+17514 18827
+
+Length=17514
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 80978218976
+
+
+Query= 000153F 000155910:B~000003227:B~000015533:E~000015533:E ctg_linear
+112227 444675
+
+Length=112227
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 518382717392
+
+
+Query= 000154F 000071560:B~000079046:B~000206673:E~000262468:E ctg_linear
+112036 415682
+
+Length=112036
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 517500257664
+
+
+Query= 000155F 000027072:E~000295318:B~000038975:E~000025698:B ctg_linear
+111675 462489
+
+Length=111675
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 515832362576
+
+
+Query= 000156F 000238294:E~000100969:B~000201331:E~000295967:E ctg_linear
+108446 426518
+
+Length=108446
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 500913710944
+
+
+Query= 000157F 000257993:B~000208048:B~000170212:E~000170212:E ctg_linear
+106845 462116
+
+Length=106845
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 493516757936
+
+
+Query= 000158F 000148122:B~NA~000149573:B~000193500:E ctg_linear 104706
+508556
+
+Length=104706
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 483634133024
+
+
+Query= 000159F 000135776:B~000172808:B~000194318:B~000108953:B ctg_linear
+103194 496485
+
+Length=102099
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 471589250768
+
+
+Query= 000160F 000173109:E~000041375:B~000345197:B~000246741:E ctg_linear
+103148 413281
+
+Length=103148
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 476435848960
+
+
+Query= 000161F 000347362:B~000231892:B~000165270:B~000031739:B ctg_linear
+100829 359882
+
+Length=96554
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 445970197408
+
+
+Query= 000162F 000011714:E~000343660:E~000050845:E~000338385:B ctg_linear
+99967 500101
+
+Length=99967
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 461738967312
+
+
+Query= 000163F 000213426:B~000250816:B~000335653:E~000335653:E ctg_linear
+99313 556763
+
+Length=99313
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 458717351280
+
+
+Query= 000164F 000027991:E~NA~000085011:B~000278062:E ctg_linear 98908
+602708
+
+Length=98908
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 456846167040
+
+
+Query= 000165F 000176018:E~000299088:E~000004734:B~000276868:B ctg_linear
+96922 268135
+
+Length=96922
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 447670433952
+
+
+Query= 000166F 000122201:B~000115433:E~000043022:B~000325015:E ctg_linear
+96462 373688
+
+Length=96446
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 445471214944
+
+
+Query= 000167F 000131759:E~000021273:B~000172397:E~000028807:B ctg_linear
+94989 351372
+
+Length=94989
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 438739571888
+
+
+Query= 000168F 000072859:E~000314011:E~000081672:B~000181741:B ctg_linear
+94837 510929
+
+Length=98427
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 454623846992
+
+
+Query= 000169F 000016022:E~000086643:B~000336924:B~000323767:E ctg_linear
+93744 513378
+
+Length=93744
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 432987412928
+
+
+Query= 000170F 000163389:B~000329934:B~000295838:E~000132961:B ctg_linear
+92643 384836
+
+Length=92643
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 427900563920
+
+
+Query= 000171F 000312729:B~000152716:E~000229003:B~000290846:E ctg_linear
+91791 387716
+
+Length=91791
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 423964146704
+
+
+Query= 000172F 000278539:B~000269788:E~000082659:E~000039694:E ctg_linear
+91549 431419
+
+Length=91549
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 422846056368
+
+
+Query= 000173F 000072996:B~000286601:B~000312158:B~000312158:B ctg_linear
+90853 420942
+
+Length=90853
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 419630391600
+
+
+Query= 000174F 000069656:E~000175033:E~000054940:E~000118572:E ctg_linear
+89257 413883
+
+Length=89538
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 413554818080
+
+
+Query= 000175F 000085877:E~000343311:E~000229764:E~000101456:B ctg_linear
+88493 374196
+
+Length=87897
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 405973056752
+
+
+Query= 000176F 000123942:B~000181273:E~000072996:B~000072996:B ctg_linear
+88370 499521
+
+Length=88370
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 408158415136
+
+
+Query= 000177F 000092205:B~000340266:B~000344793:E~000344793:E ctg_linear
+87546 366530
+
+Length=87546
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 404351363744
+
+
+Query= 000178F 000286107:E~000308368:E~000308368:E~000323159:E ctg_linear
+86982 511433
+
+Length=86982
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 401745566432
+
+
+Query= 000179F 000226507:E~000345501:B~000324069:E~000324069:E ctg_linear
+86191 437433
+
+Length=86191
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 398090981904
+
+
+Query= 000180F 000193594:E~000268970:E~000309437:E~000309437:E ctg_linear
+86111 468485
+
+Length=86111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 397721365264
+
+
+Query= 000181F 000341793:B~000156789:B~000119690:E~000180053:B ctg_linear
+85454 720065
+
+Length=85571
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 395226452944
+
+
+Query= 000182F 000177252:E~000121478:E~000039984:B~000072162:B ctg_linear
+84535 390816
+
+Length=84535
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 390439917456
+
+
+Query= 000183F 000338085:E~000050334:B~000241344:B~000301526:B ctg_linear
+83993 396384
+
+Length=83993
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 387935764720
+
+
+Query= 000184F 000072162:E~000031227:E~000278822:B~000278822:B ctg_linear
+83781 268081
+
+Length=83781
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 386956280624
+
+
+Query= 000185F 000077916:E~000031311:E~000130008:B~000130008:B ctg_linear
+83413 286741
+
+Length=83413
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 385256044080
+
+
+Query= 000186F 000244322:B~000190476:B~000009900:B~000337362:B ctg_linear
+81346 404735
+
+Length=77684
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 358786872448
+
+
+Query= 000187F 000278062:B~000098993:B~000278062:E~000278062:E ctg_linear
+78142 373064
+
+Length=78142
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 360902927712
+
+
+Query= 000188F 000171844:B~000291121:E~000270613:E~000171844:E ctg_linear
+76492 230852
+
+Length=76492
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 353279584512
+
+
+Query= 000189F 000017969:B~000062209:E~000062209:E~000118696:E ctg_linear
+76104 353973
+
+Length=76104
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 351486943808
+
+
+Query= 000190F 000306633:E~000100664:E~000140955:E~000140955:E ctg_linear
+75690 246940
+
+Length=75690
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 349574177696
+
+
+Query= 000191F 000168439:B~000216144:B~000095791:E~000171134:E ctg_linear
+73509 212775
+
+Length=73509
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 339497504048
+
+
+Query= 000192F 000326931:B~000072602:E~000304429:E~000097502:B ctg_linear
+68530 387033
+
+Length=71254
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 329078935008
+
+
+Query= 000193F 000238923:E~000046742:B~000173118:E~000173118:E ctg_linear
+68112 378610
+
+Length=68112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 314562241472
+
+
+Query= 000194F 000043267:E~000348496:E~000257898:E~000028807:B ctg_linear
+67602 299112
+
+Length=69508
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 321012051840
+
+
+Query= 000195F 000185371:B~000201539:B~000110325:B~000110325:B ctg_linear
+67171 331797
+
+Length=67171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 310214625744
+
+
+Query= 000196F 000309437:B~000030103:E~000336651:E~000023414:E ctg_linear
+65383 300799
+
+Length=65383
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 301953693840
+
+
+Query= 000197F 000136302:E~000208383:B~000282454:E~000124162:E ctg_linear
+64800 349464
+
+Length=64800
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 299260112576
+
+
+Query= 000198F 000121008:E~000145079:B~000088932:E~000088932:E ctg_linear
+62791 276271
+
+Length=62791
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 289978114704
+
+
+Query= 000199F 000135776:E~000025660:E~000040783:E~000040783:E ctg_linear
+62543 281896
+
+Length=62543
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 288832303120
+
+
+Query= 000200F 000159709:B~000225200:E~000342914:E~000031739:B ctg_linear
+59492 172994
+
+Length=59492
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 275046735075
+
+
+Query= 000201F 000058175:B~000193647:E~000079336:E~000079336:E ctg_linear
+57851 308079
+
+Length=57851
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 267456527520
+
+
+Query= 000202F 000047125:E~000078232:E~000257009:E~000257009:E ctg_linear
+56413 250280
+
+Length=56413
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 260805267030
+
+
+Query= 000203F 000336247:B~000182999:B~000110497:E~000110497:E ctg_linear
+5123 20865
+
+Length=5123
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23632538602
+
+
+Query= 000204F 000278062:E~000326660:B~000191986:B~000191986:B ctg_linear
+56332 288056
+
+Length=56332
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 260430613275
+
+
+Query= 000205F 000075713:E~000006799:E~000274749:B~000274749:B ctg_linear
+55640 252905
+
+Length=55640
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 257229867615
+
+
+Query= 000206F 000282454:B~000282454:B~000095318:E~000070499:B ctg_linear
+54108 218566
+
+Length=54108
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 250143823755
+
+
+Query= 000207F 000209711:B~000160851:B~000028807:E~000028807:E ctg_linear
+53960 254874
+
+Length=53960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 249459271215
+
+
+Query= 000208F 000036820:B~000323397:E~000323397:E~000278300:B ctg_linear
+52849 97954
+
+Length=52849
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 244320501810
+
+
+Query= 000209F 000082373:B~000205773:B~000087719:B~000069870:B ctg_linear
+51593 205654
+
+Length=54010
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 249690538965
+
+
+Query= 000210F 000170297:E~000347874:B~000300511:B~000300511:B ctg_linear
+51556 140475
+
+Length=51556
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 238339917795
+
+
+Query= 000211F 000109160:B~000229862:B~000118696:E~000182706:B ctg_linear
+51487 140297
+
+Length=51487
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 238020768300
+
+
+Query= 000212F 000334308:B~000321905:B~000137913:B~000182600:E ctg_linear
+51023 192664
+
+Length=51023
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 235874603580
+
+
+Query= 000213F 000177116:B~000094973:E~000150013:B~000150013:B ctg_linear
+50797 351547
+
+Length=50797
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 234829273350
+
+
+Query= 000214F 000196719:B~000182199:E~000065447:E~000103090:E ctg_linear
+49415 229810
+
+Length=49415
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 228437032740
+
+
+Query= 000215F 000076560:E~000113622:E~000278300:E~000278300:E ctg_linear
+31660 127774
+
+Length=31660
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 146313854715
+
+
+Query= 000216F 000125913:E~000271783:E~000153256:E~000125913:E ctg_linear
+46725 317863
+
+Length=45245
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 209149302390
+
+
+Query= 000217F 000109713:B~000157990:B~000313774:B~000276868:B ctg_linear
+46521 225242
+
+Length=46521
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 215051255370
+
+
+Query= 000218F 000268528:E~000113665:E~000169748:B~000028297:E ctg_linear
+46368 194360
+
+Length=46368
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 214343576055
+
+
+Query= 000219F 000087735:B~000104786:B~000337241:E~000087735:B ctg_linear
+44640 265596
+
+Length=44640
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 206350962615
+
+
+Query= 000220F 000269256:B~000313119:E~000247541:E~000008003:B ctg_linear
+44564 98964
+
+Length=44564
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 205999435635
+
+
+Query= 000221F 000153261:B~000153261:B~000167340:E~000034244:E ctg_linear
+44347 125820
+
+Length=44347
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 204995733600
+
+
+Query= 000222F 000113268:E~000125902:B~000027178:B~000027178:B ctg_linear
+44179 113754
+
+Length=44179
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 204218673960
+
+
+Query= 000223F 000331684:B~000296091:B~000049469:B~000049469:B ctg_linear
+43934 235643
+
+Length=43934
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 203085461985
+
+
+Query= 000224F 000201695:E~000120566:E~000182706:E~000182706:E ctg_linear
+13802 27763
+
+Length=13802
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 63789795552
+
+
+Query= 000225F 000335958:E~000034781:B~000027178:E~000027178:E ctg_linear
+42467 198418
+
+Length=42467
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 196300066200
+
+
+Query= 000226F 000258826:B~000043427:E~000059945:E~000017325:E ctg_linear
+42222 262201
+
+Length=42222
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 195166854225
+
+
+Query= 000227F 000078323:B~000220140:E~000268764:B~000027178:B ctg_linear
+41859 51525
+
+Length=41859
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 193487850360
+
+
+Query= 000228F 000341793:E~000238088:B~000273497:B~000341793:B ctg_linear
+41312 9385
+
+Length=41312
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 190957781175
+
+
+Query= 000229F 000043267:E~000163967:E~000174068:B~000174068:B ctg_linear
+40809 216508
+
+Length=40809
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 188631227610
+
+
+Query= 000230F 000331965:E~000317167:B~000317167:B~000327630:E ctg_linear
+40790 276428
+
+Length=40778
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 188487841605
+
+
+Query= 000231F 000259396:B~000259396:B~000349374:B~000093643:E ctg_linear
+39945 151761
+
+Length=39945
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 184634920890
+
+
+Query= 000232F 000246741:B~000162753:B~000258826:B~000258826:B ctg_linear
+1892 23344
+
+Length=1892
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8683267467
+
+
+Query= 000233F 000015948:B~000080127:B~000057519:B~000057519:B ctg_linear
+38171 144044
+
+Length=38171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 176429541120
+
+
+Query= 000234F 000201393:B~000198444:E~000194363:B~000194363:B ctg_linear
+37752 135123
+
+Length=37752
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 174491517375
+
+
+Query= 000235F 000063343:E~000308720:E~000255850:E~000255850:E ctg_linear
+37471 39536
+
+Length=37471
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 173191792620
+
+
+Query= 000236F 000040943:B~000275392:E~000004097:B~000004097:B ctg_linear
+37279 121277
+
+Length=37279
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 172303724460
+
+
+Query= 000237F 000157402:B~000248453:E~000230570:B~000065061:E ctg_linear
+37146 189620
+
+Length=37146
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 171688552245
+
+
+Query= 000238F 000052380:B~000179457:E~000130959:E~000027765:B ctg_linear
+36993 128066
+
+Length=36993
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 170980872930
+
+
+Query= 000239F 000240833:E~000309119:E~000098162:B~000183834:E ctg_linear
+36411 33595
+
+Length=36411
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 168288916320
+
+
+Query= 000240F 000200103:E~000069542:B~000158527:E~000338385:B ctg_linear
+36357 142169
+
+Length=36357
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 168039147150
+
+
+Query= 000241F 000180053:B~000295897:E~000295897:E~000101650:B ctg_linear
+36337 27237
+
+Length=36298
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 167766251205
+
+
+Query= 000242F 000109573:E~000199871:E~000068484:B~000068484:B ctg_linear
+33835 205857
+
+Length=33835
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 156374001840
+
+
+Query= 000243F 000052380:B~000239758:B~000031939:E~000079632:B ctg_linear
+33548 36224
+
+Length=33548
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 155046524955
+
+
+Query= 000244F 000060194:E~000076725:E~000286107:B~000286107:B ctg_linear
+32871 139208
+
+Length=32871
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 151915159620
+
+
+Query= 000245F 000040537:B~000333582:E~000333582:E~000342914:E ctg_linear
+32748 65972
+
+Length=30287
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 139963242300
+
+
+Query= 000246F 000119690:B~000231586:B~000347733:E~000347733:E ctg_linear
+32252 9155
+
+Length=32252
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 149052064875
+
+
+Query= 000247F 000241033:B~000166011:B~000166011:B~000073831:B ctg_linear
+32135 34143
+
+Length=32135
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 148510898340
+
+
+Query= 000248F 000276868:B~000293532:B~000287167:B~000287167:B ctg_linear
+31534 105160
+
+Length=31534
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 145731059985
+
+
+Query= 000249F 000221269:E~000328928:E~000279156:E~000189778:E ctg_linear
+31065 66351
+
+Length=31065
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 143561768490
+
+
+Query= 000250F 000268333:E~000071769:E~000250403:E~000017325:B ctg_linear
+24895 65506
+
+Length=24895
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 115155954238
+
+
+Query= 000251F 000188898:E~000120739:E~000203760:B~000203760:B ctg_linear
+29646 73420
+
+Length=29646
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 136998389745
+
+
+Query= 000252F 000276868:B~000063786:B~000172387:E~000276868:B ctg_linear
+29497 65501
+
+Length=29497
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 136309211850
+
+
+Query= 000253F 000036820:B~000050367:B~000103090:E~000103090:E ctg_linear
+29396 43578
+
+Length=29396
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 135842050995
+
+
+Query= 000254F 000291892:B~000067436:E~000110780:B~000110780:B ctg_linear
+28827 106093
+
+Length=28827
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 133210224000
+
+
+Query= 000255F 000315804:E~000285530:B~000300192:B~000315804:E ctg_linear
+28521 36645
+
+Length=28521
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 131794865370
+
+
+Query= 000256F 000300119:B~000006783:E~000163762:E~000163762:E ctg_linear
+28490 5135
+
+Length=28490
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 131651479365
+
+
+Query= 000257F 000201239:E~000031045:B~000326654:E~000065478:B ctg_linear
+28449 125781
+
+Length=25064
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 115938509076
+
+
+Query= 000258F 000078702:B~000092012:B~000273773:B~000078702:B ctg_linear
+28430 114439
+
+Length=28430
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 131373958065
+
+
+Query= 000259F 000055823:E~000241551:E~000034244:E~000034244:E ctg_linear
+28073 6943
+
+Length=28073
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 129722706330
+
+
+Query= 000260F 000006741:E~NA~000007392:B~000307511:B ctg_linear 27823
+31848
+
+Length=27029
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 124893835710
+
+
+Query= 000261F 000153261:E~000109523:E~000034244:B~000034244:B ctg_linear
+27802 10475
+
+Length=27802
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 128469235125
+
+
+Query= 000262F 000153261:E~000101699:B~000324523:B~000034244:B ctg_linear
+27778 226693
+
+Length=27778
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 128358226605
+
+
+Query= 000263F 000137149:B~000135754:B~000184292:B~000184292:B ctg_linear
+27029 53214
+
+Length=27029
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 124893835710
+
+
+Query= 000264F 000180053:E~000064593:B~000010264:E~000010264:E ctg_linear
+26004 4783
+
+Length=26004
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 120291180956
+
+
+Query= 000265F 000180053:E~000117497:E~000010264:E~000010264:E ctg_linear
+25992 6883
+
+Length=25992
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 120235614932
+
+
+Query= 000266F 000180053:E~000091402:B~000010264:E~000010264:E ctg_linear
+25921 13964
+
+Length=25921
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 119906849290
+
+
+Query= 000267F 000208099:E~000168511:B~000203704:E~000203704:E ctg_linear
+25708 78232
+
+Length=25708
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 118920552364
+
+
+Query= 000268F 000296152:E~000111802:E~000065657:E~000100361:E ctg_linear
+25706 33919
+
+Length=25706
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 118911291360
+
+
+Query= 000269F 000001729:B~000062111:E~000062111:E~000139736:E ctg_linear
+25701 16758
+
+Length=25701
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 118888138850
+
+
+Query= 000270F 000247541:B~000317421:B~000081089:B~000170055:B ctg_linear
+25700 59953
+
+Length=25700
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 118883508348
+
+
+Query= 000271F 000279743:E~000075885:E~000136032:B~000136032:B ctg_linear
+25154 28142
+
+Length=25154
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 116355254256
+
+
+Query= 000272F 000017325:E~000221667:B~000061631:B~000061631:B ctg_linear
+25018 8405
+
+Length=25018
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 115725505984
+
+
+Query= 000273F 000320551:B~000198794:B~000078726:E~000130489:E ctg_linear
+24869 107790
+
+Length=24869
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 115035561186
+
+
+Query= 000274F 000017325:E~000044225:E~000300879:B~000258826:B ctg_linear
+24837 23763
+
+Length=24837
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 114887385122
+
+
+Query= 000275F 000084736:B~000348057:B~000292781:B~000292781:B ctg_linear
+24698 41293
+
+Length=24698
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 114243745344
+
+
+Query= 000276F 000119690:B~000054632:E~000207195:E~000207195:E ctg_linear
+24494 11304
+
+Length=24494
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 113299122936
+
+
+Query= 000277F 000229008:B~000266052:E~000318679:B~000318679:B ctg_linear
+24335 58847
+
+Length=24335
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 112562873118
+
+
+Query= 000278F 000207883:B~000195870:B~000337014:B~000309558:B ctg_linear
+23912 92676
+
+Length=23912
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 110604170772
+
+
+Query= 000279F 000011714:B~000188842:B~000330992:E~000330992:E ctg_linear
+23731 119499
+
+Length=23731
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 109766049910
+
+
+Query= 000280F 000161405:E~000264156:B~000028954:B~000028954:B ctg_linear
+23604 8326
+
+Length=23604
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 109177976156
+
+
+Query= 000281F 000217209:E~000059571:E~000331371:B~000331371:B ctg_linear
+23209 33280
+
+Length=23209
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 107348927866
+
+
+Query= 000282F 000338385:B~000154711:B~000070499:B~000221269:B ctg_linear
+22843 20815
+
+Length=22843
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 105654164134
+
+
+Query= 000283F 000155083:B~000107697:E~000103090:E~000103090:E ctg_linear
+22676 11922
+
+Length=22676
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 104880870300
+
+
+Query= 000284F 000016437:E~000128513:E~000289048:B~000016437:E ctg_linear
+22619 40211
+
+Length=22619
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 104616931686
+
+
+Query= 000285F 000242828:B~000090344:E~000336512:B~000173885:E ctg_linear
+22462 49031
+
+Length=20249
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 93642641946
+
+
+Query= 000286F 000276868:E~000053824:E~000063343:B~000063343:B ctg_linear
+21948 6780
+
+Length=21948
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 101509864844
+
+
+Query= 000287F 000101630:E~000262892:B~000185538:E~000185538:E ctg_linear
+21914 9365
+
+Length=21914
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 101352427776
+
+
+Query= 000288F 000334206:E~000112132:E~000185169:B~000185169:B ctg_linear
+21607 4324
+
+Length=21607
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 99930863662
+
+
+Query= 000289F 000043261:E~000341441:B~000203760:B~000109713:E ctg_linear
+21519 163997
+
+Length=21519
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 99523379486
+
+
+Query= 000290F 000080312:B~000034619:E~000015254:E~000015254:E ctg_linear
+21241 9658
+
+Length=21241
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 98236099930
+
+
+Query= 000291F 000171844:E~000312520:B~000163467:B~000163467:B ctg_linear
+20849 49072
+
+Length=20849
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 96420943146
+
+
+Query= 000292F 000336880:B~000129901:B~000073831:B~000311908:E ctg_linear
+20729 17343
+
+Length=20729
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 95865282906
+
+
+Query= 000293F 000173885:B~000335149:E~000173885:E~000173885:E ctg_linear
+20445 36288
+
+Length=20445
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 94550220338
+
+
+Query= 000294F 000334206:E~000073190:E~000100361:B~000100361:B ctg_linear
+13449 20462
+
+Length=13449
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 62155228346
+
+
+Query= 000295F 000334016:E~000027261:B~000094649:E~000094649:E ctg_linear
+20242 28291
+
+Length=20242
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 93610228432
+
+
+Query= 000296F 000331624:E~000067651:E~000101456:B~000101456:B ctg_linear
+20128 15418
+
+Length=20128
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 93082351204
+
+
+Query= 000297F 000201331:B~000201331:B~000137819:E~000137819:E ctg_linear
+19984 2649
+
+Length=19984
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 92415558916
+
+
+Query= 000298F 000044124:E~000269427:B~000090204:B~000090204:B ctg_linear
+19881 10124
+
+Length=19881
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 91938617210
+
+
+Query= 000299F 000079889:B~000249591:E~000323464:B~000323464:B ctg_linear
+19706 14840
+
+Length=19706
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 91128279360
+
+
+Query= 000300F 000198191:B~000294549:E~000076560:B~000076560:B ctg_linear
+19686 10564
+
+Length=19686
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 91035669320
+
+
+Query= 000301F 000276868:E~000135335:B~000109261:E~000109261:E ctg_linear
+19651 12680
+
+Length=19651
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 90873601750
+
+
+Query= 000302F 000024693:B~000297501:E~000229008:E~000229008:E ctg_linear
+19486 11070
+
+Length=19486
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 90109568920
+
+
+Query= 000303F 000065657:B~000012011:B~000239634:B~000239634:B ctg_linear
+19463 18660
+
+Length=19463
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 90003067374
+
+
+Query= 000304F 000028954:E~000066571:E~000239634:B~000239634:B ctg_linear
+19351 17799
+
+Length=19351
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 89484451150
+
+
+Query= 000305F 000276868:E~000029532:E~000063343:B~000063343:B ctg_linear
+19297 5148
+
+Length=19297
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 89234404042
+
+
+Query= 000306F 000039373:E~000213772:B~000318693:B~000065657:E ctg_linear
+19076 39932
+
+Length=28630
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 132299029065
+
+
+Query= 000307F 000071327:B~000263393:B~000029839:E~000119544:E ctg_linear
+18998 36164
+
+Length=18998
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 87849883944
+
+
+Query= 000308F 000094339:B~000258381:E~000295199:B~000295199:B ctg_linear
+18942 11276
+
+Length=18942
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 87590575832
+
+
+Query= 000309F 000276868:E~000227865:B~000227865:B~000043261:E ctg_linear
+18817 10718
+
+Length=18817
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 87011763082
+
+
+Query= 000310F 000006741:E~000087892:B~000335518:B~000335518:B ctg_linear
+18700 13791
+
+Length=18700
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 86469994348
+
+
+Query= 000311F 000276868:E~000195210:E~000043261:E~000043261:E ctg_linear
+18628 6312
+
+Length=18628
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 86136598204
+
+
+Query= 000312F 000252639:E~000109415:E~000309558:E~000309558:E ctg_linear
+18508 64771
+
+Length=18508
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 85580937964
+
+
+Query= 000313F 000259396:B~000248674:B~000112989:E~000112989:E ctg_linear
+18505 68467
+
+Length=18505
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 85567046458
+
+
+Query= 000314F 000063343:B~000047864:B~000134036:B~000288266:E ctg_linear
+18411 38407
+
+Length=18411
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 85131779270
+
+
+Query= 000315R 000276868:E~000321138:E~000321138:E~000063343:B ctg_linear
+20432 24114
+
+Length=20432
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 94490023812
+
+
+Query= 000316F 000210839:E~000048828:B~000335579:B~000335579:B ctg_linear
+18237 23609
+
+Length=18237
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 84326071922
+
+
+Query= 000317F 000276868:E~000194971:B~000043261:E~000043261:E ctg_linear
+18052 9771
+
+Length=18052
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 83469429052
+
+
+Query= 000318F 000122298:B~000048102:B~000109861:E~000109861:E ctg_linear
+18043 10807
+
+Length=18043
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 83427754534
+
+
+Query= 000319F 000182025:B~000182025:B~000330756:B~000292762:B ctg_linear
+18006 12124
+
+Length=18006
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 83256425960
+
+
+Query= 000320F 000043267:E~000079321:E~000147770:B~000147770:B ctg_linear
+17977 18051
+
+Length=17977
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 83122141402
+
+
+Query= 000321F 000306535:B~000338738:B~000006741:B~000006741:B ctg_linear
+17739 5587
+
+Length=17739
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 82020081926
+
+
+Query= 000322F 000136302:B~000006160:E~000220414:E~000220414:E ctg_linear
+17595 36071
+
+Length=17595
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 81353289638
+
+
+Query= 000323F 000115230:B~000108021:E~000336880:E~000336880:E ctg_linear
+17486 28684
+
+Length=17486
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 80848564920
+
+
+Query= 000324F 000276868:E~000176482:B~000043261:E~000043261:E ctg_linear
+17458 6004
+
+Length=17458
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 80718910864
+
+
+Query= 000325F 000240496:B~000127120:B~000130008:B~000130008:B ctg_linear
+17420 17712
+
+Length=17420
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 80542951788
+
+
+Query= 000326F 000053794:E~000246136:E~000332523:B~000332523:B ctg_linear
+17418 21487
+
+Length=17418
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 80533690784
+
+
+Query= 000327F 000038996:E~000132537:E~000122242:E~000122242:E ctg_linear
+17291 27726
+
+Length=17291
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79945617030
+
+
+Query= 000328F 000190328:B~000048509:B~000048509:B~000190328:B ctg_linear
+17218 37214
+
+Length=17218
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79607590384
+
+
+Query= 000329F 000160351:E~000236488:E~000336880:E~000336880:E ctg_linear
+17069 31519
+
+Length=17069
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 78917645586
+
+
+Query= 000330F 000061518:E~000183065:E~000340109:E~000340109:E ctg_linear
+17026 9827
+
+Length=17026
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 78718534000
+
+
+Query= 000331F 000062209:B~000062209:B~000078202:B~000078202:B ctg_linear
+16969 8477
+
+Length=16969
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 78454595386
+
+
+Query= 000332F 000160351:E~000343449:B~000145792:E~000145792:E ctg_linear
+16959 10756
+
+Length=16959
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 78408290366
+
+
+Query= 000333F 000280372:E~000146085:E~000239634:B~000239634:B ctg_linear
+16924 18846
+
+Length=16924
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 78246222796
+
+
+Query= 000334F 000027765:E~000027765:E~000015254:E~000031939:E ctg_linear
+16805 48130
+
+Length=16805
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 77695193058
+
+
+Query= 000335F 000098962:E~000256852:E~000243306:B~000243306:B ctg_linear
+16616 22525
+
+Length=16616
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 76820028180
+
+
+Query= 000336F 000095529:E~000195492:E~000195492:E~000195492:E ctg_linear
+2705 13880
+
+Length=2705
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12441974076
+
+
+Query= 000337F 000291956:E~000315776:E~000082373:E~000082373:E ctg_linear
+16522 8058
+
+Length=16522
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 76384760992
+
+
+Query= 000338F 000276868:E~000129485:B~000063343:B~000063343:B ctg_linear
+16457 40906
+
+Length=16457
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 76083778362
+
+
+Query= 000339F 000335518:E~000334951:B~000331684:B~000331684:B ctg_linear
+16452 9116
+
+Length=16452
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 76060625852
+
+
+Query= 000340F 000074995:B~000203841:B~000203806:B~000203806:B ctg_linear
+16423 24889
+
+Length=16423
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 75926341294
+
+
+Query= 000341F 000207195:B~NA~000123024:E~000341793:B ctg_linear 16335
+193584
+
+Length=19836
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 91730244620
+
+
+Query= 000342F 000142730:E~000090619:E~000142730:B~000142730:B ctg_linear
+16098 27876
+
+Length=16098
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 74421428144
+
+
+Query= 000343F 000043261:B~000111705:B~000321138:B~000321138:B ctg_linear
+16077 18006
+
+Length=16077
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 74324187602
+
+
+Query= 000344F 000291956:E~000228969:E~000082373:E~000082373:E ctg_linear
+15960 11888
+
+Length=15960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 73782418868
+
+
+Query= 000345F 000080747:B~000091469:B~000248419:B~000248419:B ctg_linear
+15925 18750
+
+Length=15925
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 73620351298
+
+
+Query= 000346F 000252916:B~000049067:B~000049067:B~000156268:B ctg_linear
+15887 10012
+
+Length=15887
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 73444392222
+
+
+Query= 000347F 000241033:B~000341569:B~000227575:E~000336880:B ctg_linear
+15401 34810
+
+Length=15401
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 71193968250
+
+
+Query= 000348F 000336880:E~000170897:E~000249116:E~000065370:B ctg_linear
+15149 19446
+
+Length=15149
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 70027081746
+
+
+Query= 000349F 000171767:E~000171767:E~000318525:B~000318525:B ctg_linear
+15038 5942
+
+Length=15038
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 69513096024
+
+
+Query= 000350F 000196719:E~000210590:B~000210590:B~000210590:B ctg_linear
+14914 11831
+
+Length=14914
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 68938913776
+
+
+Query= 000351F 000291956:E~000242864:E~000082373:E~000082373:E ctg_linear
+14828 14900
+
+Length=14828
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 68540690604
+
+
+Query= 000352F 000028297:E~000251434:B~000102451:B~000102451:B ctg_linear
+14769 88053
+
+Length=14769
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 68267490986
+
+
+Query= 000353F 000060463:B~000312256:E~000334206:B~000334206:B ctg_linear
+14623 11734
+
+Length=14623
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 67591437694
+
+
+Query= 000354F 000029537:E~000030357:E~000030357:E~000030357:E ctg_linear
+14609 6593
+
+Length=14609
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 67526610666
+
+
+Query= 000355F 000240833:B~000082180:B~000208684:E~000208684:E ctg_linear
+14509 16023
+
+Length=14509
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 67063560466
+
+
+Query= 000356F 000302120:E~000270942:E~000101543:E~000101543:E ctg_linear
+14372 66596
+
+Length=14372
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 66429181692
+
+
+Query= 000357F 000060463:B~000109976:E~000303293:B~000303293:B ctg_linear
+14310 12535
+
+Length=14310
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 66142090568
+
+
+Query= 000358F 000158527:B~000210590:E~000210590:E~000210590:E ctg_linear
+14250 12495
+
+Length=14250
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 65864260448
+
+
+Query= 000359F 000008003:E~000306155:E~000312729:E~000312729:E ctg_linear
+13876 27719
+
+Length=13876
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 64132452700
+
+
+Query= 000360F 000203806:E~000035022:E~000124875:E~000124875:E ctg_linear
+13631 14658
+
+Length=13631
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 62997979710
+
+
+Query= 000361F 000145299:E~000210590:B~000210590:B~000210590:B ctg_linear
+9432 17313
+
+Length=9432
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 43607550143
+
+
+Query= 000362F 000153261:B~000162928:B~000028297:B~000028297:B ctg_linear
+13438 158814
+
+Length=13438
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 62104292824
+
+
+Query= 000363F 000332251:E~000167344:E~000135959:B~000135959:B ctg_linear
+13231 36700
+
+Length=13231
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 61145778910
+
+
+Query= 000364F 000311802:B~000335918:E~000252594:E~000252594:E ctg_linear
+13181 39186
+
+Length=13181
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 60914253810
+
+
+Query= 000365F 000201623:E~000195241:B~000338385:B~000338385:B ctg_linear
+13040 42680
+
+Length=13040
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 60261353028
+
+
+Query= 000366F 000139255:B~000084362:B~000239634:B~000239634:B ctg_linear
+12573 23414
+
+Length=12573
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 58098908594
+
+
+Query= 000367F 000180053:E~000173230:B~000050057:B~000050057:B ctg_linear
+12235 31448
+
+Length=12235
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 56533798918
+
+
+Query= 000368F 000154484:B~000203679:B~000321309:E~000321309:E ctg_linear
+12196 41047
+
+Length=12196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 56353209340
+
+
+Query= 000369F 000296152:E~000193915:E~000334206:B~000101456:B ctg_linear
+12149 33992
+
+Length=12149
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 56135575746
+
+
+Query= 000370F 000213172:E~000127371:B~000165604:E~000165604:E ctg_linear
+12037 73331
+
+Length=12037
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 55616959522
+
+
+Query= 000371F 000161405:E~000278896:B~000278896:B~000278896:B ctg_linear
+11940 3585
+
+Length=11940
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 55167800828
+
+
+Query= 000372F 000247541:B~000247541:B~000312729:E~000312729:E ctg_linear
+11815 7878
+
+Length=11815
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 54588988078
+
+
+Query= 000373F 000063343:E~000287167:B~000287167:B~000287167:B ctg_linear
+11749 9641
+
+Length=11749
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 54283374946
+
+
+Query= 000374F 000135746:B~000029721:B~000269256:E~000269256:E ctg_linear
+11737 39135
+
+Length=11737
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 54227808922
+
+
+Query= 000375F 000007383:E~000298843:B~000263006:B~000263006:B ctg_linear
+11692 15754
+
+Length=11692
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 54019436332
+
+
+Query= 000376F 000123163:B~000123163:B~000004734:B~000004734:B ctg_linear
+11683 7444
+
+Length=11683
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 53977761814
+
+
+Query= 000377F 000027765:B~000309281:E~000269256:B~000269256:B ctg_linear
+11626 37999
+
+Length=11626
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 53713823200
+
+
+Query= 000378F 000175061:E~000174522:B~000336880:B~000336880:B ctg_linear
+11297 38585
+
+Length=11297
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 52190388042
+
+
+Query= 000379F 000252053:E~000323020:E~000264685:E~000264685:E ctg_linear
+11194 16901
+
+Length=11194
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 51775563681
+
+
+Query= 000380F 000161405:B~000308370:E~000185169:B~000185169:B ctg_linear
+11189 36014
+
+Length=11189
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 51752385436
+
+
+Query= 000381F 000130959:B~000288900:E~000052380:B~000052380:B ctg_linear
+11145 22367
+
+Length=11145
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 51548416880
+
+
+Query= 000382F 000088199:E~000015254:E~000015254:E~000015254:E ctg_linear
+10909 7199
+
+Length=10909
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 50454403716
+
+
+Query= 000383F 000179976:E~000219077:B~000179106:B~000179106:B ctg_linear
+10885 20854
+
+Length=10885
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 50343148140
+
+
+Query= 000384F 000160114:E~000085951:B~000039373:B~000039373:B ctg_linear
+10852 15830
+
+Length=10852
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 50190171723
+
+
+Query= 000385F 000252053:B~000252053:B~000161151:E~000252053:B ctg_linear
+10494 36071
+
+Length=10494
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 48530609381
+
+
+Query= 000386F 000055823:E~000039463:E~000114118:E~000189778:E ctg_linear
+10482 113055
+
+Length=10482
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 48474981593
+
+
+Query= 000387F 000118282:E~000123963:B~000277306:B~000277306:B ctg_linear
+10226 20074
+
+Length=10226
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 47288255449
+
+
+Query= 000388F 000100361:E~000300686:E~000280372:B~000280372:B ctg_linear
+9994 20539
+
+Length=9994
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 46212784881
+
+
+Query= 000389F 000100361:E~000341663:E~000139255:E~000160114:B ctg_linear
+9813 33029
+
+Length=9813
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 45373732412
+
+
+Query= 000390F 000240833:E~000312755:E~000280372:B~000280372:B ctg_linear
+9670 63431
+
+Length=9670
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 44710834605
+
+
+Query= 000391F 000296041:B~000237782:E~000085823:E~000085823:E ctg_linear
+9367 20589
+
+Length=9367
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 43306232958
+
+
+Query= 000392F 000075665:B~000339709:B~000122626:B~000122626:B ctg_linear
+9168 37485
+
+Length=9168
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 42383738807
+
+
+Query= 000393F 000240833:B~000237623:B~000185169:B~000185169:B ctg_linear
+9114 45315
+
+Length=9114
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 42133413761
+
+
+Query= 000394F 000296268:E~000213927:B~000349122:B~000349122:B ctg_linear
+8988 32551
+
+Length=8988
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 41549321987
+
+
+Query= 000395F 000158527:B~000200103:B~000200103:B~000200103:B ctg_linear
+8781 13524
+
+Length=8781
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 40589742644
+
+
+Query= 000396F 000063343:E~000063343:E~000172387:E~000172387:E ctg_linear
+8190 6981
+
+Length=8190
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 37850074085
+
+
+Query= 000397F 000207195:E~000169205:B~000297169:B~000314436:E ctg_linear
+7950 105860
+
+Length=7950
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 36737518325
+
+
+Query= 000398F 000196719:B~000196719:B~000309558:B~000309558:B ctg_linear
+7831 15805
+
+Length=7831
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 36185876094
+
+
+Query= 000399F 000023298:B~000131115:B~000079409:E~000079409:E ctg_linear
+7493 21462
+
+Length=7493
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 34619026732
+
+
+Query= 000400F 000275670:B~000047119:E~000175061:B~000175061:B ctg_linear
+7432 18981
+
+Length=7432
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 34336252143
+
+
+Query= 000401F 000188898:E~000001886:B~000109261:E~000276868:E ctg_linear
+7385 46413
+
+Length=7385
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 34118376640
+
+
+Query= 000402F 000319308:E~000319308:E~000303293:B~000303293:B ctg_linear
+7263 7535
+
+Length=7263
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 33552827462
+
+
+Query= 000403F 000115230:B~000115230:B~000145792:E~000145792:E ctg_linear
+7256 7032
+
+Length=7256
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 33520377919
+
+
+Query= 000404F 000031939:B~000031939:B~000009079:B~000009079:B ctg_linear
+7207 9768
+
+Length=7207
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 33293231118
+
+
+Query= 000405F 000241033:B~000121687:E~000264685:E~000264685:E ctg_linear
+7194 20765
+
+Length=7194
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 33232967681
+
+
+Query= 000406F 000221269:E~000221269:E~000318679:B~000318679:B ctg_linear
+7158 16679
+
+Length=7158
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 33066084317
+
+
+Query= 000407F 000027178:E~000332523:B~000332523:B~000332523:B ctg_linear
+7034 16528
+
+Length=7034
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 32491263841
+
+
+Query= 000408F 000155910:B~000210022:E~000210022:E~000210022:E ctg_linear
+6955 8425
+
+Length=6955
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 32125047570
+
+
+Query= 000409F 000300879:E~000300879:E~000241585:B~000241585:B ctg_linear
+6875 6728
+
+Length=6875
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 31754195650
+
+
+Query= 000410F 000227753:E~000068073:E~000175061:B~000175061:B ctg_linear
+6790 17937
+
+Length=6790
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 31360165485
+
+
+Query= 000411F 000103090:B~000132961:B~000132961:B~000132961:B ctg_linear
+6708 16147
+
+Length=6708
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 30980042267
+
+
+Query= 000412F 000110497:B~000198378:B~000198378:B~000198378:B ctg_linear
+6606 9670
+
+Length=6606
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 30507206069
+
+
+Query= 000413F 000338385:B~000136302:B~000136302:B~000136302:B ctg_linear
+6373 15523
+
+Length=6373
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 29427099852
+
+
+Query= 000414F 000267688:B~000278300:E~000278300:E~000278300:E ctg_linear
+5841 14799
+
+Length=5841
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 26960934584
+
+
+Query= 000415F 000313239:E~000313239:E~000116318:E~000116318:E ctg_linear
+5643 13205
+
+Length=5643
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 26043076082
+
+
+Query= 000416F 000249116:B~000071895:B~000115230:E~000115230:E ctg_linear
+5608 19491
+
+Length=5608
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 25880828367
+
+
+Query= 000417F 000082602:E~000265399:E~000265399:E~000265399:E ctg_linear
+5438 10725
+
+Length=5438
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 25092768037
+
+
+Query= 000418F 000331684:B~000331684:B~000182706:E~000182706:E ctg_linear
+5403 14002
+
+Length=5403
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 24930520322
+
+
+Query= 000419F 000140463:E~000140463:E~000345811:E~000345811:E ctg_linear
+5302 11918
+
+Length=5302
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 24462319773
+
+
+Query= 000420F 000229008:B~000200103:B~000200103:B~000200103:B ctg_linear
+5222 17078
+
+Length=5222
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 24091467853
+
+
+Query= 000421F 000278062:B~000309437:E~000309437:E~000309437:E ctg_linear
+5054 11380
+
+Length=5054
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23312678821
+
+
+Query= 000422F 000055439:B~000049469:B~000049469:B~000049469:B ctg_linear
+4406 14375
+
+Length=4406
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 20335968072
+
+
+Query= 000423F 000276868:B~000246119:E~000043261:B~000043261:B ctg_linear
+4308 16789
+
+Length=4308
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 19881170064
+
+
+Query= 000424F 000053499:E~000053499:E~000076184:B~000076184:B ctg_linear
+4103 8667
+
+Length=4103
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 18929806884
+
+
+Query= 000425F 000336525:B~000039984:B~000039984:B~000039984:B ctg_linear
+4059 11581
+
+Length=4059
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 18725611860
+
+
+Query= 000426F 000210436:B~000088944:B~000088944:B~000088944:B ctg_linear
+4044 13278
+
+Length=4044
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 18655999920
+
+
+Query= 000427F 000254598:E~000297656:B~000337291:B~000337291:B ctg_linear
+3700 40967
+
+Length=3700
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 17059566096
+
+
+Query= 000428F 000335082:E~000205586:E~000205586:E~000205586:E ctg_linear
+3671 13602
+
+Length=3671
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 16924983012
+
+
+Query= 000429F 000176747:E~000290640:E~000304879:B~000304879:B ctg_linear
+3528 38888
+
+Length=3528
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 16261349184
+
+
+Query= 000430F 000302874:E~000243535:E~000053264:B~000053264:B ctg_linear
+3227 27635
+
+Length=3227
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14864469588
+
+
+Query= 000431F 000346803:B~000267688:B~000267688:B~000267688:B ctg_linear
+3202 15143
+
+Length=3202
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14748449688
+
+
+Query= 000432F 000260957:E~000260957:E~000030034:B~000030034:B ctg_linear
+3023 12690
+
+Length=3023
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13917747204
+
+
+Query= 000433F 000109713:B~000324636:E~000063343:E~000063343:E ctg_linear
+2849 20814
+
+Length=2849
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13110248700
+
+
+Query= 000434F 000028297:B~000055823:E~000055823:E~000055823:E ctg_linear
+2844 17962
+
+Length=2844
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13087044720
+
+
+Query= 000435F 000076560:E~000076560:E~000136302:E~000136302:E ctg_linear
+2660 19220
+
+Length=2660
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12233138256
+
+
+Query= 000436F 000109713:B~000109713:B~000307232:B~000307232:B ctg_linear
+2637 10073
+
+Length=2637
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12126399948
+
+
+Query= 000437F 000072162:B~000072162:B~000317589:E~000317589:E ctg_linear
+2401 13656
+
+Length=2401
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11031172092
+
+
+Query= 000438F 000299911:E~000299911:E~000194130:E~000194130:E ctg_linear
+1710 14152
+
+Length=1710
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7837705841
+
+
+Query= 000439F 000205541:E~000062953:B~000062953:B~000062953:B ctg_linear
+926 10178
+
+Length=926
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4195286529
+
+
+Query= 000440F 000123163:B~000123163:B~000109713:B~000109713:B ctg_linear
+668 11454
+
+Length=668
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3004604140
+
+
+Query= 000441F 000332520:E~000332520:E~000112771:B~000112771:B ctg_linear
+407 14838
+
+Length=407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1790669650
+
+
+Query= 000442F 000096432:E~000300105:B~000300105:B~000300105:B ctg_linear
+357 10322
+
+Length=357
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1564495632
+
+
+Query= 000443F 000320510:E~000101420:E~000101420:E~000101420:E ctg_linear
+122 13214
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 475461168
+
+
+Query= 444 000262972:E~000000300:B~000262972:E~000262972:E ctg_circular
+14469 49931
+
+Length=14469
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 66878340386
+
+
+Query= 445 000244281:B~000081073:E~000244281:B~000244281:B ctg_circular
+18221 39910
+
+Length=18221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 84251983890
+
+
+Query= 446 000100515:B~000035010:E~000100515:B~000100515:B ctg_circular
+17563 39662
+
+Length=17563
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 81205113574
+
+
+Query= 447 000155368:E~000170901:E~000155368:E~000155368:E ctg_circular
+25892 29351
+
+Length=25892
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 119772564732
+
+
+Query= 448 000180076:E~000247802:E~000180076:E~000180076:E ctg_circular
+15123 39003
+
+Length=15123
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 69906688694
+
+
+Query= 449 000173118:E~000157645:B~000173118:E~000173118:E ctg_circular
+13426 45402
+
+Length=13426
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 62048726800
+
+
+Query= 450 000251194:B~000338047:E~000251194:B~000251194:B ctg_circular
+19418 29980
+
+Length=19418
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 89794694784
+
+
+Query= 451 000202944:E~000189467:B~000202944:E~000202944:E ctg_circular
+7756 43696
+
+Length=7756
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 35838202419
+
+
+Query= 452 000306158:E~000080287:E~000306158:E~000306158:E ctg_circular
+14392 54382
+
+Length=14392
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 66521791732
+
+
+Query= 453 000088032:B~000155334:E~000088032:B~000088032:B ctg_circular
+27096 24026
+
+Length=27096
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 125203734495
+
+
+Query= 454 000233942:E~000219209:B~000233942:E~000233942:E ctg_circular
+14711 25933
+
+Length=14711
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 67998921870
+
+
+Query= 455 000229549:E~000136814:E~000229549:E~000229549:E ctg_circular
+18519 47955
+
+Length=18519
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 85631873486
+
+
+Query= 457 000164271:B~000141626:B~000164271:B~000164271:B ctg_circular
+11669 25943
+
+Length=11669
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 53912934786
+
+
+Query= 463 000038996:E~000053404:E~000038996:E~000038996:E ctg_circular
+8599 29953
+
+Length=8599
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 39746054526
+
+
+Query= 464 000344793:B~000075928:B~000344793:B~000344793:B ctg_circular
+14426 28741
+
+Length=14426
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 66679228800
+
+
+Query= 465 000001683:E~000098621:E~000001683:E~000001683:E ctg_circular
+30471 74746
+
+Length=30471
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 140814307620
+
+
+Query= 466 000089799:E~000316327:E~000089799:E~000089799:E ctg_circular
+15476 28285
+
+Length=15476
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 71541255900
+
+
+Query= 470 000062401:B~000034418:E~000062401:B~000062401:B ctg_circular
+16118 32524
+
+Length=16118
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 74514038184
+
+
+  Database: pb_359_7.ffn
+    Posted date:  Oct 22, 2016  3:10 PM
+  Number of letters in database: 4,764,324
+  Number of sequences in database:  5,147
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

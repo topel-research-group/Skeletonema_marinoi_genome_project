@@ -1,0 +1,28 @@
+#$ -q Annotation-1
+#$ -cwd
+#$ -pe mpich 40
+#$ -S /bin/bash
+
+#QUERY=TTAGGG.fst
+QUERY=../../01_Assembly/FALCON/RO5A/seed_read_10000/2-asm-falcon/p_ctg.fa
+
+DB2=/nobackup/data5/Skeletonema_marinoi_microbiome_project/04_annotation/pb_359_2/pb_359_2/pb_359_2.ffn
+blastn -task megablast -query $QUERY -db $DB2 -num_threads $NSLOTS -out FALCON_seed_read-10000_to_pb_359_2.BLASTn_megablast.txt
+
+DB3=/nobackup/data5/Skeletonema_marinoi_microbiome_project/04_annotation/pb_359_3/pb_359_3/pb_359_3.ffn
+blastn -task megablast -query $QUERY -db $DB3 -num_threads $NSLOTS -out FALCON_seed_read-10000_to_pb_359_3.BLASTn_megablast.txt
+
+DB4=/nobackup/data5/Skeletonema_marinoi_microbiome_project/04_annotation/pb_359_4/pb_359_4/pb_359_4.ffn
+blastn -task megablast -query $QUERY -db $DB4 -num_threads $NSLOTS -out FALCON_seed_read-10000_to_pb_359_4.BLASTn_megablast.txt
+
+DB5=/nobackup/data5/Skeletonema_marinoi_microbiome_project/04_annotation/pb_359_5/pb_359_5/pb_359_5.ffn
+blastn -task megablast -query $QUERY -db $DB5 -num_threads $NSLOTS -out FALCON_seed_read-10000_to_pb_359_5.BLASTn_megablast.txt
+
+DB6=/nobackup/data5/Skeletonema_marinoi_microbiome_project/04_annotation/pb_359_6/pb_359_6/pb_359_6.ffn
+blastn -task megablast -query $QUERY -db $DB6 -num_threads $NSLOTS -out FALCON_seed_read-10000_to_pb_359_6.BLASTn_megablast.txt
+
+DB7=/nobackup/data5/Skeletonema_marinoi_microbiome_project/04_annotation/pb_359_7/pb_359_7/pb_359_7.ffn
+blastn -task megablast -query $QUERY -db $DB7 -num_threads $NSLOTS -out FALCON_seed_read-10000_to_pb_359_7.BLASTn_megablast.txt
+
+DB8=/nobackup/data5/Skeletonema_marinoi_microbiome_project/04_annotation/pb_359_8/pb_359_8/pb_359_8.ffn
+blastn -task megablast -query $QUERY -db $DB8 -num_threads $NSLOTS -out FALCON_seed_read-10000_to_pb_359_8.BLASTn_megablast.txt
