@@ -1,0 +1,10 @@
+#$ -q high_mem
+#$ -cwd
+#$ -S /bin/bash
+
+module load Jellyfish/v2.2.6
+
+#jellyfish count -t $NSLOTS -C -m 25 -s 60G -o spec1_25mer /proj/data5/data/skeletonema/reads/A.Blomberg_17_16-P8511/01-QC/P8511_101/fastq_trimmed/*.fastq
+
+jellyfish histo -o spec1_25mer.histo spec1_25mer
+
