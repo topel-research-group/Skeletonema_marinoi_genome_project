@@ -1,0 +1,27 @@
+Parameters:
+QualTrim: 0
+QualFilter: no filtering
+HardClip: 0
+Min length: 40
+Sample freq: 1
+PE Mode: 1
+Quality scaling: 2
+MinGC: 0
+MaxGC: 1
+Outfile: stdout
+Orphan file: none
+Discarding sequences with ambiguous bases
+Seed: 1516774817
+Processing pe files /proj/data5/data/skeletonema/reads/A.Blomberg_17_16-P8511/01-QC/P8511_101/fastq_trimmed/P8511_1_10M.fastq, /proj/data5/data/skeletonema/reads/A.Blomberg_17_16-P8511/01-QC/P8511_101/fastq_trimmed/P8511_2_10M.fastq
+
+Preprocess stats:
+Reads parsed:	20000000
+Reads kept:	19722154 (0.986108)
+Reads failed primer screen:	0 (0)
+Bases parsed:	2871249728
+Bases kept:	2845842845 (0.991151)
+Number of incorrectly paired reads that were discarded: 0
+[timer - sga preprocess] wall clock: 131.98s CPU: 69.73s
+[timer - sga index] wall clock: 289.78s CPU: 1411.35s
+Loading FM-index of Sm_A.Blomberg_17_16-P8511.preprocessed.fastq
+[timer - sga::preqc] wall clock: 3318.94s CPU: 38278.53s
