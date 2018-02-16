@@ -13,5 +13,6 @@ Number of models | Unknown funktion | %  |
 89		 | 67		    | 75 |
 115		 | 86		    | 74 |
 195		 | 149		    | 76 |
+508		 | 667		    | 76 |
 
 
