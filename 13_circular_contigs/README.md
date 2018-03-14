@@ -3,7 +3,7 @@ Contigs with a short name in the Falcon assembly are labelled as 'ctg_circular'.
 According to the Falcon forums, these short name contigs "may be true circular chromosomes,
 [or] may be repetitive regions that form a complex graph."
 
-# BLASTn of v1.1.1 to itself in ../02_Blast/Ref_v1.1.1_to_Ref_v1.1.1/
+* BLASTn of v1.1.1 to itself in ../02_Blast/Ref_v1.1.1_to_Ref_v1.1.1/
 * BLASTn of only the contigs of interest to v1.1.1 in ../02_Blast/circular_contigs/
 
 # Contigs to investigate
@@ -18,7 +18,7 @@ According to the Falcon forums, these short name contigs "may be true circular c
 |--------|--------|--------------------------------------------------------------------------------|-----------|
 |  377   | 30,449 | Dispersed matches to 000134F. Viral sequence? First part hits gag-pol          | Possible  | 
 |        |        | polyprotein (P. tricornutum), second part hits diatom hypo/bacterial chitinase | repeat    |
-|        |        | This part mainly hypothetical diatom proteins                                  |           |
+|        |        | Third part mainly hypothetical diatom proteins                                 |           |
 |--------|--------|--------------------------------------------------------------------------------|-----------|
 |  378   | 27,596 | The first half of this sequence is a very good BLAST match to the second half  | Artefact? |
 |        |        | 1-13788 vs. 13789-27596; 13657/13867 (98.5%) identity, 138 (1.0%) gaps         |           |
