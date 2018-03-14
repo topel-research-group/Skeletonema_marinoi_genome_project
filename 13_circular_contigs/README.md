@@ -32,8 +32,8 @@ According to the Falcon forums, these short name contigs "may be true circular c
 |  381   | 15,452 | The first half of this sequence is a very good BLAST match to the second half  | Artefact? |
 |        |        | 1-7715 vs. 7716-15452; 7657/7764 (98.6%) identity, 76 (1.0%) gaps              |           |
 |--------|--------|--------------------------------------------------------------------------------|-----------|
-|  382   | 13,701 | ?????
-|        |        |
+|  382   | 13,701 | ?????                                                                          | ?????     |
+|        |        |                                                                                |           |
 |--------|--------|--------------------------------------------------------------------------------|-----------|
 |  383   | 15,138 | ?????                                                                          | ?????     |
 |        |        | Apparently similarity to hypo. protein THAOC_19937 in T. oceanica              |           |
@@ -47,8 +47,8 @@ According to the Falcon forums, these short name contigs "may be true circular c
 |  389   | 14,640 | V. strong hit to 000049F (full length)                                         | Repeat    |
 |        |        |                                                                                |           |
 |--------|--------|--------------------------------------------------------------------------------|-----------|
-|  391   | 27,681 | ?????
-|        |        |
+|  391   | 27,681 | ?????                                                 Some large stretches of  | Artefact? |
+|        |        | this sequence match well to other stretches of the contig; possible artefact?  | ?????     |
 |--------|--------|--------------------------------------------------------------------------------|-----------|
 |  392   | 18,478 | V. strong hit to 000112F (full length)                                         | Repeat    |
 |        |        | Note: This sequence only hits itself once in the BLAST, which is unusual       |           |
