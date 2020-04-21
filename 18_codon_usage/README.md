@@ -1,5 +1,5 @@
 # Introduction
-Calculating the codan usage fromf the CDS sequences of Primary and Associated contigs
+Calculating the codan usage fromf the CDS sequences of Primary contigs
 
 # Commands
 First, extracting the CDS sequences.
