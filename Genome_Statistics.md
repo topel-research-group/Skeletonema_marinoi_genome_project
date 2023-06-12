@@ -19,12 +19,21 @@
 * Associated - **5,418**
   * No manual curation has been performed, so multiple models still remain at each locus
   * 69 of the associated models have no BLAST hits to the primary models
+* Chloroplast - **141**
+* Mitochondrion - **39**
 
 # Statistics for the _Skeletonema marinoi_ strain R05AC genome version 1.1.2
 
 This version has had many contigs removed which were either:
 * Formed entirely of repeats
 * Suspected of being an incorrectly-labelled associated contig
+
+This version has also undergone some name changes:
+* Contig names are now prefixed with 'Sm_'
+* The plastid genome has been renamed to 'Sm_plastid'
+  * The plastid genes have been renamed with the prefix 'Sm_plastid_'
+* The mitochondrial genome has been renamed to 'Sm_mitochondrion'
+  * The mitochondrial genes have been renamed with the prefix 'Sm_mito_'
 
 ## Genome size
 * Initial estimate - **~55 Mb**
@@ -38,5 +47,5 @@ This version has had many contigs removed which were either:
 * Primary - **81**
 * Organelles - **2** (mitochondrion + plastid)
 
-## Gene models
+## Gene models (UPDATE!)
 * Primary - **17,203**
